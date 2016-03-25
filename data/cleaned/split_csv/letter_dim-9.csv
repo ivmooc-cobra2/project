@@ -1,6 +1,6 @@
-id_letter_dim,letter_pg_title,letter_text,letter_note
+id_letter_dim,letter_pg_title,letter_text,letter_note,[missing column header],entry
 NULL,1,1,Let's Talk About the Hulk
-1,6,let's visit the X-Men,
+1,6,let's visit the X-Men,,The person's surname was spelled in the original document as 'Phiillips' however we believed this to be a misspelling and so corrected it to 'Phillips'.
 NULL,1,2,Spider's Web
 NULL,1,1624,Fantastic Four Fan Page
 NULL,1,554,Let\'s Talk About the Hulk
@@ -25,7 +25,7 @@ NULL,1,67,Spider's Web
 1,19,let's visit the X-Men,
 1,20,let's visit the X-Men,
 1,21,let's visit the X-Men,
-1,22,let's visit the X-Men,
+1,22,let's visit the X-Men,,Written from the US Embassy in Thailand.
 1,23,let's visit the X-Men,
 1,24,let's visit the X-Men,
 1,25,let's visit the X-Men,
@@ -38,7 +38,7 @@ NULL,1,367,Spider\'s Web
 1,56,let's visit the X-Men,
 NULL,1,614,Spider\'s Web
 NULL,1,686,Spider\'s Web
-Personal Collection,NULL,1,3708
+Personal Collection,NULL,1,3708,All About the Avengers
 1,30,let's visit the X-Men,
 1,31,let's visit the X-Men,
 1,32,let's visit the X-Men,
@@ -81,7 +81,7 @@ NULL,1,59,Spider's Web
 NULL,1,60,Spider's Web
 NULL,1,61,Spider's Web
 NULL,1,97,Spider's Web
-Personal Collection,NULL,1,3562
+Personal Collection,NULL,1,3562,All About the Avengers
 NULL,1,62,Spider's Web
 NULL,1,63,Spider's Web
 1,64,Spider's Web,
@@ -100,7 +100,7 @@ NULL,1,71,Spider's Web
 NULL,1,1644,Fantastic Four Fan Page
 NULL,1,72,Spider's Web
 NULL,1,158,Spider's Web
-Personal Collection,NULL,1,2481
+Personal Collection,NULL,1,2481,Let\'s Rap with Cap
 NULL,1,74,Spider's Web
 NULL,1,75,Spider's Web
 NULL,1,88,Spider's Web
@@ -117,7 +117,7 @@ NULL,1,80,Spider's Web
 NULL,1,82,Spider's Web
 NULL,1,83,Spider's Web
 NULL,1,84,Spider's Web
-Personal Collection,NULL,1,3742
+Personal Collection,NULL,1,3742,All About the Avengers
 NULL,1,85,Spider's Web
 NULL,1,86,Spider's Web
 NULL,1,87,Spider's Web
@@ -180,7 +180,7 @@ NULL,1,127,Spider's Web
 NULL,1,129,Spider's Web
 NULL,1,160,Spider's Web
 NULL,1,199,Spider\'s Web
-Personal Collection,NULL,1,3780
+Personal Collection,NULL,1,3780,All About the Avengers
 NULL,1,130,Spider's Web
 NULL,1,131,Spider's Web
 NULL,1,450,
@@ -192,12 +192,12 @@ NULL,1,135,Spider's Web
 NULL,1,136,Spider's Web
 NULL,1,137,Spider's Web
 1,139,let's visit the X-Men,
-Personal Collection,NULL,1,3701
+Personal Collection,NULL,1,3701,All About the Avengers
 1,140,let's visit the X-Men,
 1,141,let's visit the X-Men,
-1,148,let's visit the X-Men,
-Personal Collection,NULL,1,3560
-Personal Collection,NULL,1,3580
+1,148,let's visit the X-Men,,"The address in this issue is given as 400 Centre St., however in a previous issue the address was given as 400 Ward St. The Ward St. address appears to be correct as 400 Centre St. appears to be a business district."
+Personal Collection,NULL,1,3560,All About the Avengers
+Personal Collection,NULL,1,3580,All About the Avengers,Also wrote letters to Fantastic Four.
 1,142,let's visit the X-Men,
 1,284,let\'s visit the X-Men,
 1,640,Mutant Mail-Box,
@@ -215,7 +215,7 @@ NULL,1,1606,Fantastic Four Fan Page
 NULL,1,766,Spider\'s Web
 1,152,let's visit the X-Men,
 NULL,1,1648,Fantastic Four Fan Page
-Personal Collection,NULL,1,3717
+Personal Collection,NULL,1,3717,All About the Avengers
 1,153,let's visit the X-Men,
 NULL,1,446,
 NULL,1,697,Spider\'s Web
@@ -227,16 +227,16 @@ NULL,1,157,Spider's Web
 NULL,1,159,Spider's Web
 NULL,1,161,Spider's Web
 1,250,let\'s visit the X-Men,
-Personal Collection,NULL,1,3593
+Personal Collection,NULL,1,3593,All About the Avengers
 NULL,1,162,Spider's Web
 NULL,1,164,Spider's Web
 NULL,1,165,Spider's Web
 NULL,1,167,Spider's Web
 NULL,1,169,Spider's Web
-Personal Collection,NULL,1,2156
-Personal Collection,NULL,1,2162
-Personal Collection,NULL,1,2179
-Personal Collection,NULL,1,2243
+Personal Collection,NULL,1,2156,Let\'s Yap with Cap
+Personal Collection,NULL,1,2162,Let\'s Yap with Cap
+Personal Collection,NULL,1,2179,Let\'s Yap with Cap
+Personal Collection,NULL,1,2243,Let\'s Yap with Cap
 NULL,1,170,Spider's Web
 NULL,1,171,Spider's Web
 NULL,1,172,Spider's Web
@@ -244,7 +244,7 @@ NULL,1,173,Spider's Web
 NULL,1,174,Spider's Web
 NULL,1,175,Spider's Web
 NULL,1,176,Spider's Web
-Personal Collection,NULL,1,3677
+Personal Collection,NULL,1,3677,All About the Avengers
 NULL,1,177,Spider's Web
 NULL,1,178,Spider's Web
 NULL,1,179,Spider's Web
@@ -274,11 +274,11 @@ NULL,1,205,Spider\'s Web
 1,206,Let's Visit the X-Men,
 1,207,Let's Visit the X-Men,
 1,208,Let's Visit the X-Men,
-Personal Collection,NULL,1,3882
+Personal Collection,NULL,1,3882,Avengers Assemble
 1,209,Let's Visit the X-Men,
 1,210,Let's Visit the X-Men,
 1,211,Let's Visit the X-Men,
-Personal Collection,NULL,1,3712
+Personal Collection,NULL,1,3712,All About the Avengers
 1,212,Let's Visit the X-Men,
 1,213,Let's Visit the X-Men,
 1,745,Mutant Mail-Box,
@@ -292,7 +292,7 @@ Personal Collection,NULL,1,3712
 1,221,Let's Visit the X-Men,
 1,222,Let's Visit the X-Men,
 1,223,Let's Visit the X-Men,
-Personal Collection,NULL,1,3700
+Personal Collection,NULL,1,3700,All About the Avengers
 1,224,Let's Visit the X-Men,
 1,225,Let's Visit the X-Men,
 NULL,1,226,Spider\'s Web
@@ -315,7 +315,7 @@ NULL,1,240,Spider\'s Web
 NULL,1,246,Spider\'s Web
 NULL,1,375,Spider\'s Web
 NULL,1,3176,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3585
+Personal Collection,NULL,1,3585,All About the Avengers
 NULL,1,241,Spider\'s Web
 NULL,1,2196,Fantastic Four Fan Page
 NULL,1,242,Spider\'s Web
@@ -324,10 +324,10 @@ NULL,1,244,Spider\'s Web
 NULL,1,245,Spider's Web
 NULL,1,247,Spider\'s Web
 1,248,let\'s visit the X-Men,
-Personal Collection,NULL,1,3721
+Personal Collection,NULL,1,3721,All About the Avengers
 1,249,let\'s visit the X-Men,
 1,251,let\'s visit the X-Men,
-Personal Collection,NULL,1,3806
+Personal Collection,NULL,1,3806,All About the Avengers
 1,252,let\'s visit the X-Men,
 1,253,let\'s visit the X-Men,
 NULL,1,885,Spider\'s Web
@@ -353,9 +353,9 @@ NULL,1,885,Spider\'s Web
 1,853,Mutant Mail-Box,
 NULL,1,2717,Fantastic Four Fan Page
 NULL,1,2937,Green Skin Grab-Bag
-Personal Collection,NULL,1,3758
-Personal Collection,NULL,1,3764
-Personal Collection,NULL,1,3770
+Personal Collection,NULL,1,3758,All About the Avengers
+Personal Collection,NULL,1,3764,All About the Avengers
+Personal Collection,NULL,1,3770,All About the Avengers
 1,271,let\'s visit the X-Men,
 1,272,let\'s visit the X-Men,
 1,273,let\'s visit the X-Men,
@@ -378,7 +378,7 @@ NULL,1,966,Spider\'s Web
 1,288,let\'s visit the X-Men,
 NULL,1,322,Spider\'s Web
 1,289,let\'s visit the X-Men,
-Personal Collection,NULL,1,3693
+Personal Collection,NULL,1,3693,All About the Avengers
 1,290,let\'s visit the X-Men,
 1,291,let\'s visit the X-Men,
 1,293,let\'s visit the X-Men,
@@ -413,7 +413,7 @@ NULL,1,323,Spider\'s Web
 NULL,1,324,Spider\'s Web
 NULL,1,325,Spider\'s Web
 NULL,1,326,Spider\'s Web
-Personal Collection,NULL,1,3778
+Personal Collection,NULL,1,3778,All About the Avengers
 NULL,1,328,Spider\'s Web
 NULL,1,331,
 NULL,1,333,
@@ -466,7 +466,7 @@ NULL,1,386,Spider\'s Web
 NULL,1,387,Spider\'s Web
 NULL,1,388,Spider\'s Web
 NULL,1,390,Spider\'s Web
-Personal Collection,NULL,1,3685
+Personal Collection,NULL,1,3685,All About the Avengers
 NULL,1,391,Spider\'s Web
 NULL,1,392,Spider\'s Web
 NULL,1,393,Spider\'s Web
@@ -475,7 +475,7 @@ NULL,1,395,Spider\'s Web
 NULL,1,396,
 NULL,1,397,
 NULL,1,761,Spider\'s Web
-Personal Collection,NULL,1,3994
+Personal Collection,NULL,1,3994,Avengers Assemble
 NULL,1,398,Spider\'s Web
 NULL,1,399,
 NULL,1,400,Spider\'s Web
@@ -503,7 +503,7 @@ NULL,1,423,
 NULL,1,424,
 NULL,1,425,
 NULL,1,426,
-Personal Collection,NULL,1,3727
+Personal Collection,NULL,1,3727,All About the Avengers
 NULL,1,427,
 NULL,1,428,
 NULL,1,429,
@@ -515,7 +515,7 @@ NULL,1,433,
 NULL,1,435,
 NULL,1,436,
 NULL,1,437,
-Personal Collection,NULL,1,3650
+Personal Collection,NULL,1,3650,All About the Avengers
 NULL,1,438,
 NULL,1,677,Spider\'s Web
 NULL,1,439,
@@ -527,9 +527,9 @@ NULL,1,443,
 NULL,1,748,Spider\'s Web
 NULL,1,444,
 NULL,1,445,
-Personal Collection,NULL,1,3718
+Personal Collection,NULL,1,3718,All About the Avengers
 NULL,1,447,
-Personal Collection,NULL,1,3691
+Personal Collection,NULL,1,3691,All About the Avengers,Province = Ontario
 NULL,1,448,
 NULL,1,449,
 NULL,1,451,
@@ -570,11 +570,11 @@ NULL,1,1375,Spider\'s Web
 NULL,1,482,
 NULL,1,483,
 NULL,1,484,
-Personal Collection,NULL,1,3817
+Personal Collection,NULL,1,3817,All About the Avengers
 NULL,1,485,
 1,583,let\'s visit the X-Men,
 NULL,1,486,
-Personal Collection,NULL,1,3987
+Personal Collection,NULL,1,3987,Avengers Assemble
 NULL,1,487,
 NULL,1,488,
 NULL,1,489,
@@ -599,7 +599,7 @@ NULL,1,3220,Green Skin\'s Grab-Bag
 NULL,1,507,
 NULL,1,508,
 NULL,1,509,
-Personal Collection,NULL,1,3763
+Personal Collection,NULL,1,3763,All About the Avengers
 NULL,1,510,
 NULL,1,511,
 NULL,1,512,
@@ -610,7 +610,7 @@ NULL,1,516,
 NULL,1,517,
 NULL,1,518,
 NULL,1,519,Spider\'s Web
-Personal Collection,NULL,1,3740
+Personal Collection,NULL,1,3740,All About the Avengers,No street address
 NULL,1,520,Spider\'s Web
 NULL,1,521,Spider\'s Web
 NULL,1,522,Spider\'s Web
@@ -632,7 +632,7 @@ NULL,1,3117,Green Skin\'s Grab-Bag
 NULL,1,532,
 NULL,1,533,
 NULL,1,534,
-Personal Collection,NULL,1,3852
+Personal Collection,NULL,1,3852,All About the Avengers
 NULL,1,535,
 NULL,1,536,
 NULL,1,537,
@@ -646,7 +646,7 @@ NULL,1,544,
 NULL,1,545,
 NULL,1,1269,Spider\'s Web
 NULL,1,546,Spider\'s Web
-Personal Collection,NULL,1,3663
+Personal Collection,NULL,1,3663,All About the Avengers
 NULL,1,547,Spider\'s Web
 NULL,1,548,Spider\'s Web
 NULL,1,549,Spider\'s Web
@@ -668,7 +668,7 @@ NULL,1,1177,Fantastic Four Fan Page
 NULL,1,1594,Fantastic Four Fan Page
 NULL,1,3332,Green Skin\'s Grab-Bag
 1,565,let\'s visit the X-Men,
-NULL,1,567,Let\'s Talk About the Hulk
+NULL,1,567,Let\'s Talk About the Hulk,"State only listed as O., now sure what state this is."
 NULL,1,566,Mails of Suspense
 NULL,1,569,Let\'s Talk About the Hulk
 NULL,1,570,Mails of Suspense
@@ -697,7 +697,10 @@ NULL,1,595,Mails to Astonish
 NULL,1,596,Let\'s Talk About the Hulk
 NULL,1,597,Mails to Astonish
 NULL,1,598,Let\'s Talk About the Hulk
-1,600,let\'s visit the X-Men,
+1,600,let\'s visit the X-Men,,"Person was writing from Germany, but looks like he was the son of a soldier as the rest of the address contained the following:
+c/o Col. Wm. A. Trippet
+Hq. USAFE DCS/O (OOS)
+APO, New York, NY 09633"
 NULL,1,1973,Fantastic Four Fan Page
 NULL,1,599,Let\'s Talk About the Hulk
 NULL,1,602,Mails to Astonish
@@ -709,7 +712,7 @@ NULL,1,2893,Fantastic Four Fan Page
 1,605,let\'s visit the X-Men,
 NULL,1,606,Mails to Astonish
 NULL,1,607,Mails to Astonish
-Personal Collection,NULL,1,3715
+Personal Collection,NULL,1,3715,All About the Avengers
 NULL,1,608,Mails to Astonish
 1,609,let\'s visit the X-Men,
 1,610,let\'s visit the X-Men,
@@ -723,7 +726,7 @@ NULL,1,617,Spider\'s Web
 NULL,1,619,Spider\'s Web
 NULL,1,620,Spider\'s Web
 NULL,1,621,Spider\'s Web
-Personal Collection,NULL,1,3651
+Personal Collection,NULL,1,3651,All About the Avengers
 NULL,1,622,Spider\'s Web
 NULL,1,623,Spider\'s Web
 NULL,1,625,Spider\'s Web
@@ -763,7 +766,7 @@ NULL,1903,3253,The Hyborian Page
 1,660,Mutant Mail-Box,
 1,661,Mutant Mail-Box,
 1,662,Mutant Mail-Box,
-Personal Collection,NULL,1,3869
+Personal Collection,NULL,1,3869,All About the Avengers
 1,663,Mutant Mail-Box,
 1,664,Mutant Mail-Box,
 1,665,Mutant Mail-Box,
@@ -790,10 +793,10 @@ NULL,1,692,Spider\'s Web
 NULL,1,693,Spider\'s Web
 NULL,1,694,Spider\'s Web
 NULL,1,695,Spider\'s Web
-Personal Collection,NULL,1,3750
+Personal Collection,NULL,1,3750,All About the Avengers
 NULL,1,696,Spider\'s Web
 NULL,1,698,Spider\'s Web
-Personal Collection,NULL,1,3601
+Personal Collection,NULL,1,3601,All About the Avengers,Writer may be the same John Hudson who contributed art to English fanzines in the 1960s.
 NULL,1,699,Spider\'s Web
 NULL,1,700,Spider\'s Web
 NULL,1,701,Spider\'s Web
@@ -805,7 +808,7 @@ NULL,1,701,Spider\'s Web
 1,707,Mutant Mail-Box,
 1,708,Mutant Mail-Box,
 1,709,Mutant Mail-Box,
-Personal Collection,NULL,1,3878
+Personal Collection,NULL,1,3878,All About the Avengers
 1,710,Mutant Mail-Box,
 1,711,Mutant Mail-Box,
 1,712,Mutant Mail-Box,
@@ -818,7 +821,7 @@ NULL,1,2799,Fantastic Four Fan Page
 1,718,Mutant Mail-Box,
 1,719,Mutant Mail-Box,
 1,720,Mutant Mail-Box,
-Personal Collection,NULL,1,3809
+Personal Collection,NULL,1,3809,All About the Avengers
 1,721,Mutant Mail-Box,
 1,722,Mutant Mail-Box,
 1,723,Mutant Mail-Box,
@@ -826,7 +829,7 @@ Personal Collection,NULL,1,3809
 1,725,Mutant Mail-Box,
 1,726,Mutant Mail-Box,
 1,727,Mutant Mail-Box,
-Personal Collection,NULL,1,3866
+Personal Collection,NULL,1,3866,Marvel Bullpen Bulletin,"Letter is quoted in Stan��s Soapbox. It proposes MMMS club ranks, much like a similar/same letter that appears in Fantastic 4."
 NULL,1,728,Spider\'s Web
 NULL,1,729,Spider\'s Web
 NULL,1,730,Spider\'s Web
@@ -852,15 +855,15 @@ NULL,1,746,Spider\'s Web
 1,751,Mutant Mail-Box,
 NULL,1,752,Spider\'s Web
 1,753,Mutant Mail-Box,
-Personal Collection,NULL,1,2023
+Personal Collection,NULL,1,2023,Let\'s Yap with Cap
 NULL,1,3152,Green Skin\'s Grab-Bag
 NULL,1,754,Spider\'s Web
 1,755,Mutant Mail-Box,
 NULL,1,1262,Spider\'s Web
 NULL,1,1385,Spider\'s Web
-Personal Collection,NULL,1,2155
-Personal Collection,NULL,1,2157
-Personal Collection,NULL,1,2164
+Personal Collection,NULL,1,2155,Let\'s Yap with Cap
+Personal Collection,NULL,1,2157,Let\'s Yap with Cap
+Personal Collection,NULL,1,2164,Let\'s Yap with Cap
 NULL,1,2362,Spider\'s Web
 NULL,1,756,Spider\'s Web
 NULL,1,1069,Spider\'s Web
@@ -892,7 +895,7 @@ NULL,1,1309,Spider\'s Web
 1,783,Mutant Mail-Box,
 NULL,1,784,Spider\'s Web
 NULL,1,1091,Spider\'s Web
-Personal Collection,NULL,1,3711
+Personal Collection,NULL,1,3711,All About the Avengers
 NULL,1,785,Spider\'s Web
 NULL,1,786,Spider\'s Web
 NULL,1,788,Spider\'s Web
@@ -910,7 +913,7 @@ NULL,1,793,Spider\'s Web
 NULL,1,1156,Spider\'s Web
 1,801,Mutant Mail-Box,
 1,802,Mutant Mail-Box,
-Personal Collection,NULL,1,2338
+Personal Collection,NULL,1,2338,Let\'s Rap with Cap
 1,803,Mutant Mail-Box,
 1,804,Mutant Mail-Box,
 1,806,Mutant Mail-Box,
@@ -921,7 +924,7 @@ NULL,1903,3272,The Hyborian Page
 1,809,Mutant Mail-Box,
 1,810,Mutant Mail-Box,
 1,811,Mutant Mail-Box,
-Personal Collection,NULL,1,2050
+Personal Collection,NULL,1,2050,Let\'s Yap with Cap
 1,812,Mutant Mail-Box,
 1,814,Mutant Mail-Box,
 1,815,Mutant Mail-Box,
@@ -970,7 +973,7 @@ NULL,1,837,Spider\'s Web
 1,857,Mutant Mail-Box,
 1,858,Mutant Mail-Box,
 1,924,Mutant Mail-Box,
-Personal Collection,NULL,1,2430
+Personal Collection,NULL,1,2430,Let\'s Rap with Cap
 NULL,1,3474,Green Skin\'s Grab-Bag
 1,859,Mutant Mail-Box,
 1,860,Mutant Mail-Box,
@@ -980,7 +983,7 @@ NULL,1,3474,Green Skin\'s Grab-Bag
 1,865,Mutant Mail-Box,
 1,866,Mutant Mail-Box,
 1,867,Mutant Mail-Box,
-1,868,Mutant Mail-Box,
+1,868,Mutant Mail-Box,,"Person as the same name as another letter author, however, the address is completely different, so this may be the same person and they moved, or a different person with the same name."
 1,870,Mutant Mail-Box,
 1,871,Mutant Mail-Box,
 1,872,Mutant Mail-Box,
@@ -997,7 +1000,7 @@ NULL,1,882,Spider\'s Web
 NULL,1,883,Spider\'s Web
 NULL,1,884,Spider\'s Web
 NULL,1,886,Spider\'s Web
-Personal Collection,NULL,1,3680
+Personal Collection,NULL,1,3680,All About the Avengers,Writer signs with M.M.M.S. #2013
 NULL,1,887,Spider\'s Web
 NULL,1,888,Spider\'s Web
 NULL,1,3311,Green Skin\'s Grab-Bag
@@ -1015,7 +1018,7 @@ NULL,1,895,Spider\'s Web
 1,899,Mutant Mail-Box,
 1,900,Mutant Mail-Box,
 1,901,Mutant Mail-Box,
-1,902,Mutant Mail-Box,
+1,902,Mutant Mail-Box,,Letter is from "Rich Matros and fellow Kree Fraternity Members"
 1,903,Mutant Mail-Box,
 1,904,Mutant Mail-Box,
 1,905,Mutant Mail-Box,
@@ -1032,12 +1035,12 @@ NULL,1,1448,Spider\'s Web
 1,915,Mutant Mail-Box,
 1,916,Mutant Mail-Box,
 1,917,Mutant Mail-Box,
-Personal Collection,NULL,1,2345
+Personal Collection,NULL,1,2345,Let\'s Rap with Cap
 1,918,Mutant Mail-Box,
 1,919,Mutant Mail-Box,
 1,920,Mutant Mail-Box,
-Personal Collection,NULL,1,2265
-Personal Collection,NULL,1,2291
+Personal Collection,NULL,1,2265,Let\'s Rap with Cap
+Personal Collection,NULL,1,2291,Let\'s Rap with Cap
 1,921,Mutant Mail-Box,
 1,922,Mutant Mail-Box,
 1,923,Mutant Mail-Box,
@@ -1048,9 +1051,9 @@ Personal Collection,NULL,1,2291
 1,929,Mutant Mail-Box,
 NULL,1,1352,Spider\'s Web
 NULL,1,1389,Spider\'s Web
-Personal Collection,NULL,1,2277
+Personal Collection,NULL,1,2277,Let\'s Rap with Cap
 NULL,1,3126,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3892
+Personal Collection,NULL,1,3892,Avengers Assemble
 1,930,Mutant Mail-Box,
 1,932,Mutant Mail-Box,
 1,933,Mutant Mail-Box,
@@ -1061,7 +1064,7 @@ Personal Collection,NULL,1,3892
 1,939,Mutant Mail-Box,
 1,940,Mutant Mail-Box,
 1,941,Mutant Mail-Box,
-Personal Collection,NULL,1,2168
+Personal Collection,NULL,1,2168,Let\'s Yap with Cap
 1,942,Mutant Mail-Box,
 1,943,Mutant Mail-Box,
 1,944,Mutant Mail-Box,
@@ -1079,7 +1082,7 @@ NULL,1,955,Spider\'s Web
 NULL,1,956,Spider\'s Web
 NULL,1,957,Spider\'s Web
 NULL,1,958,Spider\'s Web
-Personal Collection,NULL,1,3647
+Personal Collection,NULL,1,3647,All About the Avengers
 NULL,1,959,Spider\'s Web
 NULL,1,960,Spider\'s Web
 NULL,1,961,Spider\'s Web
@@ -1093,7 +1096,7 @@ NULL,1,970,Spider\'s Web
 NULL,1,971,Spider\'s Web
 NULL,1,972,Spider\'s Web
 NULL,1,1321,Spider\'s Web
-Personal Collection,NULL,1,3679
+Personal Collection,NULL,1,3679,All About the Avengers
 NULL,1,973,Spider\'s Web
 NULL,1,974,Spider\'s Web
 NULL,1,975,Spider\'s Web
@@ -1131,20 +1134,20 @@ NULL,1,998,Spider\'s Web
 1,1004,Mutant Mail-Box,
 1,1005,Mutant Mail-Box,
 1,1006,Mutant Mail-Box,
-Personal Collection,NULL,1,2431
+Personal Collection,NULL,1,2431,Let\'s Rap with Cap
 1,1007,Mutant Mail-Box,
 1,1008,Mutant Mail-Box,
 1,1009,Mutant Mail-Box,
 NULL,1,1303,Spider\'s Web
 NULL,1,1405,Spider\'s Web
-Personal Collection,NULL,1,2255
-Personal Collection,NULL,1,2475
+Personal Collection,NULL,1,2255,Let\'s Yap with Cap
+Personal Collection,NULL,1,2475,Let\'s Rap with Cap
 1,1010,Mutant Mail-Box,
 1,1011,Mutant Mail-Box,
 1,1012,Mutant Mail-Box,
 1,1013,Mutant Mail-Box,
 NULL,1,1396,Spider\'s Web
-Personal Collection,NULL,1,2258
+Personal Collection,NULL,1,2258,Let\'s Yap with Cap,"The letter in the issue has the street as "Bleecher" however, this writer has written twice before and the street on both occasions was "Bleecker", so I just used the previously used name."
 1,1014,Mutant Mail-Box,
 1,1015,Mutant Mail-Box,
 1,1016,Mutant Mail-Box,
@@ -1155,8 +1158,8 @@ Personal Collection,NULL,1,2258
 1,1022,Mutant Mail-Box,
 1,1023,Mutant Mail-Box,
 1,1024,Mutant Mail-Box,
-Personal Collection,NULL,1,2348
-1,1025,Mutant Mail-Box,
+Personal Collection,NULL,1,2348,Let\'s Rap with Cap
+1,1025,Mutant Mail-Box,,"The state was misspelled in the comic. Instead of Iowa, it was Lowa. I corrected it to IA, for Iowa."
 1,1026,Mutant Mail-Box,
 1,1027,Mutant Mail-Box,
 1,1028,Mutant Mail-Box,
@@ -1219,7 +1222,7 @@ NULL,1,1081,Spider\'s Web
 NULL,1,1082,Spider\'s Web
 NULL,1,1083,Spider\'s Web
 NULL,1,1159,Spider\'s Web
-Personal Collection,NULL,1,2158
+Personal Collection,NULL,1,2158,Let\'s Yap with Cap
 NULL,1,1084,Spider\'s Web
 NULL,1,1085,Spider\'s Web
 NULL,1,1086,Spider\'s Web
@@ -1254,14 +1257,14 @@ NULL,1,1116,Spider\'s Web
 NULL,1,1117,Spider\'s Web
 NULL,1,1118,Spider\'s Web
 NULL,1,1119,Spider\'s Web
-Personal Collection,NULL,1,3888
-Personal Collection,NULL,1,3907
+Personal Collection,NULL,1,3888,Avengers Assemble
+Personal Collection,NULL,1,3907,Avengers Assemble,"Writer signs with two M.M.M.S. numbers: 13965, 25160"
 NULL,1,1120,Spider\'s Web
 NULL,1,1121,Spider\'s Web
 NULL,1,1122,Spider\'s Web
 NULL,1,1123,Spider\'s Web
 NULL,1,1124,Spider\'s Web
-Personal Collection,NULL,1,3881
+Personal Collection,NULL,1,3881,Marvel Bullpen Bulletin,"Letter quote in Bulletin, re: complaint about too much Marvel merchandise. Writer lists rank: PFC."
 NULL,1,1125,Spider\'s Web
 NULL,1,1126,Spider\'s Web
 NULL,1,1127,Spider\'s Web
@@ -1277,7 +1280,7 @@ NULL,1,1136,Spider\'s Web
 NULL,1,1137,Spider\'s Web
 NULL,1,1290,Spider\'s Web
 NULL,1,1761,Spider\'s Web
-Personal Collection,NULL,1,2341
+Personal Collection,NULL,1,2341,Let\'s Rap with Cap
 NULL,1,1138,Spider\'s Web
 NULL,1,1139,Spider\'s Web
 NULL,1,1140,Spider\'s Web
@@ -1290,7 +1293,7 @@ NULL,1,1146,Spider\'s Web
 NULL,1,1147,Spider\'s Web
 NULL,1,1148,Spider\'s Web
 NULL,1,1149,Spider\'s Web
-Personal Collection,NULL,1,3895
+Personal Collection,NULL,1,3895,Marvel Bullpen Bulletin,Letter is quoted in Stan��s Soapbox responding to idea to add ranks to MMMS.
 NULL,1,1150,Spider\'s Web
 NULL,1,1151,Spider\'s Web
 NULL,1,1152,Spider\'s Web
@@ -1320,7 +1323,7 @@ NULL,1,1229,Fantastic Four Fan Page
 NULL,1,1726,Fantastic Four Fan Page
 NULL,1,1169,Fantastic Four Fan Page
 NULL,1,1170,Fantastic Four Fan Page
-NULL,1903,2212,The Hyborian Page
+NULL,1903,2212,The Hyborian Page,No street address
 NULL,1,1172,Fantastic Four Fan Page
 NULL,1,1173,Fantastic Four Fan Page
 NULL,1,1174,
@@ -1415,7 +1418,7 @@ NULL,1,1265,Spider\'s Web
 NULL,1,1266,Spider\'s Web
 NULL,1,1267,Spider\'s Web
 NULL,1,1268,Spider\'s Web
-Personal Collection,NULL,1,2064
+Personal Collection,NULL,1,2064,Let\'s Yap with Cap
 NULL,1,1270,Spider\'s Web
 NULL,1,1271,Spider\'s Web
 NULL,1,1272,Spider\'s Web
@@ -1496,7 +1499,7 @@ NULL,1,1346,Spider\'s Web
 NULL,1,434,
 NULL,1,1347,Spider\'s Web
 NULL,1,1348,Spider\'s Web
-Personal Collection,NULL,1,2262
+Personal Collection,NULL,1,2262,Let\'s Yap with Cap
 NULL,1,1349,Spider\'s Web
 NULL,1,1350,Spider\'s Web
 NULL,1,1351,Spider\'s Web
@@ -1514,8 +1517,8 @@ NULL,1,1362,Spider\'s Web
 NULL,1,1363,Spider\'s Web
 NULL,1,1364,Spider\'s Web
 NULL,1,1365,Spider\'s Web
-Personal Collection,NULL,1,2349
-Personal Collection,NULL,1,2467
+Personal Collection,NULL,1,2349,Let\'s Rap with Cap
+Personal Collection,NULL,1,2467,Let\'s Rap with Cap
 NULL,1,1366,Spider\'s Web
 NULL,1,1368,Spider\'s Web
 NULL,1,1369,Spider\'s Web
@@ -1530,14 +1533,14 @@ NULL,1,1379,Spider\'s Web
 NULL,1,3482,Green Skin\'s Grab-Bag
 NULL,1,1380,Spider\'s Web
 NULL,1,1381,Spider\'s Web
-Personal Collection,NULL,1,2500
-Personal Collection,NULL,1,2959
+Personal Collection,NULL,1,2500,Let\'s Rap with Cap
+Personal Collection,NULL,1,2959,Let\'s Rap with Cap
 NULL,1,1382,Spider\'s Web
 NULL,1,1383,Spider\'s Web
 NULL,1,1384,Spider\'s Web
 NULL,1,1386,Spider\'s Web
 NULL,1,1438,Spider\'s Web
-Personal Collection,NULL,1,2444
+Personal Collection,NULL,1,2444,Let\'s Rap with Cap
 NULL,1903,3441,The Hyborian Page
 NULL,1,1387,Spider\'s Web
 NULL,1,1388,Spider\'s Web
@@ -1548,7 +1551,7 @@ NULL,1,1392,Spider\'s Web
 NULL,1,1393,Spider\'s Web
 NULL,1,1394,Spider\'s Web
 NULL,1,1395,Spider\'s Web
-Personal Collection,NULL,1,2230
+Personal Collection,NULL,1,2230,Let\'s Yap with Cap
 NULL,1,1397,Spider\'s Web
 NULL,1,1398,Spider\'s Web
 NULL,1,1399,Spider\'s Web
@@ -1598,7 +1601,7 @@ NULL,1,1442,Spider\'s Web
 NULL,1,1443,Spider\'s Web
 NULL,1,1486,Spider\'s Web
 NULL,1,1444,Spider\'s Web
-Personal Collection,NULL,1,3796
+Personal Collection,NULL,1,3796,All About the Avengers,Frequent letter writer.
 NULL,1,1445,Spider\'s Web
 NULL,1,1446,Spider\'s Web
 NULL,1,1447,Spider\'s Web
@@ -1647,7 +1650,7 @@ NULL,1,1747,Spider\'s Web
 NULL,1,1489,Spider\'s Web
 NULL,1,1490,Spider\'s Web
 NULL,1,1491,Spider\'s Web
-Personal Collection,NULL,1,2958
+Personal Collection,NULL,1,2958,Let\'s Rap with Cap
 NULL,1,1492,Spider\'s Web
 NULL,1,1494,Spider\'s Web
 NULL,1,1496,Fantastic Four Fan Page
@@ -1747,8 +1750,8 @@ NULL,1,1607,Fantastic Four Fan Page
 NULL,1,1608,Fantastic Four Fan Page
 NULL,1,1609,Fantastic Four Fan Page
 NULL,1,1610,Fantastic Four Fan Page
-Personal Collection,NULL,1,2148
-Personal Collection,NULL,1,3893
+Personal Collection,NULL,1,2148,Let\'s Yap with Cap
+Personal Collection,NULL,1,3893,Avengers Assemble
 NULL,1,1612,Fantastic Four Fan Page
 NULL,1,1613,Fantastic Four Fan Page
 NULL,1,1615,Fantastic Four Fan Page
@@ -1772,7 +1775,7 @@ NULL,1,1634,Fantastic Four Fan Page
 NULL,1,1635,Fantastic Four Fan Page
 NULL,1,1636,Fantastic Four Fan Page
 NULL,1,1637,Fantastic Four Fan Page
-Personal Collection,NULL,1,2428
+Personal Collection,NULL,1,2428,Let\'s Rap with Cap
 NULL,1,1638,Fantastic Four Fan Page
 NULL,1,1639,Fantastic Four Fan Page
 NULL,1,1640,Fantastic Four Fan Page
@@ -1802,7 +1805,7 @@ NULL,1,1671,Fantastic Four Fan Page
 NULL,1,1894,Fantastic Four Fan Page
 NULL,1,1672,Fantastic Four Fan Page
 NULL,1,1674,Fantastic Four Fan Page
-Personal Collection,NULL,1,3579
+Personal Collection,NULL,1,3579,All About the Avengers
 NULL,1,1676,Fantastic Four Fan Page
 NULL,1,1677,Fantastic Four Fan Page
 NULL,1,1678,Fantastic Four Fan Page
@@ -1858,9 +1861,9 @@ NULL,1903,3438,The Hyborian Page
 NULL,1,1743,Spider\'s Web
 NULL,1,1746,Spider\'s Web
 NULL,1,1748,Spider\'s Web
-Personal Collection,NULL,1,1749
-Personal Collection,NULL,1,1750
-Personal Collection,NULL,1,1751
+Personal Collection,NULL,1,1749,Let's Yap with Cap
+Personal Collection,NULL,1,1750,Let\'s Yap with Cap
+Personal Collection,NULL,1,1751,Let\'s Yap with Cap
 NULL,1,1752,Spider\'s Web
 NULL,1,1753,Spider\'s Web
 NULL,1,1756,Spider\'s Web
@@ -1898,14 +1901,14 @@ NULL,1,1789,Spider\'s Web
 NULL,1,1790,Spider\'s Web
 NULL,1,1791,Spider\'s Web
 NULL,1,1801,Spider\'s Web
-Personal Collection,NULL,1,2154
+Personal Collection,NULL,1,2154,Let\'s Yap with Cap
 NULL,1,1792,Spider\'s Web
 NULL,1,1805,Spider\'s Web
 NULL,1,1793,Spider\'s Web
 NULL,1,1794,Spider\'s Web
 NULL,1,1795,Spider\'s Web
 NULL,1,1796,Spider\'s Web
-Personal Collection,NULL,1,2339
+Personal Collection,NULL,1,2339,Let\'s Rap with Cap
 NULL,1,1797,Spider\'s Web
 NULL,1,3030,Fantastic Four Fan Page
 NULL,1,3496,Green Skin\'s Grab-Bag
@@ -1982,7 +1985,7 @@ NULL,1,1875,Fantastic Four Fan Page
 NULL,1,1876,Fantastic Four Fan Page
 NULL,1,1877,Fantastic Four Fan Page
 NULL,1,1878,Fantastic Four Fan Page
-Personal Collection,NULL,1,3774
+Personal Collection,NULL,1,3774,All About the Avengers
 NULL,1,1879,Fantastic Four Fan Page
 NULL,1,1880,Fantastic Four Fan Page
 NULL,1,1881,Fantastic Four Fan Page
@@ -2008,7 +2011,7 @@ NULL,1,1907,Fantastic Four Fan Page
 NULL,1,1908,Fantastic Four Fan Page
 NULL,1,1909,Fantastic Four Fan Page
 NULL,1,1910,Fantastic Four Fan Page
-Personal Collection,NULL,1,3576
+Personal Collection,NULL,1,3576,All About the Avengers
 NULL,1,1911,Fantastic Four Fan Page
 NULL,1,1912,Fantastic Four Fan Page
 NULL,1,1914,Fantastic Four Fan Page
@@ -2054,12 +2057,12 @@ NULL,1,1959,Fantastic Four Fan Page
 NULL,1,1960,Fantastic Four Fan Page
 NULL,1,1961,Fantastic Four Fan Page
 NULL,1,1962,Fantastic Four Fan Page
-Personal Collection,NULL,1,3615
+Personal Collection,NULL,1,3615,All About the Avengers,Novelist and editor.
 NULL,1,1963,Fantastic Four Fan Page
 NULL,1,1964,Fantastic Four Fan Page
 NULL,1,1966,Fantastic Four Fan Page
 NULL,1,1967,Fantastic Four Fan Page
-Personal Collection,NULL,1,3657
+Personal Collection,NULL,1,3657,All About the Avengers
 NULL,1,1968,Spider\'s Web
 NULL,1,1969,Fantastic Four Fan Page
 NULL,1,1970,Fantastic Four Fan Page
@@ -2068,8 +2071,8 @@ NULL,1,1974,Fantastic Four Fan Page
 NULL,1,1975,Fantastic Four Fan Page
 NULL,1,1979,Fantastic Four Fan Page
 NULL,1,1982,Fantastic Four Fan Page
-Personal Collection,NULL,1,3583
-Personal Collection,NULL,1,3584
+Personal Collection,NULL,1,3583,All About the Avengers
+Personal Collection,NULL,1,3584,All About the Avengers,Province = Alberta
 NULL,1,1983,Fantastic Four Fan Page
 NULL,1,1984,Spider\'s Web
 NULL,1,1985,Fantastic Four Fan Page
@@ -2098,21 +2101,21 @@ NULL,1,2012,Fantastic Four Fan Page
 NULL,1,2013,Fantastic Four Fan Page
 NULL,1,2014,Fantastic Four Fan Page
 NULL,1,2015,Fantastic Four Fan Page
-Personal Collection,NULL,1,2016
-Personal Collection,NULL,1,2160
-Personal Collection,NULL,1,3590
-Personal Collection,NULL,1,2017
-Personal Collection,NULL,1,2018
-Personal Collection,NULL,1,2019
-Personal Collection,NULL,1,2020
-Personal Collection,NULL,1,2021
-Personal Collection,NULL,1,2022
-Personal Collection,NULL,1,2024
-Personal Collection,NULL,1,2025
-Personal Collection,NULL,1,2026
-Personal Collection,NULL,1,2027
-Personal Collection,NULL,1,2028
-Personal Collection,NULL,1,2029
+Personal Collection,NULL,1,2016,Let\'s Yap with Cap
+Personal Collection,NULL,1,2160,Let\'s Yap with Cap
+Personal Collection,NULL,1,3590,All About the Avengers
+Personal Collection,NULL,1,2017,Let\'s Yap with Cap
+Personal Collection,NULL,1,2018,Let\'s Yap with Cap
+Personal Collection,NULL,1,2019,Let\'s Yap with Cap
+Personal Collection,NULL,1,2020,Let\'s Yap with Cap
+Personal Collection,NULL,1,2021,Let\'s Yap with Cap
+Personal Collection,NULL,1,2022,Let\'s Yap with Cap
+Personal Collection,NULL,1,2024,Let\'s Yap with Cap
+Personal Collection,NULL,1,2025,Let\'s Yap with Cap
+Personal Collection,NULL,1,2026,Let\'s Yap with Cap
+Personal Collection,NULL,1,2027,Let\'s Yap with Cap
+Personal Collection,NULL,1,2028,Let\'s Yap with Cap
+Personal Collection,NULL,1,2029,Let\'s Yap with Cap
 NULL,1,2030,Spider\'s Web
 NULL,1,2031,Spider\'s Web
 NULL,1,2032,Spider\'s Web
@@ -2124,32 +2127,32 @@ NULL,1,2037,Spider\'s Web
 NULL,1,2038,Spider\'s Web
 NULL,1,2039,Spider\'s Web
 NULL,1,2041,Spider\'s Web
-Personal Collection,NULL,1,2040
+Personal Collection,NULL,1,2040,Let\'s Yap with Cap
 NULL,1,2042,Spider\'s Web
 NULL,1,2043,Spider\'s Web
-Personal Collection,NULL,1,2044
-Personal Collection,NULL,1,2045
-Personal Collection,NULL,1,2046
-Personal Collection,NULL,1,2163
-Personal Collection,NULL,1,2047
+Personal Collection,NULL,1,2044,Let\'s Yap with Cap
+Personal Collection,NULL,1,2045,Let\'s Yap with Cap
+Personal Collection,NULL,1,2046,Let\'s Yap with Cap
+Personal Collection,NULL,1,2163,Let\'s Yap with Cap
+Personal Collection,NULL,1,2047,Let\'s Yap with Cap
 NULL,1,3108,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2048
-Personal Collection,NULL,1,2049
-Personal Collection,NULL,1,2177
-Personal Collection,NULL,1,2051
+Personal Collection,NULL,1,2048,Let\'s Yap with Cap
+Personal Collection,NULL,1,2049,Let\'s Yap with Cap
+Personal Collection,NULL,1,2177,Let\'s Yap with Cap
+Personal Collection,NULL,1,2051,Let\'s Yap with Cap
 NULL,1,2052,Spider\'s Web
 NULL,1,2067,Spider\'s Web
 NULL,1,2053,Spider\'s Web
 NULL,1903,3965,The Hyborian Page
 NULL,1,2054,Spider\'s Web
-Personal Collection,NULL,1,2056
+Personal Collection,NULL,1,2056,Let\'s Yap with Cap
 NULL,1,2945,Green Skin's Grab-Bag
 NULL,1,2057,Spider\'s Web
-Personal Collection,NULL,1,2058
+Personal Collection,NULL,1,2058,Let\'s Yap with Cap
 NULL,1,2059,Spider\'s Web
-Personal Collection,NULL,1,2060
+Personal Collection,NULL,1,2060,Let\'s Yap with Cap
 NULL,1,2061,Spider\'s Web
-Personal Collection,NULL,1,2062
+Personal Collection,NULL,1,2062,Let\'s Yap with Cap
 NULL,1,2063,Spider\'s Web
 NULL,1,2065,Spider\'s Web
 NULL,1,2066,Spider\'s Web
@@ -2162,7 +2165,7 @@ NULL,1,2072,Fantastic Four Fan Page
 NULL,1,2073,Fantastic Four Fan Page
 NULL,1,2075,Fantastic Four Fan Page
 NULL,1,2076,Fantastic Four Fan Page
-Personal Collection,NULL,1,3706
+Personal Collection,NULL,1,3706,All About the Avengers
 NULL,1,2078,Fantastic Four Fan Page
 NULL,1,2079,Fantastic Four Fan Page
 NULL,1,2080,Fantastic Four Fan Page
@@ -2174,7 +2177,7 @@ NULL,1,2085,Fantastic Four Fan Page
 NULL,1,2086,Fantastic Four Fan Page
 NULL,1,2087,Fantastic Four Fan Page
 NULL,1,2088,Fantastic Four Fan Page
-Personal Collection,NULL,1,2263
+Personal Collection,NULL,1,2263,Let\'s Yap with Cap
 NULL,1,2089,Fantastic Four Fan Page
 NULL,1,2090,Fantastic Four Fan Page
 NULL,1,2091,Fantastic Four Fan Page
@@ -2183,7 +2186,7 @@ NULL,1,2095,Fantastic Four Fan Page
 NULL,1,2097,Fantastic Four Fan Page
 NULL,1,2099,Fantastic Four Fan Page
 NULL,1,2101,Fantastic Four Fan Page
-Personal Collection,NULL,1,3692
+Personal Collection,NULL,1,3692,All About the Avengers
 NULL,1,2102,Fantastic Four Fan Page
 NULL,1,2103,Fantastic Four Fan Page
 NULL,1,2105,Fantastic Four Fan Page
@@ -2217,42 +2220,42 @@ NULL,1,2144,Spider\'s Web
 NULL,1,2145,Spider\'s Web
 NULL,1,2146,Spider\'s Web
 NULL,1,2147,Spider\'s Web
-Personal Collection,NULL,1,2149
-Personal Collection,NULL,1,2150
-Personal Collection,NULL,1,2151
-Personal Collection,NULL,1,2172
+Personal Collection,NULL,1,2149,Let\'s Yap with Cap
+Personal Collection,NULL,1,2150,Let\'s Yap with Cap
+Personal Collection,NULL,1,2151,Let\'s Yap with Cap
+Personal Collection,NULL,1,2172,Let\'s Yap with Cap
 NULL,1,3106,Green Skin\'s Grab-Bag
 NULL,1,3144,Green Skin\'s Grab-Bag
 NULL,1,3149,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2152
-Personal Collection,NULL,1,2153
-Personal Collection,NULL,1,2159
-Personal Collection,NULL,1,2161
-Personal Collection,NULL,1,2165
-Personal Collection,NULL,1,2166
-Personal Collection,NULL,1,2167
-Personal Collection,NULL,1,2169
-Personal Collection,NULL,1,2170
-Personal Collection,NULL,1,2171
-Personal Collection,NULL,1,2173
-Personal Collection,NULL,1,2174
-Personal Collection,NULL,1,2175
+Personal Collection,NULL,1,2152,Let\'s Yap with Cap
+Personal Collection,NULL,1,2153,Let\'s Yap with Cap
+Personal Collection,NULL,1,2159,Let\'s Yap with Cap
+Personal Collection,NULL,1,2161,Let\'s Yap with Cap
+Personal Collection,NULL,1,2165,Let\'s Yap with Cap
+Personal Collection,NULL,1,2166,Let\'s Yap with Cap
+Personal Collection,NULL,1,2167,Let\'s Yap with Cap
+Personal Collection,NULL,1,2169,Let\'s Yap with Cap
+Personal Collection,NULL,1,2170,Let\'s Yap with Cap
+Personal Collection,NULL,1,2171,Let\'s Yap with Cap
+Personal Collection,NULL,1,2173,Let\'s Yap with Cap
+Personal Collection,NULL,1,2174,Let\'s Yap with Cap
+Personal Collection,NULL,1,2175,Let\'s Yap with Cap
 NULL,1903,3292,The Hyborian Page
-Personal Collection,NULL,1,3807
+Personal Collection,NULL,1,3807,All About the Avengers
 NULL,1903,3921,The Hyborian Page
-Personal Collection,NULL,1,2176
-Personal Collection,NULL,1,2178
-Personal Collection,NULL,1,2180
+Personal Collection,NULL,1,2176,Let\'s Yap with Cap
+Personal Collection,NULL,1,2178,Let\'s Yap with Cap
+Personal Collection,NULL,1,2180,Let\'s Yap with Cap
 NULL,1,3211,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2181
-Personal Collection,NULL,1,2182
-Personal Collection,NULL,1,2183
-Personal Collection,NULL,1,2184
+Personal Collection,NULL,1,2181,Let\'s Yap with Cap
+Personal Collection,NULL,1,2182,Let\'s Yap with Cap
+Personal Collection,NULL,1,2183,Let\'s Yap with Cap
+Personal Collection,NULL,1,2184,Let\'s Yap with Cap
 NULL,1,2185,Fantastic Four Fan Page
 NULL,1,2186,Fantastic Four Fan Page
 NULL,1,2188,Fantastic Four Fan Page
-Personal Collection,NULL,1,3667
-Personal Collection,NULL,1,3738
+Personal Collection,NULL,1,3667,All About the Avengers
+Personal Collection,NULL,1,3738,All About the Avengers
 NULL,1,2189,Fantastic Four Fan Page
 NULL,1,2190,Fantastic Four Fan Page
 NULL,1,2192,Fantastic Four Fan Page
@@ -2266,7 +2269,7 @@ NULL,1,2204,Fantastic Four Fan Page
 NULL,1,2205,Fantastic Four Fan Page
 NULL,1,2206,Fantastic Four Fan Page
 NULL,1,2208,Fantastic Four Fan Page
-Personal Collection,NULL,1,3775
+Personal Collection,NULL,1,3775,All About the Avengers
 1903,2211,Strange Mails,
 NULL,1903,2213,The Hyborian Page
 NULL,1903,2215,The Hyborian Page
@@ -2284,8 +2287,8 @@ NULL,1,2227,Spider\'s Web
 NULL,1,2235,Spider\'s Web
 NULL,1,2228,Spider\'s Web
 NULL,1,2229,Spider\'s Web
-Personal Collection,NULL,1,2231
-Personal Collection,NULL,1,2337
+Personal Collection,NULL,1,2231,Let\'s Yap with Cap
+Personal Collection,NULL,1,2337,Let\'s Rap with Cap
 NULL,1,2232,Spider\'s Web
 NULL,1,2233,Spider\'s Web
 NULL,1,2234,Spider\'s Web
@@ -2303,45 +2306,45 @@ NULL,1,2247,Spider\'s Web
 NULL,1,2248,Spider\'s Web
 NULL,1,2249,Spider\'s Web
 NULL,1,2250,Spider\'s Web
-Personal Collection,NULL,1,2251
-Personal Collection,NULL,1,2252
-Personal Collection,NULL,1,2253
-Personal Collection,NULL,1,2254
+Personal Collection,NULL,1,2251,Let\'s Yap with Cap
+Personal Collection,NULL,1,2252,Let\'s Yap with Cap
+Personal Collection,NULL,1,2253,Let\'s Yap with Cap
+Personal Collection,NULL,1,2254,Let\'s Yap with Cap
 NULL,1,3145,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2256
-Personal Collection,NULL,1,2257
-Personal Collection,NULL,1,2259
-Personal Collection,NULL,1,2260
-Personal Collection,NULL,1,2261
-Personal Collection,NULL,1,2264
-Personal Collection,NULL,1,2266
-Personal Collection,NULL,1,2267
-Personal Collection,NULL,1,2268
-Personal Collection,NULL,1,2269
-Personal Collection,NULL,1,2270
-Personal Collection,NULL,1,2271
-Personal Collection,NULL,1,2272
-Personal Collection,NULL,1,2273
-Personal Collection,NULL,1,2274
-Personal Collection,NULL,1,2275
-Personal Collection,NULL,1,2434
-Personal Collection,NULL,1,2276
-Personal Collection,NULL,1,2278
+Personal Collection,NULL,1,2256,Let\'s Yap with Cap
+Personal Collection,NULL,1,2257,Let\'s Yap with Cap
+Personal Collection,NULL,1,2259,Let\'s Yap with Cap
+Personal Collection,NULL,1,2260,Let\'s Yap with Cap
+Personal Collection,NULL,1,2261,Let\'s Yap with Cap
+Personal Collection,NULL,1,2264,Let's Rap with Cap
+Personal Collection,NULL,1,2266,Let\'s Rap with Cap
+Personal Collection,NULL,1,2267,Let\'s Rap with Cap
+Personal Collection,NULL,1,2268,Let\'s Rap with Cap
+Personal Collection,NULL,1,2269,Let\'s Rap with Cap
+Personal Collection,NULL,1,2270,Let\'s Rap with Cap
+Personal Collection,NULL,1,2271,Let\'s Rap with Cap
+Personal Collection,NULL,1,2272,Let\'s Rap with Cap
+Personal Collection,NULL,1,2273,Let\'s Rap with Cap
+Personal Collection,NULL,1,2274,Let\'s Rap with Cap
+Personal Collection,NULL,1,2275,Let\'s Rap with Cap
+Personal Collection,NULL,1,2434,Let\'s Rap with Cap
+Personal Collection,NULL,1,2276,Let\'s Rap with Cap
+Personal Collection,NULL,1,2278,Let\'s Rap with Cap
 NULL,1,3146,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2279
+Personal Collection,NULL,1,2279,Let\'s Rap with Cap
 NULL,1,2280,Spider\'s Web
 NULL,1,2281,Spider\'s Web
 NULL,1,2282,Spider\'s Web
-Personal Collection,NULL,1,2283
+Personal Collection,NULL,1,2283,Let\'s Rap with Cap
 NULL,1,2284,Spider\'s Web
-Personal Collection,NULL,1,2285
+Personal Collection,NULL,1,2285,Let\'s Rap with Cap
 NULL,1,2286,Spider\'s Web
 NULL,1,2287,Spider\'s Web
 NULL,1,2288,Spider\'s Web
-Personal Collection,NULL,1,2289
+Personal Collection,NULL,1,2289,Let\'s Rap with Cap
 NULL,1,2290,Spider\'s Web
 NULL,1,2292,Spider\'s Web
-Personal Collection,NULL,1,2293
+Personal Collection,NULL,1,2293,Let\'s Rap with Cap
 NULL,1,3166,Green Skin\'s Grab-Bag
 NULL,1,2294,Spider\'s Web
 NULL,1,2295,Spider\'s Web
@@ -2373,18 +2376,18 @@ NULL,1,2323,Fantastic Four Fan Page
 NULL,1,2324,Fantastic Four Fan Page
 NULL,1,2325,Fantastic Four Fan Page
 NULL,1,2326,Fantastic Four Fan Page
-Personal Collection,NULL,1,3661
+Personal Collection,NULL,1,3661,All About the Avengers
 NULL,1,2332,Fantastic Four Fan Page
 NULL,1,2333,Fantastic Four Fan Page
 NULL,1,2334,Fantastic Four Fan Page
 NULL,1,2336,Fantastic Four Fan Page
-Personal Collection,NULL,1,2340
-Personal Collection,NULL,1,2342
-Personal Collection,NULL,1,2343
-Personal Collection,NULL,1,2344
-Personal Collection,NULL,1,2346
-Personal Collection,NULL,1,2347
-Personal Collection,NULL,1,2350
+Personal Collection,NULL,1,2340,Let\'s Rap with Cap
+Personal Collection,NULL,1,2342,Let\'s Rap with Cap
+Personal Collection,NULL,1,2343,Let\'s Rap with Cap
+Personal Collection,NULL,1,2344,Let\'s Rap with Cap
+Personal Collection,NULL,1,2346,Let\'s Rap with Cap
+Personal Collection,NULL,1,2347,Let\'s Rap with Cap
+Personal Collection,NULL,1,2350,Let\'s Rap with Cap
 NULL,1,2351,Spider\'s Web
 NULL,1,2410,Spider\'s Web
 NULL,1,2352,Spider\'s Web
@@ -2453,30 +2456,30 @@ NULL,1,2413,Spider\'s Web
 NULL,1,2414,Spider\'s Web
 NULL,1,2417,Spider\'s Web
 NULL,1,2418,Spider\'s Web
-Personal Collection,NULL,1,2419
-Personal Collection,NULL,1,2420
-Personal Collection,NULL,1,2421
-Personal Collection,NULL,1,2422
-Personal Collection,NULL,1,2423
-Personal Collection,NULL,1,2424
-Personal Collection,NULL,1,2425
-Personal Collection,NULL,1,2426
-Personal Collection,NULL,1,2427
-Personal Collection,NULL,1,2429
-Personal Collection,NULL,1,2432
-Personal Collection,NULL,1,2623
+Personal Collection,NULL,1,2419,Let\'s Rap with Cap
+Personal Collection,NULL,1,2420,Let\'s Rap with Cap
+Personal Collection,NULL,1,2421,Let\'s Rap with Cap
+Personal Collection,NULL,1,2422,Let\'s Rap with Cap
+Personal Collection,NULL,1,2423,Let\'s Rap with Cap
+Personal Collection,NULL,1,2424,Let\'s Rap with Cap
+Personal Collection,NULL,1,2425,Let\'s Rap with Cap
+Personal Collection,NULL,1,2426,Let\'s Rap with Cap
+Personal Collection,NULL,1,2427,Let\'s Rap with Cap
+Personal Collection,NULL,1,2429,Let\'s Rap with Cap
+Personal Collection,NULL,1,2432,Let\'s Rap with Cap
+Personal Collection,NULL,1,2623,Let\'s Rap with Cap
 NULL,1,3300,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2433
+Personal Collection,NULL,1,2433,Let\'s Rap with Cap
 NULL,1,3222,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,2435
-Personal Collection,NULL,1,2436
-Personal Collection,NULL,1,2437
-Personal Collection,NULL,1,2438
-Personal Collection,NULL,1,2439
-Personal Collection,NULL,1,2440
+Personal Collection,NULL,1,2435,Let\'s Rap with Cap
+Personal Collection,NULL,1,2436,Let\'s Rap with Cap
+Personal Collection,NULL,1,2437,Let\'s Rap with Cap
+Personal Collection,NULL,1,2438,Let\'s Rap with Cap
+Personal Collection,NULL,1,2439,Let\'s Rap with Cap
+Personal Collection,NULL,1,2440,Let\'s Rap with Cap
 NULL,1,2441,Spider\'s Web
 NULL,1,2442,Spider\'s Web
-Personal Collection,NULL,1,2443
+Personal Collection,NULL,1,2443,Let\'s Rap with Cap
 NULL,1,2445,Spider\'s Web
 NULL,1,2446,Spider\'s Web
 NULL,1,2448,Spider\'s Web
@@ -2485,24 +2488,24 @@ NULL,1,2520,Spider\'s Web
 NULL,1,2450,Spider\'s Web
 NULL,1,2452,Spider\'s Web
 NULL,1,2451,Spider\'s Web
-Personal Collection,NULL,1,2455
+Personal Collection,NULL,1,2455,Let's Rap with Cap,Name was spelled Ian in the letter in this issue. In a previous record the name was spelled Iain. I went ahead and spelled it as it was spelled in this issue. May need to see which spelling is correct.
 NULL,1,2456,Spider\'s Web
 NULL,1,2457,Spider\'s Web
 NULL,1,2459,Spider\'s Web
-Personal Collection,NULL,1,2458
-Personal Collection,NULL,1,2460
+Personal Collection,NULL,1,2458,Let\'s Rap with Cap
+Personal Collection,NULL,1,2460,Let\'s Rap with Cap
 NULL,1,2461,Spider\'s Web
 NULL,1,2463,Spider\'s Web
 NULL,1,2464,Spider\'s Web
-Personal Collection,NULL,1,2465
+Personal Collection,NULL,1,2465,Let\'s Rap with Cap
 NULL,1,2466,Spider\'s Web
 NULL,1,2468,Spider\'s Web
 NULL,1,2486,Spider\'s Web
-Personal Collection,NULL,1,2469
+Personal Collection,NULL,1,2469,Let\'s Rap with Cap
 NULL,1,2470,Spider\'s Web
 NULL,1,2471,Spider\'s Web
-Personal Collection,NULL,1,2472
-Personal Collection,NULL,1,2473
+Personal Collection,NULL,1,2472,Let\'s Rap with Cap
+Personal Collection,NULL,1,2473,Let\'s Rap with Cap
 NULL,1,2474,Spider\'s Web
 NULL,1,2476,Spider\'s Web
 NULL,1,2478,Spider\'s Web
@@ -2512,22 +2515,22 @@ NULL,1,2482,Spider\'s Web
 NULL,1,2483,Spider\'s Web
 NULL,1,2484,Spider\'s Web
 NULL,1,2485,Spider\'s Web
-Personal Collection,NULL,1,2487
+Personal Collection,NULL,1,2487,Let\'s Rap with Cap
 NULL,1,2488,Spider\'s Web
-Personal Collection,NULL,1,2490
+Personal Collection,NULL,1,2490,Let\'s Rap with Cap
 NULL,1,3489,Green Skin\'s Grab-Bag
 NULL,1,2489,Spider\'s Web
-Personal Collection,NULL,1,2491
+Personal Collection,NULL,1,2491,Let\'s Rap with Cap
 NULL,1,2492,Spider\'s Web
 NULL,1,2493,Spider\'s Web
-Personal Collection,NULL,1,2496
+Personal Collection,NULL,1,2496,Let\'s Rap with Cap
 NULL,1,2495,Spider\'s Web
-Personal Collection,NULL,1,2498
+Personal Collection,NULL,1,2498,Let\'s Rap with Cap
 NULL,1,2497,Spider\'s Web
 NULL,1,2499,Spider\'s Web
 NULL,1,2506,Spider\'s Web
 NULL,1,2501,Spider\'s Web
-Personal Collection,NULL,1,2502
+Personal Collection,NULL,1,2502,Let\'s Rap with Cap
 NULL,1,2503,Spider\'s Web
 NULL,1,2504,Spider\'s Web
 NULL,1,2505,Spider\'s Web
@@ -2601,7 +2604,7 @@ NULL,1,2583,Fantastic Four Fan Page
 NULL,1,2584,Fantastic Four Fan Page
 NULL,1,2586,Fantastic Four Fan Page
 NULL,1,2588,Fantastic Four Fan Page
-Personal Collection,NULL,1,2621
+Personal Collection,NULL,1,2621,Let\'s Rap with Cap
 NULL,1,2589,Fantastic Four Fan Page
 NULL,1,2590,Fantastic Four Fan Page
 NULL,1,2591,Fantastic Four Fan Page
@@ -2622,18 +2625,18 @@ NULL,1,2608,Fantastic Four Fan Page
 NULL,1,2609,Fantastic Four Fan Page
 NULL,1,2610,Fantastic Four Fan Page
 NULL,1,2612,Fantastic Four Fan Page
-Personal Collection,NULL,1,3832
+Personal Collection,NULL,1,3832,All About the Avengers
 NULL,1,2613,Fantastic Four Fan Page
 NULL,1,2614,Fantastic Four Fan Page
 NULL,1,2615,Fantastic Four Fan Page
 NULL,1,2616,Fantastic Four Fan Page
 NULL,1,2617,Fantastic Four Fan Page
 NULL,1,2618,Fantastic Four Fan Page
-Personal Collection,NULL,1,2620
-Personal Collection,NULL,1,2622
-Personal Collection,NULL,1,2624
-Personal Collection,NULL,1,2625
-Personal Collection,NULL,1,2626
+Personal Collection,NULL,1,2620,Let\'s Rap with Cap
+Personal Collection,NULL,1,2622,Let\'s Rap with Cap
+Personal Collection,NULL,1,2624,Let\'s Rap with Cap
+Personal Collection,NULL,1,2625,Let\'s Rap with Cap
+Personal Collection,NULL,1,2626,Let\'s Rap with Cap
 NULL,1,2627,Fantastic Four Fan Page
 NULL,1,2628,Fantastic Four Fan Page
 NULL,1,2629,Fantastic Four Fan Page
@@ -2675,7 +2678,7 @@ NULL,1,2672,Fantastic Four Fan Page
 NULL,1,2674,Fantastic Four Fan Page
 NULL,1,2675,Fantastic Four Fan Page
 NULL,1,2676,Fantastic Four Fan Page
-Personal Collection,NULL,1,3826
+Personal Collection,NULL,1,3826,All About the Avengers
 NULL,1,2677,Fantastic Four Fan Page
 NULL,1,2678,Fantastic Four Fan Page
 NULL,1,2681,Fantastic Four Fan Page
@@ -2767,7 +2770,7 @@ NULL,1,3124,Green Skin\'s Grab-Bag
 NULL,1,2793,Fantastic Four Fan Page
 NULL,1,2794,Fantastic Four Fan Page
 NULL,1,2796,Fantastic Four Fan Page
-Personal Collection,NULL,1,3821
+Personal Collection,NULL,1,3821,All About the Avengers,Address includes ���Alameda Naval Air Station.��
 NULL,1,2797,Fantastic Four Fan Page
 NULL,1,2798,Fantastic Four Fan Page
 NULL,1,2803,Fantastic Four Fan Page
@@ -2796,7 +2799,7 @@ NULL,1,2829,Fantastic Four Fan Page
 NULL,1,2831,Fantastic Four Fan Page
 NULL,1,2832,Fantastic Four Fan Page
 NULL,1,2833,Fantastic Four Fan Page
-Personal Collection,NULL,1,3713
+Personal Collection,NULL,1,3713,All About the Avengers,No street address
 NULL,1,2834,Fantastic Four Fan Page
 NULL,1,2835,Fantastic Four Fan Page
 NULL,1,2836,Fantastic Four Fan Page
@@ -2863,7 +2866,7 @@ NULL,1,2935,Green Skin Grab-Bag
 NULL,1,2936,Green Skin Grab-Bag
 NULL,1,2938,Green Skin Grab-Bag
 NULL,1,2939,Green Skin Grab-Bag
-Personal Collection,NULL,1,3634
+Personal Collection,NULL,1,3634,All About the Avengers
 NULL,1,2941,Spider\'s Web
 NULL,1,2942,Green Skin Grab-Bag
 NULL,1,2944,Spider\'s Web
@@ -2872,27 +2875,27 @@ NULL,1,2948,Green Skin Grab-Bag
 NULL,1,2966,Fantastic Four Fan Page
 NULL,1903,3278,The Hyborian Page
 NULL,1,3465,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3644
-Personal Collection,NULL,1,2949
-Personal Collection,NULL,1,2950
-Personal Collection,NULL,1,2951
-Personal Collection,NULL,1,2952
-Personal Collection,NULL,1,2953
-Personal Collection,NULL,1,2954
+Personal Collection,NULL,1,3644,All About the Avengers
+Personal Collection,NULL,1,2949,Let\'s Rap with Cap
+Personal Collection,NULL,1,2950,Let\'s Rap with Cap
+Personal Collection,NULL,1,2951,Let\'s Rap with Cap
+Personal Collection,NULL,1,2952,Let\'s Rap with Cap
+Personal Collection,NULL,1,2953,Let\'s Rap with Cap
+Personal Collection,NULL,1,2954,Let\'s Rap with Cap
 NULL,1903,3947,The Hyborian Page
-Personal Collection,NULL,1,2955
-Personal Collection,NULL,1,2956
-Personal Collection,NULL,1,2957
-Personal Collection,NULL,1,2960
-Personal Collection,NULL,1,2961
-Personal Collection,NULL,1,2962
-Personal Collection,NULL,1,2963
+Personal Collection,NULL,1,2955,Let\'s Rap with Cap
+Personal Collection,NULL,1,2956,Let\'s Rap with Cap
+Personal Collection,NULL,1,2957,Let\'s Rap with Cap
+Personal Collection,NULL,1,2960,Let\'s Rap with Cap
+Personal Collection,NULL,1,2961,Let\'s Rap with Cap
+Personal Collection,NULL,1,2962,Let\'s Rap with Cap
+Personal Collection,NULL,1,2963,Let\'s Rap with Cap
 NULL,1,2964,Fantastic Four Fan Page
 NULL,1,3527,Green Skin\'s Grab-Bag
 NULL,1,2967,Fantastic Four Fan Page
 NULL,1,2968,Fantastic Four Fan Page
 NULL,1,3269,Green Skin\'s Grab-Bag
-NULL,1,2969,Fantastic Four Fan Page
+NULL,1,2969,Fantastic Four Fan Page,**Astronaut Neil Armstrong**
 NULL,1,2971,Fantastic Four Fan Page
 NULL,1,2973,Fantastic Four Fan Page
 NULL,1,3340,Green Skin\'s Grab-Bag
@@ -3028,17 +3031,17 @@ NULL,1,3127,Green Skin\'s Grab-Bag
 NULL,1,3128,Green Skin\'s Grab-Bag
 NULL,1,3129,Green Skin\'s Grab-Bag
 NULL,1,3130,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3133
-Personal Collection,NULL,1,3134
+Personal Collection,NULL,1,3133,Let's Rap about Cap
+Personal Collection,NULL,1,3134,Let's Rap with Cap
 NULL,1,3343,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3135
-Personal Collection,NULL,1,3137
+Personal Collection,NULL,1,3135,Let's Rap with Cap
+Personal Collection,NULL,1,3137,Let's Rap About Cap
 NULL,1,3138,Green Skin\'s Grab-Bag
 NULL,1,3139,Green Skin\'s Grab-Bag
 NULL,1,3140,Green Skin\'s Grab-Bag
 NULL,1,3141,Green Skin\'s Grab-Bag
 NULL,1,3143,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3865
+Personal Collection,NULL,1,3865,All About the Avengers
 NULL,1,3147,Green Skin\'s Grab-Bag
 NULL,1,3368,Green Skin\'s Grab-Bag
 NULL,1,3148,Green Skin\'s Grab-Bag
@@ -3058,9 +3061,9 @@ NULL,1,3162,Green Skin\'s Grab-Bag
 NULL,1,3163,Green Skin\'s Grab-Bag
 NULL,1,3164,Green Skin\'s Grab-Bag
 NULL,1,3165,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3168
-Personal Collection,NULL,1,3169
-Personal Collection,NULL,1,3170
+Personal Collection,NULL,1,3168,Let's Rap about Cap
+Personal Collection,NULL,1,3169,Let's Rap about Cap
+Personal Collection,NULL,1,3170,Let's Rap about Cap
 NULL,1,3171,Green Skin\'s Grab-Bag
 NULL,1,3172,Green Skin\'s Grab-Bag
 NULL,1,3173,Green Skin\'s Grab-Bag
@@ -3182,9 +3185,9 @@ NULL,1,3305,Green Skin\'s Grab-Bag
 NULL,1903,3307,The Hyborian Page
 NULL,1903,3309,The Hyborian Page
 NULL,1,3310,Green Skin\'s Grab-Bag
-NULL,1903,3313,The Hyborian Page
+NULL,1903,3313,The Hyborian Page,"editor, Witchcraft and Sorcery Magazine (formerly Coven 13)",
 NULL,1,3314,Green Skin\'s Grab-Bag
-NULL,1903,3315,The Hyborian Page
+NULL,1903,3315,The Hyborian Page,"wade" uncapitalized sic
 NULL,1903,3316,The Hyborian Page
 NULL,1903,3317,The Hyborian Page
 NULL,1903,3318,The Hyborian Page
@@ -3224,61 +3227,61 @@ NULL,1,3365,Green Skin\'s Grab-Bag
 NULL,1,3366,Green Skin\'s Grab-Bag
 NULL,1,3367,Green Skin\'s Grab-Bag
 NULL,1,3369,Green Skin\'s Grab-Bag
-Personal Collection,NULL,1,3372
-Personal Collection,NULL,1,3373
-Personal Collection,NULL,1,3379
-Personal Collection,NULL,1,3380
-Personal Collection,NULL,1,3381
-Personal Collection,NULL,1,3383
-Personal Collection,NULL,1,3384
-Personal Collection,NULL,1,3385
-Personal Collection,NULL,1,3386
-Personal Collection,NULL,1,3389
-Personal Collection,NULL,1,3390
-Personal Collection,NULL,1,3391
-Personal Collection,NULL,1,3392
-Personal Collection,NULL,1,3393
-Personal Collection,NULL,1,3395
-Personal Collection,NULL,1,3396
-Personal Collection,NULL,1,3397
-Personal Collection,NULL,1,3398
-Personal Collection,NULL,1,3401
-Personal Collection,NULL,1,3402
-Personal Collection,NULL,1,3404
-Personal Collection,NULL,1,3406
-Personal Collection,NULL,1,3407
-Personal Collection,NULL,1,3408
-Personal Collection,NULL,1,3409
-Personal Collection,NULL,1,3410
-Personal Collection,NULL,1,3411
-Personal Collection,NULL,1,3412
-Personal Collection,NULL,1,3413
-Personal Collection,NULL,1,3414
-Personal Collection,NULL,1,3415
-Personal Collection,NULL,1,3416
-Personal Collection,NULL,1,3417
-Personal Collection,NULL,1,3418
-Personal Collection,NULL,1,3419
-Personal Collection,NULL,1,3420
-Personal Collection,NULL,1,3421
-Personal Collection,NULL,1,3422
-Personal Collection,NULL,1,3423
-Personal Collection,NULL,1,3424
-Personal Collection,NULL,1,3425
-Personal Collection,NULL,1,3426
+Personal Collection,NULL,1,3372,Let's Rap with Cap
+Personal Collection,NULL,1,3373,Let's Rap with Cap
+Personal Collection,NULL,1,3379,Let's Rap with Cap
+Personal Collection,NULL,1,3380,Let's Rap with Cap
+Personal Collection,NULL,1,3381,Let's Rap with Cap
+Personal Collection,NULL,1,3383,Let's Rap with Cap
+Personal Collection,NULL,1,3384,Let's Rap with Cap
+Personal Collection,NULL,1,3385,Let's Rap with Cap
+Personal Collection,NULL,1,3386,Let's Rap with Cap
+Personal Collection,NULL,1,3389,Let's Rap with Cap
+Personal Collection,NULL,1,3390,Let's Rap with Cap,***See titles in address***
+Personal Collection,NULL,1,3391,Let's Rap with Cap
+Personal Collection,NULL,1,3392,Let's Rap with Cap
+Personal Collection,NULL,1,3393,Let's Rap with Cap
+Personal Collection,NULL,1,3395,Let's Rap with Cap
+Personal Collection,NULL,1,3396,Let's Rap about Cap
+Personal Collection,NULL,1,3397,Let's Rap about Cap
+Personal Collection,NULL,1,3398,Let's Rap about Cap
+Personal Collection,NULL,1,3401,Let's Rap about Cap
+Personal Collection,NULL,1,3402,Let's Rap about Cap
+Personal Collection,NULL,1,3404,Let's Rap about Cap
+Personal Collection,NULL,1,3406,Let's Rap about Cap
+Personal Collection,NULL,1,3407,Let's Rap about Cap
+Personal Collection,NULL,1,3408,Let's Rap about Cap
+Personal Collection,NULL,1,3409,Let's Rap about Cap
+Personal Collection,NULL,1,3410,Let's Rap About Cap
+Personal Collection,NULL,1,3411,Let's Rap About Cap
+Personal Collection,NULL,1,3412,Let's Rap About Cap
+Personal Collection,NULL,1,3413,Let's Rap About Cap
+Personal Collection,NULL,1,3414,Let's Rap About Cap
+Personal Collection,NULL,1,3415,Let's Rap About Cap
+Personal Collection,NULL,1,3416,Let's Rap About Cap
+Personal Collection,NULL,1,3417,Let's Rap About Cap
+Personal Collection,NULL,1,3418,Let's Rap About Cap
+Personal Collection,NULL,1,3419,Let's Rap About Cap
+Personal Collection,NULL,1,3420,Let's Rap About Cap
+Personal Collection,NULL,1,3421,Let's Rap About Cap
+Personal Collection,NULL,1,3422,Let's Rap About Cap
+Personal Collection,NULL,1,3423,Let's Rap About Cap
+Personal Collection,NULL,1,3424,Let's Rap About Cap
+Personal Collection,NULL,1,3425,Let's Rap About Cap
+Personal Collection,NULL,1,3426,Let's Rap About Cap
 NULL,1903,3427,The Hyborian Page
-NULL,1903,3428,The Hyborian Page
-NULL,1903,3429,The Hyborian Page
+NULL,1903,3428,The Hyborian Page,""Avenueh" sic, possible typo"
+NULL,1903,3429,The Hyborian Page,"Tom Peyer c/o Kogito Magazine"
 NULL,1903,3431,The Hyborian Page
 NULL,1903,3433,The Hyborian Page
-NULL,1903,3434,The Hyborian Page
+NULL,1903,3434,The Hyborian Page,Fan letter from fantasy illustrator William Stout near the beginning of his career.
 NULL,1903,3435,The Hyborian Page
 NULL,1903,3436,The Hyborian Page
 NULL,1903,3437,The Hyborian Page
 NULL,1903,3439,The Hyborian Page
 NULL,1903,3440,The Hyborian Page
 NULL,1903,3442,The Hyborian Page
-NULL,1903,3444,The Hyborian Page
+NULL,1903,3444,The Hyborian Page,"Ted White, Editor: AMAZING, FANTASTIC",
 NULL,1,3445,Green Skin\'s Grab-Bag
 NULL,1,3446,Green Skin\'s Grab-Bag
 NULL,1,3447,Green Skin\'s Grab-Bag
@@ -3364,287 +3367,287 @@ NULL,1,3555,Green Skin\'s Grab-Bag
 NULL,1,3556,Green Skin\'s Grab-Bag
 NULL,1,3558,Let\'s Talk About the Hulk
 NULL,1903,3930,The Hyborian Page
-Personal Collection,NULL,1,3559
-Personal Collection,NULL,1,3561
-Personal Collection,NULL,1,3572
-Personal Collection,NULL,1,3563
-Personal Collection,NULL,1,3564
-Personal Collection,NULL,1,3565
-Personal Collection,NULL,1,3566
-Personal Collection,NULL,1,3567
-Personal Collection,NULL,1,3568
-Personal Collection,NULL,1,3569
-Personal Collection,NULL,1,3570
-Personal Collection,NULL,1,3571
-Personal Collection,NULL,1,3573
-Personal Collection,NULL,1,3574
-Personal Collection,NULL,1,3575
-Personal Collection,NULL,1,3577
-Personal Collection,NULL,1,3578
-Personal Collection,NULL,1,3581
-Personal Collection,NULL,1,3582
-Personal Collection,NULL,1,3586
-Personal Collection,NULL,1,3587
-Personal Collection,NULL,1,3588
-Personal Collection,NULL,1,3589
-Personal Collection,NULL,1,3591
-Personal Collection,NULL,1,3592
-Personal Collection,NULL,1,3594
-Personal Collection,NULL,1,3595
-Personal Collection,NULL,1,3596
-Personal Collection,NULL,1,3597
-Personal Collection,NULL,1,3598
-Personal Collection,NULL,1,3599
-Personal Collection,NULL,1,3600
-Personal Collection,NULL,1,3602
-Personal Collection,NULL,1,3603
-Personal Collection,NULL,1,3604
-Personal Collection,NULL,1,3605
-Personal Collection,NULL,1,3606
-Personal Collection,NULL,1,3607
-Personal Collection,NULL,1,3608
-Personal Collection,NULL,1,3609
-Personal Collection,NULL,1,3610
-Personal Collection,NULL,1,3611
-Personal Collection,NULL,1,3612
-Personal Collection,NULL,1,3613
-Personal Collection,NULL,1,3614
-Personal Collection,NULL,1,3616
-Personal Collection,NULL,1,3617
-Personal Collection,NULL,1,3618
-Personal Collection,NULL,1,3619
-Personal Collection,NULL,1,3620
-Personal Collection,NULL,1,3621
-Personal Collection,NULL,1,3636
-Personal Collection,NULL,1,3622
-Personal Collection,NULL,1,3623
-Personal Collection,NULL,1,3624
-Personal Collection,NULL,1,3625
-Personal Collection,NULL,1,3626
-Personal Collection,NULL,1,3627
-Personal Collection,NULL,1,3628
-Personal Collection,NULL,1,3629
-Personal Collection,NULL,1,3630
-Personal Collection,NULL,1,3631
-Personal Collection,NULL,1,3632
-Personal Collection,NULL,1,3633
-Personal Collection,NULL,1,3635
-Personal Collection,NULL,1,3637
-Personal Collection,NULL,1,3638
-Personal Collection,NULL,1,3639
-Personal Collection,NULL,1,3640
-Personal Collection,NULL,1,3641
-Personal Collection,NULL,1,3642
-Personal Collection,NULL,1,3643
-Personal Collection,NULL,1,3645
-Personal Collection,NULL,1,3646
-Personal Collection,NULL,1,3648
-Personal Collection,NULL,1,3649
-Personal Collection,NULL,1,3652
-Personal Collection,NULL,1,3653
-Personal Collection,NULL,1,3656
-Personal Collection,NULL,1,3658
-Personal Collection,NULL,1,3659
-Personal Collection,NULL,1,3660
-Personal Collection,NULL,1,3662
-Personal Collection,NULL,1,3664
-Personal Collection,NULL,1,3665
-Personal Collection,NULL,1,3666
-Personal Collection,NULL,1,3668
-Personal Collection,NULL,1,3669
-Personal Collection,NULL,1,3670
-Personal Collection,NULL,1,3671
-Personal Collection,NULL,1,3672
-Personal Collection,NULL,1,3673
-Personal Collection,NULL,1,3674
-Personal Collection,NULL,1,3675
-Personal Collection,NULL,1,3676
-Personal Collection,NULL,1,3678
-Personal Collection,NULL,1,3681
-Personal Collection,NULL,1,3682
-Personal Collection,NULL,1,3683
-Personal Collection,NULL,1,3684
-Personal Collection,NULL,1,3686
-Personal Collection,NULL,1,3687
-Personal Collection,NULL,1,3688
-Personal Collection,NULL,1,3689
-Personal Collection,NULL,1,3690
-Personal Collection,NULL,1,3694
-Personal Collection,NULL,1,3695
-Personal Collection,NULL,1,3696
-Personal Collection,NULL,1,3697
-Personal Collection,NULL,1,3705
-Personal Collection,NULL,1,3698
-Personal Collection,NULL,1,3699
-Personal Collection,NULL,1,3702
-Personal Collection,NULL,1,3703
-Personal Collection,NULL,1,3704
-Personal Collection,NULL,1,3709
-Personal Collection,NULL,1,3710
-Personal Collection,NULL,1,3714
-Personal Collection,NULL,1,3716
-Personal Collection,NULL,1,3719
-Personal Collection,NULL,1,3723
-Personal Collection,NULL,1,3720
-Personal Collection,NULL,1,3722
-Personal Collection,NULL,1,3724
-Personal Collection,NULL,1,3725
-Personal Collection,NULL,1,3726
-Personal Collection,NULL,1,3728
-Personal Collection,NULL,1,3729
-Personal Collection,NULL,1,3730
-Personal Collection,NULL,1,3731
-Personal Collection,NULL,1,3732
-Personal Collection,NULL,1,3733
-Personal Collection,NULL,1,3734
-Personal Collection,NULL,1,3735
-Personal Collection,NULL,1,3736
-Personal Collection,NULL,1,3737
-Personal Collection,NULL,1,3739
-Personal Collection,NULL,1,3741
-Personal Collection,NULL,1,3743
-Personal Collection,NULL,1,3744
-Personal Collection,NULL,1,3745
-Personal Collection,NULL,1,3746
-Personal Collection,NULL,1,3747
-Personal Collection,NULL,1,3748
-Personal Collection,NULL,1,3749
-Personal Collection,NULL,1,3751
-Personal Collection,NULL,1,3752
-Personal Collection,NULL,1,3753
-Personal Collection,NULL,1,3754
-Personal Collection,NULL,1,3755
-Personal Collection,NULL,1,3756
-Personal Collection,NULL,1,3757
-Personal Collection,NULL,1,3759
-Personal Collection,NULL,1,3760
-Personal Collection,NULL,1,3761
-Personal Collection,NULL,1,3762
-Personal Collection,NULL,1,3765
-Personal Collection,NULL,1,3766
-Personal Collection,NULL,1,3767
-Personal Collection,NULL,1,3768
-Personal Collection,NULL,1,3769
-Personal Collection,NULL,1,3771
-Personal Collection,NULL,1,3772
-Personal Collection,NULL,1,3773
-Personal Collection,NULL,1,3776
-Personal Collection,NULL,1,3777
-Personal Collection,NULL,1,3779
-Personal Collection,NULL,1,3781
-Personal Collection,NULL,1,3782
-Personal Collection,NULL,1,3783
-Personal Collection,NULL,1,3784
-Personal Collection,NULL,1,3785
-Personal Collection,NULL,1,3786
-Personal Collection,NULL,1,3787
-Personal Collection,NULL,1,3788
-Personal Collection,NULL,1,3789
-Personal Collection,NULL,1,3790
-Personal Collection,NULL,1,3791
-Personal Collection,NULL,1,3792
-Personal Collection,NULL,1,3793
-Personal Collection,NULL,1,3794
-Personal Collection,NULL,1,3795
-Personal Collection,NULL,1,3797
-Personal Collection,NULL,1,3798
-Personal Collection,NULL,1,3799
-Personal Collection,NULL,1,3800
-Personal Collection,NULL,1,3801
-Personal Collection,NULL,1,3802
-Personal Collection,NULL,1,3803
-Personal Collection,NULL,1,3804
-Personal Collection,NULL,1,3805
-Personal Collection,NULL,1,3808
-Personal Collection,NULL,1,3810
-Personal Collection,NULL,1,3811
-Personal Collection,NULL,1,3812
-Personal Collection,NULL,1,3813
-Personal Collection,NULL,1,3814
-Personal Collection,NULL,1,3815
-Personal Collection,NULL,1,3816
-Personal Collection,NULL,1,3818
-Personal Collection,NULL,1,3819
-Personal Collection,NULL,1,3820
-Personal Collection,NULL,1,3822
-Personal Collection,NULL,1,3823
-Personal Collection,NULL,1,3824
-Personal Collection,NULL,1,3825
-Personal Collection,NULL,1,3827
-Personal Collection,NULL,1,3828
-Personal Collection,NULL,1,3829
-Personal Collection,NULL,1,3830
-Personal Collection,NULL,1,3831
-Personal Collection,NULL,1,3833
-Personal Collection,NULL,1,3834
-Personal Collection,NULL,1,3835
-Personal Collection,NULL,1,3836
-Personal Collection,NULL,1,3837
-Personal Collection,NULL,1,3838
-Personal Collection,NULL,1,3877
-Personal Collection,NULL,1,3839
-Personal Collection,NULL,1,3840
-Personal Collection,NULL,1,3841
-Personal Collection,NULL,1,3842
-Personal Collection,NULL,1,3843
-Personal Collection,NULL,1,3844
-Personal Collection,NULL,1,3845
-Personal Collection,NULL,1,3846
-Personal Collection,NULL,1,3847
-Personal Collection,NULL,1,3848
-Personal Collection,NULL,1,3849
-Personal Collection,NULL,1,3850
-Personal Collection,NULL,1,3851
-Personal Collection,NULL,1,3853
-Personal Collection,NULL,1,3854
-Personal Collection,NULL,1,3855
-Personal Collection,NULL,1,3856
-Personal Collection,NULL,1,3857
-Personal Collection,NULL,1,3858
-Personal Collection,NULL,1,3859
-Personal Collection,NULL,1,3860
-Personal Collection,NULL,1,3861
-Personal Collection,NULL,1,3862
-Personal Collection,NULL,1,3863
-Personal Collection,NULL,1,3864
-Personal Collection,NULL,1,3867
-Personal Collection,NULL,1,3868
-Personal Collection,NULL,1,3870
-Personal Collection,NULL,1,3871
-Personal Collection,NULL,1,3872
-Personal Collection,NULL,1,3873
-Personal Collection,NULL,1,3874
-Personal Collection,NULL,1,3875
-Personal Collection,NULL,1,3876
-Personal Collection,NULL,1,3879
-Personal Collection,NULL,1,3880
-Personal Collection,NULL,1,3883
-Personal Collection,NULL,1,3884
-Personal Collection,NULL,1,3885
-Personal Collection,NULL,1,3886
-Personal Collection,NULL,1,3887
-Personal Collection,NULL,1,3889
-Personal Collection,NULL,1,3890
-Personal Collection,NULL,1,3891
-Personal Collection,NULL,1,3894
-Personal Collection,NULL,1,3896
-Personal Collection,NULL,1,3897
-Personal Collection,NULL,1,3898
-Personal Collection,NULL,1,3899
-Personal Collection,NULL,1,3900
-Personal Collection,NULL,1,3901
-Personal Collection,NULL,1,3902
-Personal Collection,NULL,1,3903
-Personal Collection,NULL,1,3904
-Personal Collection,NULL,1,3905
-Personal Collection,NULL,1,3906
-Personal Collection,NULL,1,3908
+Personal Collection,NULL,1,3559,All About the Avengers
+Personal Collection,NULL,1,3561,All About the Avengers
+Personal Collection,NULL,1,3572,All About the Avengers,"Weiss would become artist for DC, Marvel, and others."
+Personal Collection,NULL,1,3563,All About the Avengers
+Personal Collection,NULL,1,3564,All About the Avengers
+Personal Collection,NULL,1,3565,All About the Avengers
+Personal Collection,NULL,1,3566,All About the Avengers
+Personal Collection,NULL,1,3567,All About the Avengers
+Personal Collection,NULL,1,3568,All About the Avengers
+Personal Collection,NULL,1,3569,All About the Avengers
+Personal Collection,NULL,1,3570,All About the Avengers
+Personal Collection,NULL,1,3571,All About the Avengers
+Personal Collection,NULL,1,3573,All About the Avengers
+Personal Collection,NULL,1,3574,All About the Avengers
+Personal Collection,NULL,1,3575,All About the Avengers
+Personal Collection,NULL,1,3577,All About the Avengers
+Personal Collection,NULL,1,3578,All About the Avengers
+Personal Collection,NULL,1,3581,All About the Avengers
+Personal Collection,NULL,1,3582,All About the Avengers
+Personal Collection,NULL,1,3586,All About the Avengers
+Personal Collection,NULL,1,3587,All About the Avengers
+Personal Collection,NULL,1,3588,All About the Avengers
+Personal Collection,NULL,1,3589,All About the Avengers
+Personal Collection,NULL,1,3591,All About the Avengers
+Personal Collection,NULL,1,3592,All About the Avengers
+Personal Collection,NULL,1,3594,All About the Avengers
+Personal Collection,NULL,1,3595,All About the Avengers
+Personal Collection,NULL,1,3596,All About the Avengers
+Personal Collection,NULL,1,3597,All About the Avengers
+Personal Collection,NULL,1,3598,All About the Avengers
+Personal Collection,NULL,1,3599,All About the Avengers,Province = Ontario
+Personal Collection,NULL,1,3600,All About the Avengers,"Author is writing on behalf of ���30 Union members of Chesterfield Farms, Inc.�� Adress is work location."
+Personal Collection,NULL,1,3602,All About the Avengers
+Personal Collection,NULL,1,3603,All About the Avengers
+Personal Collection,NULL,1,3604,All About the Avengers,Return address includes ���c/o Josai Hospital��
+Personal Collection,NULL,1,3605,All About the Avengers
+Personal Collection,NULL,1,3606,All About the Avengers
+Personal Collection,NULL,1,3607,All About the Avengers,Early comicon attendee and contributor to fanzines c. 1960s.
+Personal Collection,NULL,1,3608,All About the Avengers
+Personal Collection,NULL,1,3609,All About the Avengers
+Personal Collection,NULL,1,3610,All About the Avengers
+Personal Collection,NULL,1,3611,All About the Avengers
+Personal Collection,NULL,1,3612,All About the Avengers,Game of Thrones author.
+Personal Collection,NULL,1,3613,All About the Avengers
+Personal Collection,NULL,1,3614,All About the Avengers
+Personal Collection,NULL,1,3616,All About the Avengers
+Personal Collection,NULL,1,3617,All About the Avengers
+Personal Collection,NULL,1,3618,All About the Avengers
+Personal Collection,NULL,1,3619,All About the Avengers
+Personal Collection,NULL,1,3620,All About the Avengers
+Personal Collection,NULL,1,3621,All About the Avengers
+Personal Collection,NULL,1,3636,All About the Avengers
+Personal Collection,NULL,1,3622,All About the Avengers
+Personal Collection,NULL,1,3623,All About the Avengers
+Personal Collection,NULL,1,3624,All About the Avengers
+Personal Collection,NULL,1,3625,All About the Avengers
+Personal Collection,NULL,1,3626,All About the Avengers
+Personal Collection,NULL,1,3627,All About the Avengers
+Personal Collection,NULL,1,3628,All About the Avengers
+Personal Collection,NULL,1,3629,All About the Avengers
+Personal Collection,NULL,1,3630,All About the Avengers
+Personal Collection,NULL,1,3631,All About the Avengers
+Personal Collection,NULL,1,3632,All About the Avengers
+Personal Collection,NULL,1,3633,All About the Avengers
+Personal Collection,NULL,1,3635,All About the Avengers,Written in verse.
+Personal Collection,NULL,1,3637,All About the Avengers,"Author lists his rank of SP4, #RA 25730263, writing on behalf of ���The Guys of the 651st Medical Company.��"
+Personal Collection,NULL,1,3638,All About the Avengers,Province = Ontario
+Personal Collection,NULL,1,3639,All About the Avengers
+Personal Collection,NULL,1,3640,All About the Avengers
+Personal Collection,NULL,1,3641,All About the Avengers
+Personal Collection,NULL,1,3642,All About the Avengers
+Personal Collection,NULL,1,3643,All About the Avengers
+Personal Collection,NULL,1,3645,All About the Avengers
+Personal Collection,NULL,1,3646,All About the Avengers,No street address
+Personal Collection,NULL,1,3648,All About the Avengers,Province = Nova Scotia
+Personal Collection,NULL,1,3649,All About the Avengers
+Personal Collection,NULL,1,3652,All About the Avengers
+Personal Collection,NULL,1,3653,All About the Avengers,Writer signs with M.M.M.S. #2091.
+Personal Collection,NULL,1,3656,All About the Avengers
+Personal Collection,NULL,1,3658,All About the Avengers
+Personal Collection,NULL,1,3659,All About the Avengers
+Personal Collection,NULL,1,3660,All About the Avengers
+Personal Collection,NULL,1,3662,All About the Avengers
+Personal Collection,NULL,1,3664,All About the Avengers
+Personal Collection,NULL,1,3665,All About the Avengers,Country = West Germany (FRG)
+Personal Collection,NULL,1,3666,All About the Avengers
+Personal Collection,NULL,1,3668,All About the Avengers
+Personal Collection,NULL,1,3669,All About the Avengers
+Personal Collection,NULL,1,3670,All About the Avengers
+Personal Collection,NULL,1,3671,All About the Avengers
+Personal Collection,NULL,1,3672,All About the Avengers,Province = Ontario
+Personal Collection,NULL,1,3673,All About the Avengers,Province = Ontario
+Personal Collection,NULL,1,3674,All About the Avengers
+Personal Collection,NULL,1,3675,All About the Avengers,"Letter printed normally, with editor��s comment, but without a name and address. They are printed in special note in Issue 20."
+Personal Collection,NULL,1,3676,All About the Avengers
+Personal Collection,NULL,1,3678,All About the Avengers
+Personal Collection,NULL,1,3681,All About the Avengers
+Personal Collection,NULL,1,3682,All About the Avengers
+Personal Collection,NULL,1,3683,All About the Avengers
+Personal Collection,NULL,1,3684,All About the Avengers,Writer includes ���Tau Kappa Epsilon Fraternity�� in address.
+Personal Collection,NULL,1,3686,All About the Avengers
+Personal Collection,NULL,1,3687,All About the Avengers
+Personal Collection,NULL,1,3688,All About the Avengers
+Personal Collection,NULL,1,3689,All About the Avengers
+Personal Collection,NULL,1,3690,All About the Avengers
+Personal Collection,NULL,1,3694,All About the Avengers
+Personal Collection,NULL,1,3695,All About the Avengers
+Personal Collection,NULL,1,3696,All About the Avengers
+Personal Collection,NULL,1,3697,All About the Avengers
+Personal Collection,NULL,1,3705,All About the Avengers
+Personal Collection,NULL,1,3698,All About the Avengers,Writer��s address includes c/o ���SP5 M.H. Guillot.�� USAREUR = U.S. Army Europe
+Personal Collection,NULL,1,3699,All About the Avengers
+Personal Collection,NULL,1,3702,All About the Avengers
+Personal Collection,NULL,1,3703,All About the Avengers
+Personal Collection,NULL,1,3704,All About the Avengers
+Personal Collection,NULL,1,3709,All About the Avengers
+Personal Collection,NULL,1,3710,All About the Avengers
+Personal Collection,NULL,1,3714,All About the Avengers,No street address
+Personal Collection,NULL,1,3716,All About the Avengers
+Personal Collection,NULL,1,3719,All About the Avengers
+Personal Collection,NULL,1,3723,Marvel Bullpen Bulletin
+Personal Collection,NULL,1,3720,All About the Avengers
+Personal Collection,NULL,1,3722,All About the Avengers
+Personal Collection,NULL,1,3724,All About the Avengers
+Personal Collection,NULL,1,3725,All About the Avengers
+Personal Collection,NULL,1,3726,All About the Avengers,Province = Ontario
+Personal Collection,NULL,1,3728,All About the Avengers
+Personal Collection,NULL,1,3729,All About the Avengers
+Personal Collection,NULL,1,3730,All About the Avengers
+Personal Collection,NULL,1,3731,All About the Avengers
+Personal Collection,NULL,1,3732,All About the Avengers
+Personal Collection,NULL,1,3733,All About the Avengers
+Personal Collection,NULL,1,3734,All About the Avengers
+Personal Collection,NULL,1,3735,All About the Avengers
+Personal Collection,NULL,1,3736,All About the Avengers
+Personal Collection,NULL,1,3737,All About the Avengers
+Personal Collection,NULL,1,3739,All About the Avengers
+Personal Collection,NULL,1,3741,All About the Avengers
+Personal Collection,NULL,1,3743,All About the Avengers
+Personal Collection,NULL,1,3744,All About the Avengers,Writing as a member of ���Throgs Neck Comic Club.��
+Personal Collection,NULL,1,3745,All About the Avengers
+Personal Collection,NULL,1,3746,All About the Avengers
+Personal Collection,NULL,1,3747,All About the Avengers
+Personal Collection,NULL,1,3748,All About the Avengers
+Personal Collection,NULL,1,3749,All About the Avengers
+Personal Collection,NULL,1,3751,All About the Avengers,"Author is writing from the ���Office of the Chief of Information U.S. Army, New York Branch.��"
+Personal Collection,NULL,1,3752,All About the Avengers
+Personal Collection,NULL,1,3753,All About the Avengers
+Personal Collection,NULL,1,3754,All About the Avengers
+Personal Collection,NULL,1,3755,All About the Avengers
+Personal Collection,NULL,1,3756,All About the Avengers
+Personal Collection,NULL,1,3757,All About the Avengers
+Personal Collection,NULL,1,3759,All About the Avengers
+Personal Collection,NULL,1,3760,All About the Avengers
+Personal Collection,NULL,1,3761,All About the Avengers,Writer identifies himself as a graduate student in chemistry at University of Pittsburgh.
+Personal Collection,NULL,1,3762,All About the Avengers
+Personal Collection,NULL,1,3765,All About the Avengers
+Personal Collection,NULL,1,3766,All About the Avengers
+Personal Collection,NULL,1,3767,All About the Avengers
+Personal Collection,NULL,1,3768,All About the Avengers
+Personal Collection,NULL,1,3769,All About the Avengers
+Personal Collection,NULL,1,3771,All About the Avengers
+Personal Collection,NULL,1,3772,All About the Avengers,Co-written with Larry Hammer. USASA = United States Army Security Agency (precursor to NSA).
+Personal Collection,NULL,1,3773,All About the Avengers,Co-written with Bill DeSmedt. USASA = United States Army Security Agency (precursor to NSA).
+Personal Collection,NULL,1,3776,All About the Avengers
+Personal Collection,NULL,1,3777,All About the Avengers
+Personal Collection,NULL,1,3779,All About the Avengers
+Personal Collection,NULL,1,3781,All About the Avengers
+Personal Collection,NULL,1,3782,All About the Avengers
+Personal Collection,NULL,1,3783,All About the Avengers
+Personal Collection,NULL,1,3784,All About the Avengers
+Personal Collection,NULL,1,3785,All About the Avengers,Address includes c/o CWO [Chief Warrant Officer] John H. Collier W-904098.
+Personal Collection,NULL,1,3786,All About the Avengers
+Personal Collection,NULL,1,3787,All About the Avengers
+Personal Collection,NULL,1,3788,All About the Avengers
+Personal Collection,NULL,1,3789,All About the Avengers
+Personal Collection,NULL,1,3790,All About the Avengers
+Personal Collection,NULL,1,3791,All About the Avengers
+Personal Collection,NULL,1,3792,All About the Avengers
+Personal Collection,NULL,1,3793,All About the Avengers
+Personal Collection,NULL,1,3794,All About the Avengers
+Personal Collection,NULL,1,3795,All About the Avengers
+Personal Collection,NULL,1,3797,All About the Avengers
+Personal Collection,NULL,1,3798,All About the Avengers
+Personal Collection,NULL,1,3799,All About the Avengers
+Personal Collection,NULL,1,3800,All About the Avengers,"Address listed as ���Trinidad, W.I.�� [West Indies]."
+Personal Collection,NULL,1,3801,All About the Avengers
+Personal Collection,NULL,1,3802,All About the Avengers
+Personal Collection,NULL,1,3803,All About the Avengers
+Personal Collection,NULL,1,3804,All About the Avengers
+Personal Collection,NULL,1,3805,All About the Avengers
+Personal Collection,NULL,1,3808,All About the Avengers,"Writer identifies himself as ���Head,�� English Dept."
+Personal Collection,NULL,1,3810,All About the Avengers
+Personal Collection,NULL,1,3811,All About the Avengers
+Personal Collection,NULL,1,3812,All About the Avengers,Co-written with Lee Sarnoff.
+Personal Collection,NULL,1,3813,All About the Avengers,Co-written with Larry &amp; Mike Wahs.
+Personal Collection,NULL,1,3814,All About the Avengers
+Personal Collection,NULL,1,3815,All About the Avengers
+Personal Collection,NULL,1,3816,All About the Avengers
+Personal Collection,NULL,1,3818,All About the Avengers
+Personal Collection,NULL,1,3819,All About the Avengers
+Personal Collection,NULL,1,3820,All About the Avengers
+Personal Collection,NULL,1,3822,All About the Avengers
+Personal Collection,NULL,1,3823,All About the Avengers
+Personal Collection,NULL,1,3824,All About the Avengers
+Personal Collection,NULL,1,3825,All About the Avengers
+Personal Collection,NULL,1,3827,All About the Avengers,"Address includes writers rank and number: YN3, 699-39-33"
+Personal Collection,NULL,1,3828,All About the Avengers,County = Dublin
+Personal Collection,NULL,1,3829,All About the Avengers
+Personal Collection,NULL,1,3830,All About the Avengers
+Personal Collection,NULL,1,3831,All About the Avengers
+Personal Collection,NULL,1,3833,All About the Avengers
+Personal Collection,NULL,1,3834,All About the Avengers
+Personal Collection,NULL,1,3835,All About the Avengers
+Personal Collection,NULL,1,3836,All About the Avengers
+Personal Collection,NULL,1,3837,All About the Avengers,"Writer is affiliated with the University of Toronto, but role there not mentioned."
+Personal Collection,NULL,1,3838,All About the Avengers,Province = British Columbia
+Personal Collection,NULL,1,3877,All About the Avengers,Province = British Columbia
+Personal Collection,NULL,1,3839,All About the Avengers
+Personal Collection,NULL,1,3840,All About the Avengers
+Personal Collection,NULL,1,3841,All About the Avengers
+Personal Collection,NULL,1,3842,All About the Avengers,"As a gag, letter is signed ���Seymour Forbush�� (���cousin of Irving Forbush��) c/o Larry Cummings. "
+Personal Collection,NULL,1,3843,All About the Avengers
+Personal Collection,NULL,1,3844,All About the Avengers
+Personal Collection,NULL,1,3845,All About the Avengers
+Personal Collection,NULL,1,3846,All About the Avengers
+Personal Collection,NULL,1,3847,All About the Avengers
+Personal Collection,NULL,1,3848,All About the Avengers
+Personal Collection,NULL,1,3849,All About the Avengers
+Personal Collection,NULL,1,3850,All About the Avengers
+Personal Collection,NULL,1,3851,All About the Avengers
+Personal Collection,NULL,1,3853,All About the Avengers
+Personal Collection,NULL,1,3854,All About the Avengers
+Personal Collection,NULL,1,3855,All About the Avengers
+Personal Collection,NULL,1,3856,All About the Avengers,Province = Manitoba
+Personal Collection,NULL,1,3857,All About the Avengers
+Personal Collection,NULL,1,3858,All About the Avengers
+Personal Collection,NULL,1,3859,All About the Avengers,"Writer includes rank and number: SP5, RA54016023"
+Personal Collection,NULL,1,3860,All About the Avengers
+Personal Collection,NULL,1,3861,All About the Avengers
+Personal Collection,NULL,1,3862,All About the Avengers
+Personal Collection,NULL,1,3863,All About the Avengers
+Personal Collection,NULL,1,3864,All About the Avengers
+Personal Collection,NULL,1,3867,All About the Avengers
+Personal Collection,NULL,1,3868,All About the Avengers
+Personal Collection,NULL,1,3870,All About the Avengers
+Personal Collection,NULL,1,3871,All About the Avengers
+Personal Collection,NULL,1,3872,All About the Avengers
+Personal Collection,NULL,1,3873,All About the Avengers
+Personal Collection,NULL,1,3874,All About the Avengers
+Personal Collection,NULL,1,3875,All About the Avengers
+Personal Collection,NULL,1,3876,All About the Avengers
+Personal Collection,NULL,1,3879,All About the Avengers
+Personal Collection,NULL,1,3880,Marvel Bullpen Bulletin,"Letter quoted in Bulletin, re: keeping pages of paper comics intact."
+Personal Collection,NULL,1,3883,Avengers Assemble,"Writer includes rank and number: SP4, RA16801173"
+Personal Collection,NULL,1,3884,Avengers Assemble
+Personal Collection,NULL,1,3885,Avengers Assemble
+Personal Collection,NULL,1,3886,Avengers Assemble
+Personal Collection,NULL,1,3887,Avengers Assemble
+Personal Collection,NULL,1,3889,Avengers Assemble
+Personal Collection,NULL,1,3890,Avengers Assemble
+Personal Collection,NULL,1,3891,Avengers Assemble
+Personal Collection,NULL,1,3894,Avengers Assemble
+Personal Collection,NULL,1,3896,Marvel Bullpen Bulletin,Letter is quoted in Stan��s Soapbox responding to idea to add ranks to MMMS.
+Personal Collection,NULL,1,3897,Avengers Assemble,Co-written with Fred Reed and Susan Reed. American Peace Corps workers.
+Personal Collection,NULL,1,3898,Avengers Assemble,Co-written with Kathryne Ehwald and Susan Reed. American Peace Corps workers.
+Personal Collection,NULL,1,3899,Avengers Assemble,Co-written with Kathryne Ehwald and Fred Reed. American Peace Corps workers.
+Personal Collection,NULL,1,3900,Avengers Assemble
+Personal Collection,NULL,1,3901,Avengers Assemble
+Personal Collection,NULL,1,3902,Avengers Assemble
+Personal Collection,NULL,1,3903,Avengers Assemble
+Personal Collection,NULL,1,3904,Avengers Assemble
+Personal Collection,NULL,1,3905,Avengers Assemble
+Personal Collection,NULL,1,3906,Avengers Assemble
+Personal Collection,NULL,1,3908,Avengers Assemble
 NULL,1903,3910,The Hyborian Page
 NULL,1903,3911,The Hyborian Page
 NULL,1903,3912,The Hyborian Page
 NULL,1903,3913,The Hyborian Page
 NULL,1903,3917,The Hyborian Page
-NULL,1903,3918,The Hyborian Page
+NULL,1903,3918,The Hyborian Page,"Marvel fanclub rank: RFO, KOF"
 NULL,1903,3920,The Hyborian Page
 NULL,1903,3922,The Hyborian Page
 NULL,1903,3924,The Hyborian Page
@@ -3652,30 +3655,30 @@ NULL,1903,3925,The Hyborian Page
 NULL,1903,3926,The Hyborian Page
 NULL,1903,3927,The Hyborian Page
 NULL,1903,3928,The Hyborian Page
-NULL,1903,3929,The Hyborian Page
+NULL,1903,3929,The Hyborian Page,"Marvel fanclub rank: RFO, QNS, KOF"
 NULL,1903,3932,The Hyborian Page
 NULL,1903,3933,The Hyborian Page
-NULL,1903,3934,The Hyborian Page
+NULL,1903,3934,The Hyborian Page,"c/o H. Q. Co. Marine Corps Recruit Dept."
 NULL,1903,3935,The Hyborian Page
 NULL,1903,3937,The Hyborian Page
 NULL,1903,3939,The Hyborian Page
 NULL,1903,3940,The Hyborian Page
 NULL,1903,3941,The Hyborian Page
-NULL,1903,3942,The Hyborian Page
+NULL,1903,3942,The Hyborian Page,"N. Manchester, Inc." Possible typo: "Inc." = Indiana?,
 NULL,1903,3943,The Hyborian Page
 NULL,1903,3944,The Hyborian Page
 NULL,1903,3948,The Hyborian Page
 NULL,1903,3949,The Hyborian Page
 NULL,1903,3950,The Hyborian Page
 NULL,1903,3951,The Hyborian Page
-NULL,1903,3952,The Hyborian Page
+NULL,1903,3952,The Hyborian Page,"Marvel fanclub rank: RFO, QNS, KOF"
 NULL,1903,3953,The Hyborian Page
 NULL,1903,3954,The Hyborian Page
 NULL,1903,3955,The Hyborian Page
 NULL,1903,3956,The Hyborian Page
 NULL,1903,3957,The Hyborian Page
 NULL,1903,3958,The Hyborian Page
-NULL,1903,3959,The Hyborian Page
+NULL,1903,3959,The Hyborian Page,"Marvel fanclub rank: RFO, QNS, KOF"
 NULL,1903,3961,The Hyborian Page
 NULL,1903,3962,The Hyborian Page
 NULL,1903,3963,The Hyborian Page
@@ -3696,10 +3699,10 @@ NULL,1903,3982,The Hyborian Page
 NULL,1903,3983,The Hyborian Page
 NULL,1903,3984,The Hyborian Page
 NULL,1903,3986,The Hyborian Page
-Personal Collection,NULL,1,3988
-Personal Collection,NULL,1,3989
-Personal Collection,NULL,1,3990
-Personal Collection,NULL,1,3991
-Personal Collection,NULL,1,3992
-Personal Collection,NULL,1,3993
-Personal Collection,NULL,1,3995
+Personal Collection,NULL,1,3988,Avengers Assemble
+Personal Collection,NULL,1,3989,Avengers Assemble,"Writer includes rank and number: SP/4, US51599676"
+Personal Collection,NULL,1,3990,Avengers Assemble,"Letter is quoted in Bullpen Bulletin, re: the true identity of the fictional Irving Forbush."
+Personal Collection,NULL,1,3991,Avengers Assemble
+Personal Collection,NULL,1,3992,Avengers Assemble
+Personal Collection,NULL,1,3993,Avengers Assemble
+Personal Collection,NULL,1,3995,Avengers Assemble

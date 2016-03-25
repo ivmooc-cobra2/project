@@ -1,0 +1,2 @@
+publisher_id,publisher_name,country_id,year_began,year_ended,notes,url,is_master,parent_id,imprint_count,brand_count,indicia_publisher_count,series_count,created,modified,issue_count,reserved,deleted,year_began_uncertain,year_ended_uncertain
+78,Marvel,225,1939,NULL,,http://marvel.com,1,NULL,0,33,102,6948,6/15/99 0:00,10/28/15 2:54,44982,0,0,0,0

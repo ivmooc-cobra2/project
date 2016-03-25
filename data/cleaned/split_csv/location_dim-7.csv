@@ -1,0 +1,3252 @@
+id_location_dim,street,city,state,country,postal_code
+NULL,2,406 Washington Blvd.,Sea Girt,NJ,US
+3,1122 Nelchina St.,Anchorage,AK,US,NULL
+NULL,4,622 Plater,Aberdeen,MD,US
+NULL,5,NULL,Schenectady,NY,US
+NULL,6,515 S. Street,Chula Vista,CA,US
+NULL,7,NULL,Elyria,OH,US
+NULL,8,11260 Port Rd,Culver City,CA,US
+9,1410 Donald,Royal Oak,MI,US,NULL
+10,"9 Windsor Lane, Box 70",Clifton Heights,PA,US,NULL
+11,339 College St.,Lynchburg,VA,US,NULL
+12,906 Beale St.,South Bend,IN,US,NULL
+13,Isabel de Aguilar St.,Fayardo,NULL,PR,NULL
+14,912 Whitney Ave.,Albany,GA,US,NULL
+15,234 Sands St.,Brooklyn 1,NY,US,NULL
+16,506 Handy Drive,Bay City,MI,US,NULL
+NULL,16,506 Handy Drive,Bay City,MI,US
+17,3014 Huff Ave.,San Jose 28,CA,US,NULL
+18,108 Cleveland Ave.,Norwood,PA,US,NULL
+19,6768 Olaf Dr.,Berkeley 34,MO,US,NULL
+20,White Head,Grand Manan,NB,CA,NULL
+21,16714-F S. Yukon Ave.,Torrance,CA,US,NULL
+22,165 Rajadamri Rd.,Bangkok,NULL,TH,NULL
+23,3589 N.W. 53rd,Oklahoma City,OK,US,NULL
+24,1327 West Devers St.,West Covina,CA,US,NULL
+25,2401 First Ave. So.,Minneapolis 4,MN,US,NULL
+NULL,25,2401 First Ave. So.,Minneapolis 4,MN,US
+26,43 Rainbow Dr.,Humboldt,IA,US,NULL
+27,Box 432,Fossil,OR,US,NULL
+28,800 Saturn Ave.,Idaho Falls,ID,US,NULL
+29,1438 W. Euclid,Detroit 6,MI,US,NULL
+NULL,29,1438 W. Euclid,Detroit 6,MI,US
+NULL,NULL,29,1438 W. Euclid,Detroit 6,MI
+30,201 S. 9th St. Hildaver Apts.,Philadelphia 7,PA,US,NULL
+31,19248 Tyrone,Harper Woods 36,MI,US,NULL
+32,225 Rogers Ave.,Brooklyn 25,NY,US,NULL
+33,422 Monot Ave.,Auburn,ME,US,NULL
+NULL,33,422 Monot Ave.,Auburn,ME,US
+34,3708 Maple Leaf Drive,Bloomington,IN,US,NULL
+NULL,34,3708 Maple Leaf Drive,Bloomington,IN,US
+35,330 Skokie Lane N.,Glencoe,IL,US,NULL
+NULL,35,330 Skokie Lane N.,Glencoe,IL,US
+36,4 Waddell Road,Manchester,CT,US,NULL
+37,763 West North Street,Lime,OH,US,NULL
+38,1280 E. Bakerview Rd.,Bellingham,WA,US,NULL
+39,11675 Mortenview,Taylor,MI,US,NULL
+40,1409 Spring Valley Terr.,Huntington,WV,US,25704
+NULL,40,1409 Spring Valley Terr.,Huntington,WV,US
+41,"Ruth Hall, St. John's Academy",Winfield,KS,US,NULL
+42,227 King George Drive,Manassas,VA,US,NULL
+43,1619 N. 25th St.,Birmingham 4,AL,US,NULL
+44,1094 Chestnut St.,Newton,MA,US,2164
+NULL,44,1094 Chestnut St.,Newton,MA,US
+45,48 Lafountain St.,Winooski,VT,US,NULL
+46,536 W. Concourse,Cliffwood Beach,NJ,US,NULL
+47,220 Licking,Toledo,OH,US,43605
+48,"Rt. #3, Moran",Spokane,WA,US,NULL
+49,39 Lynn St.,Peabody,MA,US,1960
+50,7720 S.W. 16th St.,Miami,FL,US,83155
+51,98 Gilmar Lane,"Roslyn Heights, Long Island",NY,US,NULL
+52,Wayne Creamery Inc. 6745 Bostwick,Detroit 9,MI,US,NULL
+53,Lehigh University 614 Cherokee St.,Bethlehem,PA,US,NULL
+54,97 Shore Drive,Winthrop,MA,US,NULL
+55,319 Lincoln St.,Marysville,PA,US,17053
+NULL,56,1247 Dellwood Drive,Westlake,OH,US
+NULL,57,Box 154,Hopewell Junction,NY,US
+NULL,58,105 Parkway Road,Bronxville,NY,US
+NULL,59,1605 Joyce,Arlington,TX,US
+NULL,NULL,59,1605 Joyce,Arlington,TX
+NULL,60,Box 48,Joshua Tree,CA,US
+NULL,61,955 Preston Street,Sciotoville,OH,US
+62,40 Hillside Ave.,Vernon,NJ,US,NULL
+NULL,62,40 Hillside Ave.,Vernon,NJ,US
+NULL,63,NULL,East Northport,NY,US
+NULL,64,1206 31 Ave,San Mateo,CA,US
+NULL,66,1140 Rock Street,Victoria,BC,CA
+NULL,67,2809 Avenham Ave,Roanoke 14,VA,US
+NULL,68,"Bellingrath, Southwestern",Memphis 12,TN,US
+NULL,69,722 E. 102nd Street,Brooklyn 36,NY,US
+NULL,70,430 Beach Street,Ottawa,KS,US
+NULL,NULL,70,430 Beach Street,Ottawa,KS
+NULL,71,47 New York Ave.,Dunkirk,NY,US
+NULL,72,NULL,Worcester,MA,US
+NULL,73,4420 Meadowlark Lane,Santa Barbara,CA,US
+NULL,74,217 Kenwood Ave.,Rochester 11,NY,US
+NULL,75,203 W. 102nd St.,New York 25,NY,US
+NULL,76,674 Buttonwood Drive,Springfield,DE,US
+NULL,77,Burbank Hotel,Burbank,CA,US
+NULL,78,37 Windsor Sq.,Penicuik,MLN,GB
+NULL,79,115 Oak Drive,Central Point,OR,US
+NULL,80,3200 NW 169th Terr.,Miami,FL,US
+NULL,81,760 Oakway Place,Glendale 22,MO,US
+NULL,NULL,81,760 Oakway Place,Glendale 22,MO
+NULL,82,30A Bayview Place,Superior,WI,US
+NULL,83,5 Cherry Street,Hartford 6,CT,US
+NULL,84,Route 4,Sparta,TN,US
+NULL,85,8 Elizabeth Drive,Westport,CT,US
+NULL,86,906 Jackson St.,Wausau,WI,US
+NULL,87,NULL,Chicopee Falls,MA,US
+NULL,88,8017 S. Muskegon,Chicago 17,IL,US
+88,8017 S. Muskegon,Chicago 17,IL,US,NULL
+NULL,89,132 Douglas St.,San Francisco 14,CA,US
+NULL,90,3819 Chambers Drive,Nashville 11,TN,US
+NULL,91,3663 Hilaire Way,Seaford,NY,US
+NULL,92,231 Closson St.,Santa Fe,NM,US
+NULL,93,112-22 68 Drive,Forest Hills 75,NY,US
+NULL,94,4128 Tilden Ave.,Culver City,CA,US
+NULL,95,Comic Storehouse 145 Sanford St.,Glen Falls,NY,US
+NULL,96,3045 N. 48 Ave.,Phoenix 31,AZ,US
+NULL,97,2719 State St.,Butte,MO,US
+98,2145 Biarritz Dr.,Miami Beach,FL,US,NULL
+99,1800 Marion St.,Greensboro,NC,US,NULL
+NULL,100,117 Ivy Drive,Oronda,CA,US
+NULL,101,1906 Clairmont Terr.,Atlanta,GA,US
+101,1906 Clairmont Terr.,Atlanta,GA,US,NULL
+102,1521 N. Hamlin Ave.,Chicago,IL,US,NULL
+NULL,103,727 So. 56th St.,Philadelphia,PA,US
+NULL,104,2208 Harcourt Drive,Cleveland Heights ,OH,US
+105,5 Talbot St.,Longford,TAS,AU,NULL
+NULL,106,5933 Elkport,Lakewood,CA,US
+107,318 Bredrick St.,Delphos,OH,US,NULL
+NULL,108,PO Box 663,Salem,MA,US
+NULL,109,10 E. Washington Ave.,Le Center,MN,US
+110,119 1/2 Longfellow St.,Vandergrift,PA,US,15690
+NULL,111,2601 Cambria Ave.,Windber,PA,US
+NULL,112,303 Westover Drive,Birmingham 9,AL,US
+113,Quarters 34,Aberdeen Proving Grounds,MD,US,21005
+114,929 Hollywood Ave.,Bronx,NY,US,NULL
+115,2819 Schley Ave.,New York,NY,US,10465
+NULL,115,2819 Schley Ave.,New York,NY,US
+116,1215 1/2 California Ave.,Glendale,CA,US,NULL
+NULL,117,1243 Park Ave,Amherst,OH,US
+NULL,118,35th Armor,Bamberg,NULL,DE
+NULL,119,9 Crealock St.,"Kirkdale, Liverpool",LAN,UK
+120,67-36 214th St.,Bayside,NY,US,NULL
+NULL,121,703 S. Perry Street,Johnstown,NY,US
+122,1217 Ironton Ave.,Aurora,CO,US,NULL
+NULL,123,305 No. Jordan St.,Allentown,PA,US
+NULL,NULL,123,305 No. Jordan St.,Allentown,PA
+NULL,124,51 Hull Street,Brooklyn 33,NY,US
+125,D.D. 2,Etters,PA,US,NULL
+NULL,126,3996 Casgrain Drive,Windsor,ON,CA
+NULL,127,134 Convent Place,Yonkers,NY,US
+NULL,128,146 River Road,Hinckley,OH,US
+NULL,129,NULL,Bastrop,LA,US
+NULL,130,NULL,Niagara Falls,ON,CA
+NULL,131,NULL,Rye,NY,US
+132,700 Wayland Lane,Gilroy,CA,US,NULL
+NULL,NULL,132,700 Wayland Lane,Gilroy,CA
+133,6307 Thrush,Houston,TX,US,NULL
+134,400 Ward St.,Newton Centre,MA,US,NULL
+NULL,NULL,134,400 Ward St.,Newton Centre,MA
+135,718 Spring Drive,Walnut Creek,CA,US,NULL
+NULL,135,718 Spring Drive,Walnut Creek,CA,US
+136,94 Grafton Rd.,Glen Innes,NSW,AU,NULL
+137,1962 Shenandoah,Los Angeles,CA,US,NULL
+138,328 Garfield Ave.,Socoro,NM,US,87801
+139,749 E. 231st St.,New York,NY,US,10466
+140,Mobile Home Acres R.R. #2,Sapulpa,OK,US,NULL
+141,3644 Ulloa St.,San Francisco,CA,US,94116
+NULL,141,3644 Ulloa St.,San Francisco,CA,US
+142,R.R. #1,Alvordton,OH,US,NULL
+143,33 Hubbard Ave.,Freeport,NY,US,NULL
+NULL,143,33 Hubbard Ave.,Freeport,NY,US
+144,1436 First Ave.,Berwick,PA,US,18603
+NULL,144,1436 First Ave.,Berwick,PA,US
+NULL,NULL,144,1436 First Ave.,Berwick,PA
+145,2628 E. 24th St.,Granite City,IL,US,62042
+NULL,145,2628 E. 24th St.,Granite City,IL,US
+NULL,147,1050 Waverly Ave,San Antonio 1,TX,US
+NULL,148,329 Hamilton St.,Bound Brook,NJ,US
+NULL,149,8648 Balboa Drive,Cinncinnati 31,OH,US
+NULL,150,115 Arbour Lane,Buffalo 20,NY,US
+NULL,151,150 Hickory Road,Akron 13,OH,US
+NULL,152,182 1/2 Regent St.,Saratoga,NY,US
+152,182 1/2 Regent St.,Saratoga,NY,US,NULL
+NULL,NULL,152,182 1/2 Regent St.,Saratoga,NY
+NULL,153,676 Crawford Place,Peterborough,ON,CA
+NULL,154,1754 Beacon St.,Brookline 46,MA,US
+NULL,155,872 N. West St.,Winchester,IN,US
+NULL,156,521 E. Pasadena,Peoria,IL,US
+NULL,157,Box 326,Aberdeen,MD,US
+NULL,NULL,157,Box 326,Aberdeen,MD
+NULL,158,605 Grey St.,Joplin,MO,US
+NULL,159,259-03 80th Ave,Floral Park,NY,US
+NULL,160,#5 1395 Yost St.,Aurora,CO,US
+NULL,161,Braiden Hall,Fort Collins,CO,US
+NULL,162,231 E. 56th,Long Beach,CA,US
+NULL,163,"Box 379, So. Anderson Dr.",Tullahoma,TN,US
+NULL,164,26 Elizabeth Rd,New Rochelle,NY,US
+NULL,NULL,164,26 Elizabeth Rd,New Rochelle,NY
+NULL,165,2135 E. 14th Street,Tulsa,OK,US
+NULL,166,31 West,Park City,KY,US
+NULL,167,43-07 42nd St.,Sunnyside 4,NY,US
+167,43-07 42nd St.,Sunnyside 4,NY,US,NULL
+NULL,168,2037 Howard St.,Omaha 2,NE,US
+NULL,169,"#15 USMC, H&amp;S. 1-3, S-2 ",San Francisco,CA,US
+NULL,170,28 Colunbus Ave,Brentwood,NY,US
+NULL,171,1945 Amis Ave.,Las Cruces,NM,US
+NULL,172,19,Falconridge (R.C.A.F. station),ON,CA
+NULL,173,54 Catherine St.,New York 38,NY,US
+NULL,175,3015 Hudson St.,Baltimore 24,MD,US
+NULL,176,"Rt. #1, Box 36c",Waterford,CA,US
+NULL,177,1219 Elm St.,Waterford,CA,US
+NULL,178,Box 152,Dayton,NV,US
+NULL,179,545 Simmons Ave,Summerville,SC,US
+NULL,180,2514 Windsor Ave,Roanoke,VA,US
+NULL,181,2424 197th Pl.S.W.,Alderwood Manor,WA,US
+NULL,182,375 N. Oraton Pkwy.,East Orange,NJ,US
+NULL,183,Colgate University,Hamilton,NY,US
+184,"R.R. #2, Box 154",Newburg,MO,US,NULL
+NULL,185,30 Prigipos Konstantinou Palio Psyico,Athens,NULL,GR
+NULL,186,900 Ave. B,Valley View Great Falls,MO,US
+NULL,187,6 Charles St.,Seldon,NY,US
+NULL,188,Route #2,Kennesaw,GA,US
+NULL,189,305 Hampshire Dr.,DeWitt 14,NY,US
+NULL,190,1338 Dupont St.,Toronto,ON,CA
+191,R.R. #1,Argyle,IA,US,52619
+192,532 Britton Rd.,Rochester,NY,US,NULL
+193,204 Fourth St.,Rankin,PA,US,15104
+NULL,NULL,193,204 Fourth St.,Rankin,PA
+194,600 Rugeley Rd.,Western Springs,IL,US,NULL
+195,795 Pacific #527,San Francisco,CA,US,NULL
+196,10 Kingsgrove Blvd.,Toronto,ON,CA,NULL
+NULL,NULL,196,10 Kingsgrove Blvd.,Toronto,ON
+197,17912 Sunburst St.,Northridge,CA,US,91324
+198,1112 Avenue C,Bayonne,NJ,US,NULL
+199,36 Tristand Rd.,Clifton,NJ,US,NULL
+200,721 South Graham,Memphis,TN,US,NULL
+201,217 Page Rd.,Nashville,TN,US,NULL
+202,13433 Fitz Way,Aurora,CO,US,NULL
+203,Greenwood Acres,Annapolis,MD,US,NULL
+204,P.O. Box 83,London,KY,US,NULL
+205,7114 Varnum St.,Landover Hills,MD,US,NULL
+206,R.R. #1,Brighton,IA,US,52540
+207,1915 Portage Ave.,Winnipeg,MB,CA,NULL
+208,5645 N. Muscatel,San Gabriel,CA,US,91776
+NULL,NULL,208,5645 N. Muscatel,San Gabriel,CA
+209,2222 Victory Memorial Dr.,Minneapolis,MN,US,55412
+210,3125 Big Walton Ave.,Baldwin Park,CA,US,91706
+NULL,211,1521 Highway 80,Weatherford,TX,US
+NULL,212,3911 Zephyr St.,Houston 21,TX,US
+NULL,213,"Rt. #1, Box 329",Bluefield,WV,US
+NULL,214,2701 Portland Ave.,Louisville,KY,US
+NULL,215,548 Inghram Ave.,Calumet City,IL,US
+NULL,216,100 Beacon St.,Boston,MA,US
+NULL,217,3077 Donny Brook,Costa Mesa,CA,US
+NULL,218,3231 Southgreen Rd.,Baltimore,MD,US
+NULL,219,5962 N. Sheridan Rd.,Chicago 40,IL,US
+NULL,220,St. Edward's University,Austin,TX,US
+NULL,221,19 120th St.,Troy,NY,US
+NULL,NULL,221,19 120th St.,Troy,NY
+NULL,222,Leftwitch St.,Gretna,VA,US
+NULL,223,47 Woodland Rd.,Short Hills,NJ,US
+NULL,224,1537 S. Clarion,Philadelphia,PA,US
+NULL,225,949 Gretta Ave.,West Covina,CA,US
+NULL,226,502 E Indian Spring,Silver Spring,MD,US
+NULL,227,3838 N. Claremont,Chicago,IL,US
+228,Rt. #1,Atchison,KS,US,66002
+NULL,NULL,228,Rt. #1,Atchison,KS
+229,20 Circle Drive,Moorseville,IN,US,NULL
+232,2318 44th Ave.,San Francisco,CA,US,94116
+NULL,NULL,232,2318 44th Ave.,San Francisco,CA
+233,3919 S.W. Hanford,Seattle,WA,US,98116
+234,7401 4th N.W.,Albuquerque,NM,US,NULL
+NULL,234,7401 4th N.W.,Albuquerque,NM,US
+235,106 Central Drive,Stoughton,MA,US,2072
+236,423 Lathrop Ave.,Boonton,NJ,US,7005
+237,NULL,Bireh,NULL,JO,NULL
+238,273 So. Pearl St.,Albany,NY,US,NULL
+239,309 North West 9th,Dimmitt,TX,US,79027
+240,75 Higashi-Ogi Machi ,Tokyo,JP-13,JP,NULL
+241,"Page House, Caltech",Pasadena,CA,US,91109
+242,91 Duymar,Toronto 8,ON,CA,NULL
+243,3310 Kossuth Ave.,Bronx,NY,US,10467
+244,6906 St. Clair,Cleveland 3,OH,US,NULL
+245,60th MP Det. 2nd MP Grp. APO,New York,NY,US,9185
+246,4343 Monroe,Kansas City,MO,US,NULL
+247,86 Clifton Ave.,Brockton,MA,US,2401
+248,6030 Eckleson St.,Lakewood,CA,US,90713
+249,169 S. Spring Mill Rd.,Villanova,PA,US,NULL
+250,1004 Sunset Ave.,Zanesville,OH,US,NULL
+251,374 Burroughs Drive,Buffalo,NY,US,14226
+NULL,251,374 Burroughs Drive,Buffalo,NY,US
+NULL,NULL,251,374 Burroughs Drive,Buffalo,NY
+252,2601 Kearney St.,Denver,CO,US,80207
+253,137 Glen Aire Drive,Springfield,IL,US,62703
+254,Rt. #3,Laurel,MS,US,39440
+255,2102 Kearney,Laredo,TX,US,NULL
+NULL,255,2102 Kearney,Laredo,TX,US
+256,"Phi Kappa Tau, R.P.I. 19 Sherry Road",Troy,NY,US,NULL
+257,3615 Edmondson Ave.,Baltimore,MD,US,21229
+258,7308 2nd Ave. So.,Richfield,MN,US,55423
+259,1320 Rose St.,Camden,NJ,US,8104
+260,421 Windsor,Savannah,GA,US,NULL
+261,1882 Royal Cres.,London,ON,CA,NULL
+262,2974 Arlington Blvd.,Indianapolis 18,IN,US,NULL
+263,11941 Univ. of Calif. at Santa Barbara,Santa Barbara,CA,US,93107
+264,2102 Rosemary Lane,Columbus,GA,US,NULL
+265,#1 Nelson Crescent,Horndean,HPH,GB,NULL
+266,180 Lincoln Ave.,Rochester,NY,US,14611
+267,1395 Greene Ave.,Brooklyn,NY,US,11237
+NULL,267,1395 Greene Ave.,Brooklyn,NY,US
+268,3 Brookwood St.,East Orange,NJ,US,7107
+NULL,NULL,268,3 Brookwood St.,East Orange,NJ
+269,925 Westshire Drive,Joliet,IL,US,NULL
+270,4513 W. 227th St.,Fairview Park,OH,US,NULL
+271,58 Moross Rd.,Gross Pointe Farms,MI,US,NULL
+272,Gallaudet College,Washington D.C.,DC,US,NULL
+273,548 Riverside Dr.,New York,NY,US,NULL
+274,876 S. Williams,Denver,CO,US,NULL
+NULL,274,876 S. Williams,Denver,CO,US
+NULL,275,363 Pritchard Ave.,Winnipeg,MB,CA
+276,522 Cherry St.,Dalhart,TX,US,NULL
+277,313 Edgewater Rd.,Savannah,GA,US,NULL
+NULL,278,Box 1069,Berkeley,CA,US
+279,8 Anita Rd.,West Peabody,MA,US,NULL
+280,3361 Birdsall Ave.,Oakland,CA,US,NULL
+NULL,281,919 Grant St.,Ypsilanti,MI,US
+282,1330 N.E. 212 Terrace,N. Miami Beach,FL,US,33162
+283,138 Powell Blvd.,Portland,OR,US,NULL
+NULL,284,TUSLOG Det. 16 APO 289,New York,NY,US
+285,Apartado E. 221 Almaden Paris Volcan,San Salvador,NULL,SV,NULL
+NULL,286,123 Mt. Shasta,Dallas,TX,US
+288,5215 Loch Lomond,Houston,TX,US,77035
+NULL,289,58A Chenery St.,San Francisco,CA,US
+NULL,290,249 W. Main,Gardner,KA,US
+NULL,291,2674 Lindenwood Dr.,Bridgeville,PA,US
+NULL,292,3774 E. 151 St.,Cleveland,OH,US
+NULL,293,RR #3 Box 16,Brookville,OH,US
+NULL,294,6630 Crosswell St.,Houston 17,TX,US
+NULL,295,Rt. #1 Box 103,Charleston,WV,US
+295,Rt. #1 Box 103,Charleston,WV,US,NULL
+NULL,296,481 Cedar,Ventura ,CA,US
+NULL,297,1010 Moro,Manhattan,KA,US
+NULL,298,Box 365,Calmar,AB,CA
+NULL,299,427 Quan Ave.,Kirkwood 22,MO,US
+NULL,NULL,299,427 Quan Ave.,Kirkwood 22,MO
+NULL,300,12601 Speedway Overlook,East Cleveland,OH,US
+NULL,303,"2509 Newby Road, S.W.",Huntsville,AL,US
+NULL,305,1090 Park Ave.,New York,NY,US
+NULL,306,9 Linn Lane,Wayland,MA,US
+NULL,307,4401 California St.,Omaha 31,NE,US
+NULL,308,P.O. Box 9432,Rochester 4,NY,US
+NULL,309,98 Victoria Rd.,Nanaimo,BC,CA
+NULL,310,1345 Grand Ave.,Grand Junction,CO,US
+NULL,311,112 Powells Lane,Wintersville,OH,US
+NULL,312,5671 Christiancy,Detroit 9,MI,US
+NULL,313,38 Carlson Ave.,Danville,VA,US
+NULL,314,Abderdeen Proving Ground,Qtrs. 34,MD,US
+NULL,315,810 W. Walnut,Santa Ana,CA,US
+NULL,316,Box 294,Lakeside,AZ,US
+NULL,317,Box 15,Big Rock,IL,US
+NULL,318,3906 Jackson,Kansas City,MO,US
+NULL,319,3709 Sixth Ave.,So. Milwaukee,WI,US
+NULL,320,3411 Devon Rd.,Royal Oak,MI,US
+NULL,321,13807 Kornblum Ave.,Hawthorne,CA,US
+NULL,322,192 Elk St.,Buffalo 10,NY,US
+NULL,323,1903 Avenue U,Brooklyn 29,NY,US
+NULL,324,10204 St. Lawrence,Chicago,IL,US
+NULL,325,150 E. Washington Ave.,Atlantic Highlands,NJ,US
+NULL,326,785 Parklin Ave.,Sacramento,CA,US
+NULL,327,345 Lansing Ave.,Troy,NY,US
+NULL,328,Radio Station PO Box 711,Phoenix,AZ,US
+NULL,329,77 Whitney St.,Auburn,ME,US
+NULL,330,PO Box 432,Westwood,CA,US
+NULL,331,3547 Roaslia Ave,Bloomington,IN,US
+NULL,332,412 Spring St.,Harrisville,WV,US
+NULL,333,201 Conover Dr.,Birmingham 6,AL,US
+NULL,334,2760 Piqua St.,Ashland,KY,US
+NULL,335,4609 Artell,Albuquerque,NM,US
+NULL,336,Phi Gamma Delta Wabash College,Crawfordsville,IN,US
+NULL,337,PO Box No. 367,Tanga.,TANU,EA
+NULL,338,5121 Holmes Runn Pkwy,Alexandria,VA,US
+NULL,339,3124 Colfax,Topeka,KA,US
+NULL,340,1261 Merrian Ave.,Bronx,NY,US
+NULL,341,163 Viale Cogley,Rome,LAZ,IT
+NULL,342,Rt. 2 Box 252,Roswell,NM,US
+NULL,343,119 W. Lex St.,Danville,KY,US
+NULL,344,BM3 USS Merrick c/o Fleet Post Office,San Francisco,CA,US
+NULL,345,220 N. North St.,Washington C.H.,OH,US
+NULL,346,711 Arch St.,Spring City,PA,US
+NULL,347,985 Dundas Hwy,West Cooksville,ON,CA
+NULL,348,1289 Chisholm St.,Bronx,NY,US
+NULL,349,505 So. Second,Hugo,OK,US
+NULL,350,400 Garden Lane,Bryn Mawr,PA,US
+NULL,NULL,350,400 Garden Lane,Bryn Mawr,PA
+NULL,351,Alpha Tau Kappa 674 N. Grove St.,Banning,CA,US
+NULL,352,109 Pulaski Ave.,Carteret,NJ,US
+NULL,353,971 Bonneville Way,Toole,UT,US
+NULL,354,R.R. #1 Easton,Alton,IL,US
+NULL,355,NULL,Mt. Carroll,IL,US
+NULL,357,1912 W. 3rd St.,Williamsport,PA,US
+NULL,NULL,357,1912 W. 3rd St.,Williamsport,PA
+NULL,358,3643 Tilden St. N.W.,Washington D.C.,DC,US
+NULL,359,4031 Wichita St.,Houston,TX,US
+NULL,361,2533 Batchelder St.,Brooklyn,NY,US
+NULL,362,18 Ronan Road,"Glen Cove, L.I.",NY,US
+NULL,363,159 First Avenue,Welland,ON,CA
+NULL,364,19 Child St.,Augusta,ME,US
+NULL,365,6513 28th Ave,Kenosha,WI,US
+NULL,366,NULL,Presho,SD,US
+NULL,368,240 Marion Lane,Eugene,OR,US
+NULL,369,606 W. 11th St.,Rolla,MO,US
+NULL,370,1855 Carolina Ave.,Butte,MT,US
+NULL,371,1129 Clarence,Oak Park,IL,US
+NULL,372,1210 Sutter Ave.,Brooklyn,NY,US
+NULL,373,Box 126,Simpson,SC,US
+NULL,374,South 403 Amherst College,Amherst,MA,US
+NULL,375,Box 541 APO 09125,NY,NY,US
+NULL,376,4391 Byseville Blvd.,Dayton,OH,US
+NULL,377,718 S. Washington Rd.,Baltimore,MD,US
+NULL,378,5505 Virginia,Kansas City,MO,US
+NULL,379,35 Ogston Terr.,Malverne,NY,US
+NULL,380,7 Cross St.,Pittsburgh,PA,US
+NULL,381,1501 Ladd St.,Silver Spring,MD,US
+NULL,382,309 North Park Ave.,Tucson,AZ,US
+NULL,383,2906 Cambridge,Des Moines,IA,US
+NULL,NULL,383,2906 Cambridge,Des Moines,IA
+NULL,384,30 Nicherson Ave.,St. Catherines,ON,CA
+NULL,385,127 Park Lane,Rochester,NY,US
+NULL,386,1120 N.E. 170th St. No.,Miami Beach,FL,US
+NULL,387,Cooper Rd.,Parkston,MD,US
+NULL,388,1101 S. Virlee,Santa Ana,CA,US
+NULL,389,"RA 12547327 "B" Btry, 5th Msl, 1st Arty., A",New York,NY,US
+NULL,390,113 Blue Hill Lane,Akron,OH,US
+NULL,393,6839 Molson St.,Montreal 36,QC,CA
+NULL,394,65-10 99th St.,Rego Park,NY,US
+NULL,395,21-10 33rd Rd.,Long Island City,NY,US
+NULL,NULL,395,21-10 33rd Rd.,Long Island City,NY
+NULL,396,10204 St. Lawrence,Chicago,IL,US
+NULL,397,2250 Crandell Dr.,St. Louis 36,MO,US
+NULL,398,2281 Medina,Colombus,OH,US
+NULL,399,14 Gesner St.,Linden,NJ,US
+NULL,400,204 E. Gough Ave.,Boonville,IN,US
+NULL,401,35 Sophia Dr.,West Warwick,RI,US
+NULL,402,47 Sayre Dr.,Greenwood ,IN,US
+NULL,403,6 South Caro,Colorado Springs,CO,US
+NULL,NULL,403,6 South Caro,Colorado Springs,CO
+NULL,405,31-10 Sentinel Rd.,Downsview,ON,CA
+NULL,NULL,405,31-10 Sentinel Rd.,Downsview,ON
+NULL,406,84 Plymouth No. Dr.,Glen Head,NY,US
+NULL,407,927 37th Ave.,East Moline,IL,US
+NULL,408,King St.,Princes Town,PT,TT
+NULL,409,1301 Chambers Rd.,St. Louis,MO,US
+NULL,410,603 Burr Oak St.,Albion,MI,US
+NULL,412,220 Inslee Place,Elizabeth,NJ,US
+NULL,413,51 Hull St.,Brooklyn 33,NY,US
+NULL,414,91-1111 Kuhina St.,Ewa Beach,HI,US
+NULL,415,218 Shelburne Road,Greenville,SC,US
+NULL,416,North Star Route,Williston,ND,US
+NULL,417,4281 Marlbrough Ave.,San Diego 5,CA,US
+NULL,418,423 Lathrop Ave.,Boonton,NJ,US
+NULL,419,4555 W. 156th St.,Cleveland 35,OH,US
+NULL,420,1008 N. Francisco Ave.,Chicago 22,IL,US
+NULL,421,223 Seaman St.,Knoxville,TN,US
+NULL,422,Calle 17 #1133 Villa Nevarez,Rio Piedras,,PR
+NULL,423,1508 Rossman S.E.,Grand Rapids,MI,US
+423,1508 Rossman S.E.,Grand Rapids,MI,US,49501
+NULL,424,604 N. George St.,Rome,NY,US
+NULL,425,5122 Williams Dr.,Corpus Christi,TX,US
+NULL,426,Lake Forest College,Lake Forest,IL,US
+NULL,427,255 Pennsylvania Ave.,Hillside 5,NJ,US
+NULL,428,2003 Chatterton Ave.,Bronx 72,NY,US
+NULL,429,844 Pecos Rd.,Santa Fe.,NM,US
+NULL,430,1656 N. Redfield St.,Philadelphia,PA,US
+NULL,431,"Box 1121 Men's Graduate Center, Duke Univers",Durham,NC,US
+NULL,432,32-A Maxwell AFB,Montgomery,AL,US
+NULL,433,3247 Thornwood Dr.,Bethel Park,PA,US
+NULL,434,6847 Weller Dr.,Rockford,MI,US
+NULL,435,5 Fiske Rd.,Lexington,MA,US
+NULL,436,Ohio University 142 E. State St.,Athens,OH,US
+NULL,437,la Rue Bernard Million,St. Jean-la-Ruelle,FR-45,FR
+NULL,438,397 Bailey Ave.,Pittsburgh 11,PA,US
+NULL,439,20750 harrington,Mt. Clemens,MI,US
+NULL,440,46 Hagaman St.,Port Reading,NJ,US
+NULL,441,8362 DeCosta Ave.,Whittier,CA,US
+NULL,NULL,441,8362 DeCosta Ave.,Whittier,CA
+NULL,442,810 N.E. 152nd St.,Portland,OR,US
+442,810 N.E. 152nd St.,Portland,OR,US,97230
+NULL,443,Box 446,Novlina,NC,US
+NULL,NULL,443,Box 446,Novlina,NC
+NULL,444,198 Kimberly Rd.,Barrington,IL,US
+NULL,445,400 S. Sloan,Compton ,CA,US
+NULL,446,2867 No. Fifth St.,Milwaukee 12,WI,US
+NULL,447,"138 Yale Station, Yale Univ.",New Haven,CT,US
+NULL,448,1240 Elm St.,Macon,GA,US
+NULL,449,630 So. Segoe,Madison,WI,US
+NULL,450,2141 1/2 South Ojar St.,Santa Paula,CA,US
+NULL,451,21046 Cyman,Warren,MI,US
+NULL,452,142-18 59 Ave,Flushing,NY,US
+NULL,453,674 Main St.,Lancaster,MA,US
+NULL,454,1610 Palo Verde,Las Cruces,NM,US
+NULL,455,2466 Beaumont Ave.,Bronx 58,NY,US
+NULL,456,2306 Pine St.,Edgewood,MD,US
+NULL,457,6460 Kingsley Dr.,Indianapolis ,IN,US
+NULL,458,953 Bellerive Blvd.,St. Louis,MO,US
+NULL,459,1704 E. Russell,Sioux Falls,SD,US
+NULL,460,3721 Harvest Ave.,Indianapolis,IN,US
+NULL,461,Rt. #2,Camden,TN,US
+NULL,462,590 Spencer,Ferndale,MI,US
+NULL,463,4557 Apple Orchard Lane,Rockford,IL,US
+NULL,464,43 Adler Circle,Galveston,TX,US
+NULL,465,710 Eason Ave.,Buckeye,AZ,US
+NULL,NULL,465,710 Eason Ave.,Buckeye,AZ
+NULL,466,210 No. Gray Ave.,Wilmington,DE,US
+NULL,467,5125 Juneau Rd.,Madison,WI,US
+NULL,469,P.O. Box 312,Raymond,MS,US
+NULL,470,"R.R. #2, Box 301",Crestwood,KY,US
+NULL,471,4188 Auburn Rd.,Memphis,TN,US
+NULL,472,1102 Pleasant St.,Brockton,MA,US
+NULL,473,309 Judd Rd.,Amelia,OH,US
+NULL,474,5715 W. Cambridge St.,Phila.,PA,US
+NULL,475,111 Olin Drive,Newport News,VA,US
+NULL,476,NULL,Pascagoula,MS,US
+NULL,NULL,476,NULL,Pascagoula,MS
+NULL,477,Rt. #1 Box 101,Savage,MN,US
+NULL,478,2102 Menefee,Arlington,TX,US
+NULL,479,576 Nott St.,Wethersfield,CT,US
+NULL,480,333 Oak St.,Glen Ellyn,IL,US
+NULL,481,292 Warburton Ave,Hastings-on-Hudson,NY,US
+NULL,482,"Room 203, 625 Mad. Ave.",NYC,NY,US
+NULL,483,1171 Virginia St.,Berkeley,CA,US
+NULL,484,324 E. 4th St.,Mt. Vernon,NY,US
+NULL,485,207 49th N.E. ,Washington D.C.,DC,US
+NULL,486,11203 Peony Ave.,Cleveland,OH,US
+486,11203 Peony Ave.,Cleveland,OH,US,44111
+NULL,487,5108 43rd Ave. So.,Minneapolis,MN,US
+NULL,488,"Henry House, Radcliffe College",Cambridge,MA,US
+NULL,489,"Chautauqua Hall, State U. of N.Y.",Fredonia,NY,US
+NULL,490,"210 Pond, Amherst College",Amherst,MA,US
+NULL,491,3301 Cimmaron,Midland,TX,US
+NULL,NULL,491,3301 Cimmaron,Midland,TX
+NULL,492,RFD #8,Washington,MA,US
+NULL,493,21 1/2 Bagley Alley,Bradford ,PA,US
+NULL,494,Box 104 Hobart College,Geneva ,NY,US
+495,204 Eldorado,Tacoma,WA,US,98466
+NULL,496,"611 No, 4th St.",Camden,NJ,US
+NULL,497,12012 S.W. 176th Terr.,Miami,FL,US
+NULL,498,12012 S.W. 176th Terr.,Miami,FL,US
+NULL,499,536 W. 111 St. ,New York City,NY,US
+NULL,500,1 Cardinal Lane,Baltimore,MD,US
+NULL,501,5745 Cameron Blvd.,New Orleans,LA,US
+NULL,502,1750 Main,Osawatomic,KS,US
+NULL,NULL,502,1750 Main,Osawatomic,KS
+NULL,503,2453 So. Lawndale,Chicago,IL,US
+NULL,504,NULL,Keota,IA,US
+NULL,505,"Eastwood" De Waal Drive,Cape Town,NULL,ZA
+NULL,506,5101 No. Cypress,Kansas City,MO,US
+NULL,507,42 W. Washington,Athens,OH,US
+NULL,508,1099 Bane St.,S.W. Warren,OH,US
+509,2310 18th St.,Cuyahoga Falls,OH,US,44223
+NULL,510,NULL,NULL,ON,CA
+511,346 E. 87th St.,New York,NY,US,10028
+512,P.O. Box 971,Dalhart,TX,US,79022
+514,"Rt. #4, Box 139",Chesapeake,VA,US,NULL
+NULL,515,520 W. Main,Hoopeston,IL,US
+516,31 Birch Lane,Ipswich,MA,US,NULL
+NULL,517,NULL,Minneapolis,MN,US
+518,University of So. Florida,Tampa,FL,US,NULL
+NULL,519,NULL,New Philadelphia,O.,NULL
+NULL,520,"Med. Sec. 222nd Aviation Bn., APO, S.F.",NULL,NULL,NULL
+NULL,521,NULL,Bellevue,NE,US
+NULL,522,Miller St.,Oxford,WI,US
+NULL,523,NULL,Norman,OK,NULL
+NULL,524,8250 Groby,University City,MO,US
+525,P.O. Box 289,Vientiane,NULL,LA,NULL
+NULL,526,NULL,"Pittsburgh, 21",PA,NULL
+NULL,527,386 East Ave.,Brockport,NY,US
+528,4554 N. Malden St.,Chicago,IL,US,60640
+529,5326 Juniata St.,Duluth,MN,US,55804
+NULL,530,USS Salisbury Sound AV-13 c/o F.P.O,San Francisco,CA,US
+NULL,531,315 Bills Ave.,Ocean Springs,MS,US
+532,6430 Kies St.,Rockford,MI,US,NULL
+NULL,533,NULL,E. Cleveland,OH,US
+NULL,534,NULL,Milford,MA,US
+NULL,535,4916 E. 86th St.,Garfield Heights,OH,US
+NULL,536,1116 Tonawanda Ave.,Akron,OH,US
+537,"R.R. #2, Box 46",Cheney,KS,US,NULL
+NULL,538,4160 Holly Dr.,San Jose,CA,US
+539,1368 Webster Ave.,Bronx,NY,US,NULL
+NULL,540,8 Robinson Rd.,Lexington 73,MA,US
+NULL,541,NULL,San Diego 4,CA,US
+NULL,542,"211 Alwood Hall, Tri-State College",Angola,IN,US
+NULL,543,NULL,New York 29,NY,US
+NULL,544,571 W. Lincoln,Fresno,CA,US
+NULL,545,NULL,Philadelphia,PA,NULL
+546,NULL,Wiesbaden,NULL,DE,NULL
+NULL,546,NULL,Wiesbaden,NULL,DE
+NULL,547,NULL,Canton 6,OH,US
+NULL,548,Box 14,New Baltimore,NY,US
+NULL,549,NULL,Springfield,MA,US
+550,5025 Olivewood,Riverside,CA,US,NULL
+NULL,551,NULL,Elizabeth,NJ,US
+552,2226 Brewster Ave.,Redwood City,CA,US,94062
+NULL,553,203 Hullgarten Hall Dartmouth College,Hanover,NH,US
+NULL,554,132a Teaneck Rd.,Ridgefield Park,NJ,US
+NULL,NULL,554,132a Teaneck Rd.,Ridgefield Park,NJ
+NULL,555,1927 Benton St.,Boone,IA,US
+556,St. Bonaventure H.S.,Sturtevant,WI,US,NULL
+557,"Box 1836, Brown University",Providence,RI,US,2912
+NULL,558,224 Arundel Rd.,Riviera Beach,MD,US
+NULL,559,12423 Spanish Pd. Rd.,St. Louis,MO,US
+NULL,560,115 So. 54th St.,Omaha,NE,US
+NULL,561,163 Himrod St.,Brooklyn 21,NY,US
+NULL,562,106 E. 2nd St.,Brooklyn 18,NY,US
+NULL,563,370 W. 109 St.,New York,NY,US
+NULL,564,681 Maple St.,Indiana,PA,US
+NULL,565,6328 Perkins St.,Detroit,MI,US
+NULL,NULL,565,6328 Perkins St.,Detroit,MI
+NULL,566,R.D. #2,Howard,PA,US
+NULL,567,APO 122,New York,NY,US
+NULL,569,Star Route,Lisbon,ME,US
+NULL,570,3606 Pelzer Ave.,Montgomery,AL,US
+NULL,571,5th RRU APO,San Francisco,CA,US
+NULL,572,2815 Boston Blvd.,Lansing,MI,US
+575,102 Merritt St.,South Boston,VA,US,NULL
+576,5113 Canton Dr.,Memphis,TN,US,NULL
+577,48 Polmarie Dr.,Poland,OH,US,44514
+578,1511 London St.,New Westminster,BC,CA,NULL
+579,"Warner Hall, 218B, Wisconsin State Univ.",Platteville,WI,US,NULL
+580,51 Brooksite Dr.,Smithtown,NY,US,11787
+581,671 Midway Blvd.,Novato,CA,US,94947
+582,8801 Trafalgar Ct.,Springfield,VA,US,NULL
+583,AF16876931 610 Elm Street,Holly,MI,US,NULL
+584,"Rt. #3, Box 196",Battle Creek,MI,US,49017
+585,3124 S. Wells St.,Chicago,IL,US,60616
+586,171 Huning Ridge Rd.,Stamford,CT,US,6903
+587,1575 E. 174th St.,New York,NY,US,NULL
+588,1714 Nason St.,Alameda,CA,US,94501
+589,156 Wall St.,Watsonville,CA,US,NULL
+590,Mayberry's Barber Shop 2728 E. Belmont Ave.,Fresno,CA,US,93701
+591,584 Herrick Dr.,Dover,NJ,US,7801
+592,32 Crispin Cres.,Willowdale,ON,CA,NULL
+593,156 Hiscock Blvd.,Scarborough,ON,CA,NULL
+NULL,593,156 Hiscock Blvd.,Scarborough,ON,CA
+594,"Box 471, Mariana Hall",Rochester,MN,US,NULL
+595,140 E. 40th St.,New York,NY,US,NULL
+596,"Qtrs. B., USNAD",Crane,IN,US,NULL
+597,1110 Redwood St.,Oxnard,CA,US,93030
+598,893 Schenck Ave.,Brooklyn 7,NY,US,NULL
+599,644 Mosswood Ave.,Orange,NJ,US,NULL
+600,918 Nita Ct.,Chula Vista,CA,US,92011
+601,1415 Farley St.,Houston,TX,US,NULL
+602,218 W. Seneca,Tampa,FL,US,33612
+603,452 E. 95th St.,Brooklyn 12,NY,US,NULL
+NULL,NULL,603,452 E. 95th St.,Brooklyn 12,NY
+604,2211 Forest Oaks Dr.,Dallas 28,TX,US,NULL
+605,217 So. Connecticut Ave.,Atlantic City,NJ,US,NULL
+606,109 Geneva St.,Medford,OR,US,97501
+607,63-09 108th St. (3L),Forest Hills,NY,US,NULL
+608,1382 St. Johns Pl.,Brooklyn,NY,US,11213
+609,119 Prospect St.,Jersey City,NJ,US,7307
+610,E. Stroudsburg State College,E. Stroudsburg,PA,US,NULL
+611,3135 Pennsylvania,St. Louis,MO,US,63118
+612,4615 Varsity,Ventura,CA,US,93003
+NULL,613,1006 W. 19th,Austin 1,TX,US
+614,28 Hill Top St.,Dorchester,MA,US,2124
+615,"Rt. #3, Box 108 Johnson Rd.",Hattiesburg,MS,US,NULL
+616,(Univ. of Washington) 5520 31st N.E.,Seattle,WA,US,98105
+NULL,617,Rt. 10,Tyler,TX,US
+NULL,618,404 Smith St.,West Union,IA,US
+NULL,619,2423 Greenway,Raleigh,NC,US
+NULL,620,1319 Queen,Minneapolis,MN,US
+NULL,621,3824 Aldington Dr.,Jacksonville 10,FL,US
+NULL,622,RFD #2,Safattus,ME,US
+NULL,623,2357 Macon,Aurora,CO,US
+NULL,624,Box 854 Murphree Area,Gainsville,FL,US
+NULL,625,165 Windsor Rd.,Asheville,NC,US
+NULL,NULL,625,165 Windsor Rd.,Asheville,NC
+NULL,626,22 E. Osceola St.,Stuart,FL,US
+NULL,627,2 Rydal Gardens,Hounslow,Middx,UK
+NULL,NULL,627,2 Rydal Gardens,Hounslow,Middx
+NULL,628,584 River St.,Paterson,NJ,US
+NULL,629,NULL,Oxnard Beach,CA,US
+NULL,630,3505 Ave. G,Birmingham,AL,US
+631,107 Longlands Rd. Newton Abbey,Belfast,NIR,GB,NULL
+632,1615 Best Blvd.,Wichita Falls,TX,US,NULL
+633,3493 Remco St.,Castro Valley,CA,US,94546
+634,23 W. Union St.,Nanticoke,PA,US,18634
+635,Route 1,Cataraqui,ON,CA,NULL
+636,4918 Pearl St.,Anderson,IN,US,46014
+637,6824 N.91st St.,Milwaukee,WI,US,NULL
+638,1206 Pontiac Ave.,Cranston,RI,US,2920
+NULL,NULL,638,1206 Pontiac Ave.,Cranston,RI
+639,118 Magnolia Ave.,Sea Girt,NJ,US,8750
+640,59 Lake Ave.,Leicester,MA,US,NULL
+641,413 Lakewood Dr.,Richmond,VA,US,23229
+642,45 Hulmeville Rd.,Langhorne,PA,US,19047
+643,1 Det. 97th M.P. Co. APO,New York,NY,US,9011
+644,1866 Danvill Rd.,Memphis,TN,US,38117
+645,215 Woodshire Dr.,Mankato,MN,US,NULL
+NULL,645,215 Woodshire Dr.,Mankato,MN,US
+646,2702 Range Line,Joplin,MO,US,64801
+647,15 Quakeroak Rd.,Levittown,PA,US,19057
+648,256 W. Verdugo,Burbank,CA,US,91502
+649,"Rt. #1, Box 148",Chatham,NY,US,12037
+NULL,NULL,649,"Rt. #1, Box 148",Chatham,NY
+650,1307 Penna Ave.,Colton,CA,US,NULL
+651,84 Francis St.,Fairhaven,MA,US,NULL
+652,Brookside Farm,East Stroudsburg,PA,US,18301
+653,176 E. Springettsbury Ave.,York,PA,US,17403
+654,220 Walnut St.,Roselle,NJ,US,7203
+655,63 Fontainbleau Dr.,Willowdale,ON,CA,NULL
+656,10418 Tennessee Ave,Los Angeles,CA,US,90064
+NULL,NULL,656,10418 Tennessee Ave,Los Angeles,CA
+NULL,657,Michigan State University,East Lansing,MI,US
+NULL,658,4701 Fordham Rd.,College Park,MD,US
+NULL,659,368 63rd St.,Brooklyn,NY,US
+NULL,660,2122 Milburn Blvd.,Mishawaka,IN,US
+NULL,661,206 Oakwood Rd.,Fairfax Wilmington,DE,US
+NULL,662,FEC Box 487,Faribanks,AK,US
+NULL,663,1018 Bendemere Ave.,Wanamassa,NJ,US
+NULL,665,208 Park Ave,Somerdale,NJ,US
+NULL,666,401 N.E. 6th St.,Tulia,TX,US
+NULL,667,P.S. 25 811 E. 149th St.,Bronx,NY,US
+668,325 Waukegan Ave.,Highwood,IL,US,NULL
+NULL,669,Box 8,Duncan,AZ,US
+670,2103 Skyline Dr.,Bartlesville,OK,US,NULL
+671,425 Rose St.,Chester,PA,US,NULL
+NULL,672,195 E. Argyle St.,Valley Stream,NY,US
+673,10047 61st So.,Seattle,WA,US,98178
+674,1011 W. Belvedere Circle,Mobile,AL,US,36606
+NULL,675,RGN APO,New York,NY,US
+676,Rt. #1,Lake Elmo,MN,US,55042
+677,1641 Ocean Ave.,Brooklyn,NY,US,11230
+678,1132 Perkiomen Ave.,Reading,PA,US,NULL
+679,1302 Campbell St.,Sidney,OH,US,45365
+NULL,680,1324 Fair Park Blvd.,Little Rock,AR,US
+681,1227 Magnolia Ave.,Santa Ana,CA,US,92707
+NULL,NULL,681,1227 Magnolia Ave.,Santa Ana,CA
+NULL,681,1227 Magnolia Ave.,Santa Ana,CA,US
+NULL,682,1157 E. Hortter,Philadelphia,PA,US
+683,27 Governor Belcher Lane,Milton,MA,US,2186
+NULL,683,27 Governor Belcher Lane,Milton,MA,US
+NULL,NULL,683,27 Governor Belcher Lane,Milton,MA
+NULL,684,2213 Ridgewood Drive,Gastonia,NC,US
+NULL,685,687 N. 6th Ave.,Hillsboro,OR,US
+NULL,686,521 Carey St.,Lansing 15,MI,US
+687,1600-A Landa St.,Los Angeles,CA,US,90026
+688,419 S. Fairview Ave.,Rockford,IL,US,61108
+689,421 Mimosa Dr.,Norman,OK,US,73069
+690,"133 Cuyler, Princeton Univ.",Princeton,NJ,US,NULL
+NULL,691,1219 Elm Street,Peekskill,NY,US
+692,2142 Sedgewick,Chicago,IL,US,60614
+693,607 Terrace St.,Honesdale,PA,US,NULL
+NULL,694,470 Glendale Road,North Wilbraham,MA,US
+NULL,695,509 Lameuse St.,Biloxi,MS,US
+NULL,696,1563 Brookcrest Dr.,Hamilton,OH,US
+697,52 Bishop Blvd.,Ottowa,ON,CA,NULL
+NULL,698,1383 Nostrand Ave.,Brooklyn,NY,US
+699,NULL,Grethel,KY,US,NULL
+700,Occidental College,Los Angeles,CA,US,NULL
+NULL,700,Occidental College,Los Angeles,CA,US
+701,"Box 636, William Carey College",Hattiesburg,MS,US,NULL
+702,2227 Empire,Joplin,MO,US,NULL
+703,390 8th Ave. So.,Fargo,ND,US,58102
+704,3 Spruce St.,Hudson Falls,NY,US,12839
+705,44 Carlton Ave. Mill Hill Estate,"Tunstall, Stroke-on-Trent",Staf,GB,NULL
+706,8206 W. 16th St.,St. Louis Park,MN,US,NULL
+NULL,706,8206 W. 16th St.,St. Louis Park,MN,US
+707,3715 Prosepct Ave. Apt. 305,Cleveland,OH,US,44115
+NULL,708,321 George Wright Homes,Paris,TX,US
+NULL,NULL,708,321 George Wright Homes,Paris,TX
+NULL,709,1304 Oakley,Kansas City,MO,US
+NULL,710,610 Alton St.,Pontiac,MI,US
+NULL,711,NULL,Nutley,NJ,US
+NULL,713,5373 Cold Drive,Santa Rosa,CA,US
+NULL,714,6503 N. 49th Ct.,Milwaukee,WI,US
+NULL,715,199 Paisley St.,Guelph,ON,CA
+716,35 Vernon St.,Haverhill,MA,US,1830
+717,8932 Oswego St.,Sunland,CA,US,NULL
+718,76 Grace Ave. French's Forest,Sydney,NSW,AU,3086
+719,255 Union St.,Bangor,ME,US,4401
+720,9221 Lillian Lane,Thornton,CO,US,80229
+721,3017 W. 97 St.,Bloomington,MN,US,55431
+NULL,721,3017 W. 97 St.,Bloomington,MN,US
+722,65 Frank Ave.,Yaphank,NY,US,11980
+723,11503 Yates St.,Silver Spring,MD,US,NULL
+NULL,NULL,723,11503 Yates St.,Silver Spring,MD
+724,"Alexander Heights, Apt. T-4",La Follette,TN,US,37766
+725,390 Hauser Blvd.,Los Angeles,CA,US,90036
+726,1020 NE 89th,Seattle,WA,US,98115
+727,W182 S8320 Racine Ave.,Muskego,WI,US,53150
+728,9115 Kirkdale Rd.,Bethesda,MD,US,20034
+NULL,728,9115 Kirkdale Rd.,Bethesda,MD,US
+729,18639 Laredo Rd.,Castro Valley,CA,US,94546
+730,218 E. Main St.,Bradford,PA,US,NULL
+731,1589 Unionport Rd.,New York,NY,US,10462
+NULL,NULL,731,1589 Unionport Rd.,New York,NY
+732,6440 Ohio Ave.,Hammond,IN,US,46323
+733,1091 Sayre Rd.,Union,NJ,US,7083
+734,Box 246,Athabasca,AB,CA,NULL
+NULL,734,Box 246,Athabasca,AB,CA
+735,960 43rd St.,Brooklyn,NY,US,11219
+736,3154 Ammons Dr.,Longview,WA,US,98632
+737,9115 Beverlywood St.,Los Angeles,CA,US,90034
+738,5242 N. 24 St.,Phoenix,AZ,US,85016
+739,49 Whitney St.,Sherborn,MA,US,1770
+740,"311 Griffiths Hall, 2650 Haste St.",Berkeley,CA,US,94721
+741,157B Overmount Ave.,West Patterson,NJ,US,7424
+742,41727 Murphy Place,Fremont,CA,US,94558
+743,140 West 46th Avenue,Gary,IN,US,46408
+744,140 Lone Oak Drive,New Milford,CT,US,6776
+745,2115 Cipriani Blvd.,Belmont,CA,US,NULL
+746,300 49th St. West,Des Moines,IA,US,50312
+747,40 Wyoming Ave.,Brockton,MA,US,2401
+748,730 Manor St.,Houston,TX,US,77015
+NULL,748,730 Manor St.,Houston,TX,US
+NULL,749,280 Riverside Drive,New York,NY,US
+NULL,750,4846 Mt. Frissell Drive,San Diego,CA,US
+NULL,751,Rm. 329 St. Joseph Hall,Notre Dame,IN,US
+NULL,752,21220 Tyee St.,Castro Valley,CA,US
+NULL,753,3864 Baltic Ave,Jacksonville,FL,US
+NULL,754,456 Ridgeview Road,Orange,CT,US
+NULL,755,10 Jumel Terr.,Manhattan,NY,US
+756,5200 Ingalls #3,Arvada,CO,US,80002
+757,803 Elmwood Dr.,St. Charles,MO,US,63301
+758,30 Jones Ave.,Boston,MA,US,2124
+759,919 Eureka St.,Pittsburgh,PA,US,15210
+760,2817 Lincoln Ave.,Lawton,OK,US,73501
+761,Route #1,Baxter,TN,US,38544
+762,146-A McDavid Hall University of Missouri,Columbia,MO,US,NULL
+763,21 Kennedy Court,Massena,NY,US,13662
+764,104 Westover Dr. S.W.,Calgary,AB,CA,NULL
+765,1823 W. Shannon,Spokane,WA,US,99205
+766,Oceanography Dept. University of Washington,Seattle,WA,US,98105
+767,960 Palmer St.,Wooster,OH,US,NULL
+768,607 Sunset Dr.,Dillsburg,PA,US,17019
+769,University of Buffalo 423 Oxford Ave.,Buffalo,NY,US,14226
+770,3406 Bowfin Avenue,San Pedro,CA,US,90732
+771,5494 Via Carancho,San Diego,CA,US,NULL
+772,1707 Zinnia Lane,San Jose,CA,US,95124
+773,504 Arneson Ave.,Auburndale,FL,US,33823
+774,4505 E. Court St.,Flint,MI,US,48506
+775,P.O. Box 642,Kapaa,HI,US,96746
+NULL,NULL,775,P.O. Box 642,Kapaa,HI
+NULL,775,P.O. Box 642,Kapaa,HI,US
+776,918 South 115th Street,Milwaukee,WI,US,53202
+777,"R.D. #2, Box 17",Phoenix,NY,US,13135
+778,P.O. Box 2745 College of William and Mary,Williamsburg,VA,US,23185
+779,18802 Afton Ave.,Saratoga,CA,US,95070
+780,3317 Cones Ct.,Midland,MI,US,48640
+781,3514 Holland Ave.,Bronx,NY,US,NULL
+782,1124 E. 54th St.,Chicago,IL,US,NULL
+783,1154 Spring Valley Drive,Erie,PA,US,16509
+784,23 Boss Avenue,Forest Hill,VIC,AU,3131
+785,C-13 Cypress St. Valle Arriba Heights,Carolina,NULL,PR,NULL
+786,M.R. 167-A,Roswell,NM,US,88201
+787,8600 Ardford,Burke,VA,US,22015
+788,1428 Bradford Lane,Wayne,PA,US,19087
+789,3101 S. Harrison,Amarillo,TX,US,79109
+NULL,790,126 Thompson Ave.,Bound Brook,NJ,US
+NULL,791,66 Williams St.,Crystal Lake,CA,US
+NULL,792,648 Thoreua Terr.,Union,NJ,US
+NULL,793,7914 Paxton Ave.,Chicago,IL,60617
+NULL,794,1404 Oliver St.,Weatherford,TX,US
+NULL,795,P.O. Box 77,Palestine,TX,US
+NULL,796,1411 W. 8th St.,Wilmington,DE,US
+NULL,797,6281 Taylor Rd.,San Bernardino,CA,US
+NULL,798,3909 W. Lorna Lane,Phoenix,AZ,US
+NULL,799,710  Raleigh Road,Glenview,IL,US
+NULL,NULL,799,710  Raleigh Road,Glenview,IL
+NULL,800,P.O. Box 121,Beirut,,LB
+NULL,801,7 Bromley Dr.,West Orange,NJ,US
+802,33 Saratoga Ave.,New York,NY,US,11233
+NULL,803,Stockbridge Schoole,Interlaken,MA,US
+804,3795 Regal Vista Drive,Sherman Oaks,CA,US,NULL
+805,347 Villa,Pasedena,CA,US,91106
+NULL,806,801 N. Ball,Owosso,MI,US
+807,221 Academy St.,Canton,NC,US,NULL
+NULL,808,2007 Dahlia,Amarillo,TX,US
+809,"Rt. 1, Box 341",Bluefield,WV,US,24701
+810,1 Schoolhouse Lane,"Syosset, L.I.",NY,US,11791
+811,305 South St.,Halifax,MA,US,2338
+812,2426 McGee Street #1,Berkeley,CA,US,94703
+813,Box 444,Bledsoe,TX,US,79314
+814,643 Priscilla Lane,Burbank,CA,US,91505
+815,251 Euston Road,Garden City South,NY,US,11530
+816,1571 Chambers Dr.,San Jose,CA,US,95118
+817,8528 E. 31 Pl.,Tulsa,OK,US,NULL
+818,3628 N. Hawthorne Lane,Indianapolis,IN,US,46218
+819,808 North 50th Street,Birmingham,AL,US,NULL
+820,1343 S. Donna Beth,West Covina,CA,US,91790
+NULL,820,1343 S. Donna Beth,West Covina,CA,US
+821,NULL,Portland,OR,US,NULL
+822,2209 14th St. S.W.,Calgary 3,AB,CA,NULL
+823,11 Adeline Dr.,Goose Creek,SC,US,29445
+824,78 Midland Ave.,Scarboro,ON,CA,NULL
+825,6135 Barrett Ave.,El Cerrito,CA,US,94530
+826,R.D. 1,Accident,MD,US,21520
+827,NULL,Omaha,NE,US,NULL
+828,4229 Woodlawn Ave. N.,Seattle,WA,US,98103
+829,1432 Stimson St.,Jacksonville,FL,US,32205
+NULL,NULL,829,1432 Stimson St.,Jacksonville,FL
+830,2606 So. 138th St.,Seattle,WA,US,NULL
+831,1260 Westhaven Dr.,Oshkosh,WI,US,54901
+832,1530 Upton Ave. No.,Minneapolis,MN,US,55411
+NULL,NULL,832,1530 Upton Ave. No.,Minneapolis,MN
+833,101 Union St.,West Bridgewater,MA,US,2379
+834,80-68 Cornish Ave.,Elmhurst,NY,US,11373
+835,1427 So. 32nd St.,Louisville,KY,US,40211
+836,150 Vernon Ave.,Yonkers,NY,US,10704
+837,147-44 69 Road,Flushing,NY,US,11367
+838,9619 Oaklauaha Ave.,Tampa,FL,US,33612
+839,5709-6th Ave.,Brooklyn,NY,US,11231
+840,230 N. 25 Mile Ave.,Hereford,TX,US,79045
+NULL,840,230 N. 25 Mile Ave.,Hereford,TX,US
+NULL,NULL,840,230 N. 25 Mile Ave.,Hereford,TX
+841,1618 E. Adams St.,Springfield,IL,US,NULL
+842,1936 Main St.,Glastonbury,CT,US,NULL
+843,247 East North St.,Smyrna,DE,US,NULL
+844,409 Wilma St.,Angier,NC,US,27501
+845,"Box 24, Concordia Seminary",Clayton,MO,US,63105
+846,1420 Washington Ave.,Bronx,NY,US,10456
+847,7532 S. Normal,Chicago,IL,US,60620
+848,178 Alexander Blvd.,Toronto 12,ON,CA,NULL
+849,429 Dumont Ave.,Brooklyn,NY,US,11212
+850,2916 Lakeridge Court,Dayton,OH,US,45408
+NULL,NULL,850,2916 Lakeridge Court,Dayton,OH
+851,38 Finella Place,Dundee Angus,SCT,GB,NULL
+852,534 Enniskillen Avenue,Winnipeg,MB,CA,NULL
+853,4652 Byron Ave.,Baton Rouge,LA,US,70805
+854,"Japan Dist., USAF PACPCR Box 5006, APO",San Francisco,CA,US,96323
+855,1704 B. Tower,Pittsburgh,PA,US,15213
+NULL,856,509 Tulip Tree Apts.,Bloomington,IN,US
+NULL,857,The Lion Inn,Newport,SAL,GB
+NULL,858,338 East 6th St.,New York City,NY,US
+NULL,859,Box 318,Friendship,NY,US
+NULL,860,4811 Tonty St.,Montreal 36,QC,CA
+NULL,861,600 Pioneer Ave.,Toocle,UT,US
+NULL,862,4857 Emerson,Minneapolis,MN,US
+NULL,863,1939 Harlem Ave. Goucher College,Baltimore,MD,US
+NULL,864,15445 E. Beckner,La Puente,CA,US
+NULL,865,1452 55th St.,Brooklyn 19,NY,US
+NULL,866,4116 Monona Drive,Madison,WI,US
+NULL,NULL,866,4116 Monona Drive,Madison,WI
+NULL,867,177 Grove,Mt. Kisco,NY,US
+NULL,868,1160 Burke Ave.,New York,NY,US
+NULL,869,3502 Vista Drive,Manhattan Beach,CA,US
+NULL,870,Canadian Forces,Soest,DE-NW,DE
+NULL,871,3177 W. 5th St.,Los Angeles,CA,US
+NULL,872,204 Wilson,Clarion,PA,US
+NULL,873,40 Riverview Ave.,Highland Park,NJ,US
+NULL,874,California Institute of Technology,Pasadena,CA,US
+NULL,875,17-32 166th St.,Whitestone,NY,US
+NULL,876,124 West Linwood,Kansas City,MO,US
+NULL,877,1120 E. Pecan,Angleton,TX,US
+NULL,NULL,877,1120 E. Pecan,Angleton,TX
+NULL,878,1692 Post St.,San Francisco,CA,US
+NULL,879,"Box 345B University of Maryland, Munich, Germ",NULL,NY,US
+NULL,880,3709 Brierwood Dr.,Erie,PA,US
+NULL,881,826 Central Ave.,Johnstown,PA,US
+NULL,882,"RA 15735215 Co. D, 51st Sig. Bn. (C) APO",San Francisco,CA,US
+NULL,883,1035 Merriweather St.,Cape Girardeau,MO,US
+NULL,884,301 Barbara Rd.,Middletown,CT,US
+NULL,885,4004 Woodhaven Ave.,Baltimore,MD,US
+NULL,886,P.O. Box 839,Delta Junction,AK,US
+NULL,887,313 Troxel Colorado State College,Greeley,CO,US
+NULL,888,1745 E. 65th St.,Chicago,IL,US
+NULL,889,505 So. Atlantic,Dillon,MT,US
+NULL,890,41 Hamilton Dr.,Pembroke,MA,US
+NULL,891,"19, Guapo Cap de Ville Road",Point Fortin,TT,WI
+NULL,892,1627 Democrat St.,Honolulu,HI,US
+NULL,893,"Dept. of Philosophy, Orson Hall 333 Univ. of ",Salt Lake City,UT,US
+NULL,894,212 N. Jefferson,Bloomington,IN,US
+NULL,895,212-21 B73rd Ave.,Bayside,NY,US
+NULL,896,8564 Holden Rd.,Santee,CA,US
+897,1504 N. 85th St.,Seattle,WA,US,98103
+NULL,897,1504 N. 85th St.,Seattle,WA,US
+898,4020 North 25th St.,Milwaukee,WI,US,53209
+NULL,899,"A2C, USAF, 6100th Serv. Squadron 6100th Suppo",San Francisco,CA,US
+900,111-27 143 St.,Jamaica,NY,US,11435
+901,26 Stafford St.,Hartford,CT,US,6106
+902,4400 Sunrey Ave. Bowershill,Chesapeake,VA,US,23321
+903,186 Main Street,Simcoe,ON,CA,NULL
+904,3539 Decatur Ave.,Bronx,NY,US,10467
+905,St. Olaf College,Northfield,MN,US,55057
+906,"USAF PCS Japan Dist., Box 5006 APO",San Francisco,CA,US,96323
+907,549 Orange St.,New Haven,CT,US,6511
+NULL,NULL,907,549 Orange St.,New Haven,CT
+908,9 Ruth St.,Norwich,CT,US,6360
+909,3214 Hawthorne Road,Tampa,FL,US,33611
+910,43 Wildwood Ave.,Providence,RI,US,2907
+NULL,910,43 Wildwood Ave.,Providence,RI,US
+NULL,NULL,910,43 Wildwood Ave.,Providence,RI
+911,73 W. Main St.,Plainville,CT,US,6062
+912,11325 Euclid Ave. Rm 813,Cleveland 6,OH,US,NULL
+913,412 E. Olive St.,Decatur,IL,US,NULL
+914,100 Bleecker St.,New York,NY,US,10012
+NULL,914,100 Bleecker St.,New York,NY,US
+NULL,NULL,914,100 Bleecker St.,New York,NY
+915,9 Moonsheen Drive,NULL,ON,CA,NULL
+916,5719 Velasco,Dallas,TX,US,75206
+917,NULL,Kilmuir,PE,CA,NULL
+918,"101 Woodward Hall, Box 10 Gorham State Colleg",Gorham,ME,US,4038
+919,P.O. Box 24,Goldthwaite,TX,US,76844
+920,Box 11,San Francisco,CA,US,NULL
+921,2270 Woodlark Circle,Bethlehem,PA,US,NULL
+922,36 Colonial Drive,North Linthicum,MD,US,21090
+923,401 South Barrington #110,Los Angeles,CA,US,90049
+924,9659 Duke Street,Durham,NC,US,27706
+NULL,NULL,924,9659 Duke Street,Durham,NC
+925,424 South Chestnut Avenue,Lamoni,IA,US,50140
+926,910 7th Ave.,Devils Lake,ND,US,58301
+927,1415 E. 2nd St.,Port Angeles,WI,US,98362
+928,RR #3,Decatur,IN,US,46733
+929,512 West Elk Street,Siler City,NC,US,27344
+NULL,929,512 West Elk Street,Siler City,NC,US
+930,145 Canora St.,Winnipeg 10,MB,CA,NULL
+931,Box 441,Linden,TX,US,75563
+932,NULL,Covington,PA,US,16917
+933,22 Rossenale Road,Heald Green,Ches,GB,NULL
+934,2711 Magnolia Avenue,San Diego,CA,US,92109
+935,36 Anna Street,Dayton,OH,US,45147
+936,"U.S. Naval Station, POB 15, c/o FPO",New York,NY,US,9597
+937,1673 West Pratt,Chicago,IL,US,NULL
+NULL,937,1673 West Pratt,Chicago,IL,US
+938,1206 South Denver Apt. 308,Tulsa,OK,US,74119
+939,3245 S.W. 185th Street,Aloha,OR,US,97005
+940,#3 Driftweed Blvd.,Kenner,LA,US,70062
+941,7692 Mitchell Drive,Edwards,CA,US,93523
+942,155 Hayward Place,Wallington,NJ,US,7055
+NULL,942,155 Hayward Place,Wallington,NJ,US
+943,1580 West Myrtle,Loos Bay,OR,US,97420
+NULL,944,3854 W. 42nd St.,Cleveland,OH,US
+NULL,945,George Washington Univ. S.D.S. 1262 New Hamps,N.W. Washington D.C.,DC,US
+NULL,946,8404 Cobden Rd.,Philadelphia,PA,US
+NULL,947,Survey Section Hq Btry 2/73 Artillery APO,New York,NY,US
+NULL,948,"Rt. #1, Box 37",Moose Lake,MN,US
+NULL,949,2920 Harper St.,Berkeley,CA,US
+NULL,950,Big Oak Circle,Stamford,CT,US
+NULL,951,"(Univ. of Toronto), 5 Lansing Ct.",Willowdale,ON,CA
+NULL,952,145 Meadow St.,Milford,CT,US
+NULL,953,7226 Leader St.,Houston,TX,US
+NULL,954,1205 North Highway 171,Like Charles,LA,US
+NULL,955,1500 Vernon Ave.,Joliet,IL,US
+NULL,956,26 Arab Rd.,Padstow,SY,AT
+NULL,957,3213 E. Mitchell Dr.,Phoenix,AZ,US
+NULL,958,HQS. 3rd Supp. BDE. APO,New York,NY,US
+NULL,959,P.O. Box 65,Gypsy,WV,US
+NULL,960,54 Marathon St.,Arlington,MA,US
+NULL,961,6000 Columbia Rd.,North Olmsted,OH,US
+NULL,962,421 W. Connstoga St.,New Holland,PA,US
+NULL,963,136 E. Third St.,Springfield,OH,US
+NULL,964,"Heritage Rd., RDF #2",Sewell,NJ,US
+NULL,965,498 S. 3rd St.,Indiana,PA,US
+NULL,966,1523 W. Ohio,Chicago,IL,US
+NULL,967,"Wimbleton Academy, 22 Hennessy Pl.",Irvington,NJ,US
+NULL,968,112 Parrott St.,Mt. Vernon,OH,US
+NULL,NULL,968,112 Parrott St.,Mt. Vernon,OH
+NULL,969,61 Francine Ave.,Amityville,NY,US
+NULL,970,Kansas State Teachers College,Emporia,KS,US
+NULL,971,1450 Norton Ave.,Glendale 2,CA,US
+NULL,972,55 Warren Dr.,Portsmouth,VA,US
+NULL,973,50 Riverlawn Dr.,Fair Haven,NJ,US
+NULL,974,766 Huntington R.,Stratford,CT,US
+NULL,975,423 Cypress Ave.,Akron,OH,US
+NULL,976,Box 169,Elco,PA,US
+NULL,977,4834 Marseilles,Detroit,MI,US
+NULL,978,4620 Burger,Cleveland,OH,US
+NULL,979,Antioch College,Yellow Springs,OH,US
+NULL,980,Rt. #1,Adair,OK,US
+NULL,981,651 Vinton St.,Erwin,TN,US
+NULL,982,115 W. Butler Ave.,New Britain,PA,US
+NULL,983,109 Forest St.,Medford,MA,US
+NULL,984,(Rutgers Univ.) 142 George St.,New Brunswick,NJ,US
+NULL,985,Box 60,Ringwood,OK,US
+NULL,986,1031 Chestnut Ave.,Long Beach,CA,US
+NULL,987,1695 Lindaire Lane,Mansfield,OH,US
+NULL,988,39 Cedar St.,Dunkirk,NY,US
+NULL,989,1563 Brockton Ave.,Los Angeles,CA,US
+NULL,990,40 Mott St.,Trenton,NJ,US
+NULL,991,45 Mianus St.,Stamford,CT,US
+NULL,992,"WCDR-FM, Box 1062, Cedarville College",Cedarville,OH,US
+NULL,993,2347 Morris Ave.,Bronx,NY,US
+NULL,994,1720 Father Ryan Ave.,Biloxi,MS,US
+NULL,995,"Grace Hall #31, Cabrini College",Radnor,PA,US
+NULL,996,3500 Alpine Dr.,Casper,WY,US
+NULL,997,"Box 2135, C.M.R.",Pease AFB,NH,US
+NULL,998,John's Lane,Ambler,PA,US
+NULL,NULL,998,John's Lane,Ambler,PA
+NULL,999,25 Manor Dr.,Newark,NJ,US
+NULL,1000,2954 W. 8th St.,Brooklyn,NY,US
+NULL,1001,1604-A 8th St.,Blytheville AFB,AR,US
+NULL,1002,9791 Orange,Anaheim,CA,US
+NULL,1003,"RA19889745, C-2-1",Ft. Leonard Wood,MO,US
+NULL,NULL,1003,"RA19889745, C-2-1",Ft. Leonard Wood,MO
+NULL,1004,P.O. Box 148,Bolton,MS,US
+NULL,1005,380 Vernon Ave.,Brooklyn,NY,US
+NULL,1006,6360 Revere Ave.,Cinncinnati,OH,US
+NULL,1007,"(Art Dept., Univ. of Conn.) Upton Rd., Ashfor",Masfield Depot,CT,US
+NULL,1008,317 Laidlwa Blvd.,Winnipeg 29,MB,CA
+NULL,1009,702 School St.,Corinth,MS,US
+NULL,1010,"2164081 USMC, "I" Co. 3rd Bn., 1st Mar. Div",San Francisco,CA,US
+NULL,1011,251 Poplar Ave.,Hackensack,NJ,US
+NULL,1012,302 S. Washington St.,Ypsilanti,MI,US
+NULL,1013,333 Crowley Ave.,Buffalo,NY,US
+NULL,1014,2122 Ross Rd.,Silver Spring,MD,US
+NULL,1015,D-57 Brook Dr.,Chester,NJ,US
+NULL,NULL,1015,D-57 Brook Dr.,Chester,NJ
+NULL,1016,1615 King Drive,New Orleans,LA,US
+NULL,1017,"SKSN USN 7741695  USS James E. Kyes, DD 787 c",San Francisco,CA,US
+NULL,1018,30 Drake Lane,"Levittown, L.I.",NY,US
+NULL,1019,242 E. University,Fresno,CA,US
+NULL,1020,2047 Wanamaker St.,Philadelphia,PA,US
+NULL,1021,280 Chestnut St.,Geneva,OH,US
+NULL,1022,116 Summit Ct.,Westfield,NJ,US
+NULL,1023,9859 Witham,Dallas,TX,US
+NULL,1024,42 Joy St.,Boston,MA,US
+NULL,1025,407 Rosemont Ave.,So. Charleston,WV,US
+NULL,1026,Bow Lane,Middletown,CT,US
+NULL,1027,25 Audubon Dr.,Chestnut Hill,MA,US
+NULL,NULL,1027,25 Audubon Dr.,Chestnut Hill,MA
+NULL,1028,330 Marlowe Ave.,Blasdell,NY,US
+NULL,1029,327 E. 12th St.,New York,NY,US
+NULL,1030,"3/1 3rd Bn., 1st Mar. 1st Marine Div. (REIN) ",San Francisco,CA,US
+NULL,1031,3107 W. Arthur,Chicago,IL,US
+NULL,1032,Univ. of Louisville Box 1405,Louisville,KY,US
+NULL,1033,1640 Kenwood,Trenton,MI,US
+NULL,1034,14919 160th Ave.,Grand Haven,MI,US
+NULL,1035,911 N. Klein,Oklahoma City,OK,US
+NULL,1036,Pardee Place,Las Vegas,NV,US
+NULL,1037,Ames St.,Cambridge,MA,US
+NULL,1038,NULL,Dallas,TX,US
+NULL,1039,Park Ave.,Hoboken,NJ,US
+NULL,1040,Colorado Street,Boston ,MA,US
+NULL,1041,NULL,Brooklyn,NY,US
+1042,NULL,Los Angeles,CA,US,NULL
+NULL,1042,NULL,Los Angeles,CA,US
+1043,NULL,Mexico City,DIF,MX,NULL
+NULL,1044,NULL,Chicago,IL,US
+NULL,1045,NULL,Oak Park,MI,US
+NULL,1046,NULL,Hollywood,CA,US
+NULL,1048,NULL,Sulivan,MO,US
+NULL,1049,NULL,Atchison,KS,US
+NULL,1050,NULL,Parsons,KS,US
+NULL,1051,NULL,Anchorage,AK,US
+NULL,1052,NULL,Philadelphia,PA,US
+NULL,1053,NULL,Marblehead,MA,US
+NULL,1054,NULL,Ft. Riley,KS,US
+NULL,1055,NULL,Mt. Sterling,KY,US
+NULL,1056,NULL,Suisun,CA,US
+NULL,1057,NULL,Bronx,NY,US
+NULL,1058,NULL,Lansing,MI,US
+NULL,1060,NULL,Rochester,NY,US
+NULL,1061,NULL,Calhoun,GA,US
+NULL,1062,NULL,New York,NY,US
+NULL,1063,NULL,NULL,AB,CA
+NULL,1064,NULL,Raleigh,NC,US
+NULL,1065,NULL,Roslindale,MA,US
+NULL,1066,NULL,Jerseyville,IL,US
+NULL,1067,NULL,Dodge City,KS,US
+NULL,1068,NULL,Syosset,NY,US
+NULL,1069,NULL,Cedar Rapids,IA,US
+NULL,1070,NULL,Des Plaines,IL,US
+NULL,1071,NULL,Milwaukee,WI,US
+NULL,1073,NULL,Gallup,NM,US
+NULL,1074,NULL,Wilkes-Barre,PA,US
+1075,NULL,Baltimore,MD,US,NULL
+NULL,1075,NULL,Baltimore,MD,US
+NULL,1077,NULL,Massapequa,NY,US
+NULL,1080,NULL,Phoenix,AZ,US
+NULL,1081,NULL,Sturgeon Bay,WI,US
+NULL,1082,NULL,Louisville,KY,US
+NULL,1083,NULL,New Rochelle,NY,US
+NULL,1084,NULL,Ashland,MA,US
+NULL,1085,NULL,Houston,TX,US
+NULL,1086,NULL,Philadelphia,PA,US
+NULL,1087,NULL,Jeffersonville,IN,US
+NULL,1088,NULL,Grenta,LA,US
+NULL,1089,NULL,Warren,RI,US
+NULL,1090,NULL,York,PA,US
+NULL,1091,NULL,Buffalo,NY,US
+NULL,1092,NULL,Paramus,NJ,US
+NULL,1093,NULL,Orem,UT,US
+1094,NULL,Maryville,WI,US,NULL
+NULL,1095,NULL,Wapello,IA,US
+1096,NULL,Drexel Hill,PA,US,NULL
+NULL,1097,NULL,Salinas,CA,US
+NULL,1098,NULL,Clarksville,IN,US
+NULL,1100,NULL,Hazlet,NJ,US
+NULL,1101,NULL,Medford,OR,US
+NULL,1102,NULL,Amarillo,TX,US
+NULL,1104,NULL,Garden City,MI,US
+NULL,1105,NULL,Colorado Springs,CO,US
+NULL,1106,NULL,Penacook,NH,US
+NULL,1107,NULL,Topeka,KS,US
+NULL,1108,180 Aubuchon,Florissant,MO,US
+NULL,1109,Rt. #1,Bowden,GA,US
+NULL,1111,"US 56421927, H.H. Co 3/47, 9th Inf. Div. APO",San Francisco,CA,US
+NULL,1112,1645 E. 50th St.,Chicago,IL,US
+NULL,1113,151/7 Tu-Do Street,Saigon,NULL,South Vietnam
+NULL,1114,8907 Beard Ave.,Bloomington,MN,US
+NULL,1115,371 Harvard St.,Cambridge,MA,US
+NULL,1116,217 E. 15th St.,Marion,IN,US
+NULL,1117,1005 I Ave.,La Grande,OR,US
+NULL,1118,"USAF, CMR Box 973 APO",New York,NY,US
+NULL,1119,61 W. Alvord St.,Springfield,MA,US
+NULL,1120,526 Ravine Ct.,Wyckoff,NJ,US
+NULL,1121,9534 Sierra St.,Downey,CA,US
+NULL,1122,56 So. Little Tor. Rd.,New City,NY,US
+NULL,1123,"Box 304, Louisiana Polytechnic Inst.",Ruston,LA,US
+NULL,1124,1531 Lenora,Tyler,TX,US
+NULL,1125,16 Keswick Rd.,S. Portland,ME,US
+NULL,1126,209 Oakway Ave.,Spartanbury,SC,US
+NULL,1127,2101 No. Salisbury,W. Lafayette,IN,US
+NULL,1128,500 Hillside Ave.,Mill Valley,CA,US
+NULL,1129,812 Ashwood Ave.,Vallejo,CA,US
+NULL,1130,7938 Jeffery Blvd.,Chicago,IL,US
+NULL,NULL,1130,7938 Jeffery Blvd.,Chicago,IL
+NULL,1131,3115 Pioneer Dr.,Bakersfield,CA,US
+NULL,1132,109 Columbus Ave.,Salem,MA,US
+NULL,1133,2215 Cruger Ave.,Bronx,NY,US
+NULL,1134,Jericho Rd.,Pelham,NH,US
+NULL,1135,562 S. Sinclair,West Vinn,OR,US
+NULL,1136,3213 Snyder Ave.,Brooklyn,NY,US
+NULL,1137,606 22nd St.,N.W. Canton,OH,US
+NULL,1138,905 Sonoma Ave.,Petaluma,CA,US
+NULL,1139,18966 Evergreen,Detroit,MI,US
+NULL,1140,3877 McDonald,St. Louis,MO,US
+NULL,1141,RA 16896643 Hq. Co. 3rd Tng Bde,Ft. Jackson,SC,US
+NULL,1142,756 Taylor St.,Chelsea,MI,US
+NULL,1143,Crestmont R.D. #1,Lock Haven,PA,US
+NULL,1144,7940 Bayard St.,Philadelphia,PA,US
+NULL,1145,"Gillum Hall 309, Indiana State Univ.",Terre Haute,IN,US
+NULL,1146,1226 W. North St.,Anaheim,CA,US
+NULL,1147,401 N.W. 6th St.,Tulia,TX,US
+NULL,1148,419 May St.,Braddock,PA,US
+NULL,1149,259 N. LaSalle Ave.,Bradley,IL,US
+NULL,1150,3100 W. Lyndale,Chicago,IL,US
+NULL,1151,6207 Mark Dr.,Bedford Hts.,OH,US
+NULL,1152,1760 E. Columbia Ave.,College Park,GA,US
+NULL,1153,36 Nassau Rd.,Great Neck,NY,US
+NULL,1154,3288 Reservoir Oval E.,Bronx,NY,US
+NULL,1155,4511 Eastwood Dr.,Okemos,MI,US
+NULL,1156,"Dept. of Music, Smith College",Northampton,MA,US
+NULL,1157,5538 Littlebow Rd.,Palos Verdes,CA,US
+NULL,1158,296 Chinlee Dr.,Lexington Park,MD,US
+NULL,1159,4611 Hempstead Ave.,Santa Susana,CA,US
+NULL,1160,Rt. #2,Hastings,MN,US
+NULL,1161,119-29 180th St.,St. Albans,NY,US
+NULL,1162,1611 Drummond Ct.,Asbury Park,NJ,US
+NULL,1163,34 Beaver Ct.,South Haven,MI,US
+NULL,1164,306 Whitemarsh Valley Rd.,Ft. Washington,PA,US
+NULL,1165,103 S. 5th St.,Miamisburg,OH,US
+NULL,1166,99 Broadstreet Ave.,Revere,MA,US
+NULL,1167,Box 82,Beattyville,KY,US
+NULL,1168,3813 Bay Avenue,Tampa,FL,US
+NULL,1169,Institute of Living 200 Retreat St.,Hartford,CT,US
+NULL,1170,R.R. 1,Accident,MD,US
+NULL,1171,3434 So. Quincy St.,Chicago,IL,US
+NULL,1172,R.R. #1 217,Noblesville,IN,US
+NULL,1173,57 Oetting Drive,St. Charles,MO,US
+NULL,1174,1220 Paula Drive,Campbell,CA,US
+NULL,1175,5281 Woodlake Ave.,Woodland Hills,CA,US
+NULL,1176,792 Peru Road,Grotan,NY,US
+NULL,1177,1315 N. 75th Street,Philadelphia,PA,US
+NULL,1178,1870 Northcrest Drive,Crescent City,CA,US
+NULL,1179,"ASAF, Box 139 England AFB  ",NULL,LA,US
+NULL,1180,Webb School,Claremont,CA,US
+NULL,1181,308 North Connell Street,Wilmington,DE,US
+NULL,1182,217 Burroughs Ave.,Beaufort,SC,US
+NULL,1183,1388 Poquoson Ave.,Poquoson,VA,US
+NULL,1184,"Route #2, Box 28-A",Butler,TN,US
+NULL,1185,955-A Palm St.,Yuma,AZ,US
+NULL,1186,51 Elizabeth St.,S. Brampton,ON,CA
+NULL,1187,1711 Virginia,Joplin,MO,US
+NULL,1188,184 Wash. St.,"Wesleyan University, Middletown",CT,US
+NULL,1189,2 Doone Drive,Syosset,NY,US
+NULL,1190,44 Bowerbank Dr.,Willowdale,ON,CA
+NULL,1191,Box 905,Perrytown,TX,US
+NULL,1192,455 Croydon Ave.,Baton Rouge,LA,US
+NULL,1193,6850 Glen Rock,Houston,TX,US
+NULL,1194,8348 N. Territorial Rd.,Plymouth,MI,US
+NULL,1195,220 3rd St.,Benton,AR,US
+NULL,1196,5 Eagle Rock Road,Colorado Springs,CO,US
+NULL,1197,R.D. #5,Waynesburg,PA,US
+NULL,1198,2409 McKinley Ave.,Berkeley,CA,US
+NULL,1200,NULL,Liverpool,NS,CA
+NULL,1201,1068 Lexington Ave.,Schenectady,NY,US
+NULL,1202,Box 38,Clam Gulch,AK,US
+NULL,1203,2016 Capouse Ave.,Scranton,PA,US
+NULL,1204,334 E. 108th St.,New York,NY,US
+NULL,NULL,1204,334 E. 108th St.,New York,NY
+NULL,1205,1822 Poinsettia Dr.,Marrietta,GA,US
+NULL,1206,908 Laurel St.,Breman,GA,US
+NULL,1207,5 Laurel  St.,Plainfield,CT,US
+NULL,1208,406 Splane Drive,West Monroe,LA,US
+NULL,1209,2 Eastview Drive,Greenville,SC,US
+NULL,1210,"Rt. 5, Box 276B",Ft. Worth,TX,US
+NULL,1211,435 Hopkins St.,Jesup,IA,US
+NULL,1212,327 19th Ave. SW #10,Calgary,AB,CA
+NULL,1213,2101 Junius,San Angelo,TX,US
+NULL,1214,10401 Riverwood Drive,Potomac,MD,US
+NULL,1215,23418 19th Ave.,Bothwell,WA,US
+NULL,1216,1213 S. 5th Ave.,Yakima,WA,US
+NULL,1217,1684 Watson Ave.,St. Paul,MN,US
+NULL,1218,6013 N. 12th St.,Philadelphia,PA,US
+NULL,1219,59 Elmwood Ave.,Valois,QC,CA
+NULL,1220,2101 10th St.,Bay City,MI,US
+NULL,NULL,1220,2101 10th St.,Bay City,MI
+NULL,1221,117 Walnut Hill La.,Havertown,PA,US
+NULL,1222,9525 N. Kenneth Ave.,Skokie,IL,US
+NULL,1223,227 N. Professor,Oberlin,OH,US
+NULL,1224,87-86 116th St.,Richmond Hill,NY,US
+NULL,1225,16 Urbandale Ave.,Willowdale,ON,CA
+NULL,1226,3217 Gravelbrook Dr.,Richmond,VA,US
+NULL,1227,Burnaby 3,NULL,BC,CA
+NULL,1228,106 Edward Pkwy.,Nedrow,NY,US
+NULL,1229,1564 A Waller St.,San Francisco,CA,US
+NULL,1230,606 Blackshear R. Apt. E,Cordebe,GA,US
+NULL,1231,1551 Georgetta Dr.,San Jose,CA,US
+NULL,1232,341 Blacksmith Rd.,Levittown,NY,US
+NULL,NULL,1232,341 Blacksmith Rd.,Levittown,NY
+NULL,1233,2401 Atlanta St.,Greensboro,NC,US
+NULL,1234,1535 N.H.,Lawrence,KS,US
+NULL,1235,407 Bryn Mawr,Lima,OH,US
+NULL,1236,1100 Ocean Ave.,Brooklyn,NY,US
+NULL,NULL,1236,1100 Ocean Ave.,Brooklyn,NY
+NULL,1237,838 Nightingale Rd.,Jacksonville,FL,US
+NULL,1238,19214 S. Enslow Drive,Gardena,CA,US
+NULL,1239,9801 Chicopee Ave.,Northridge,CA,US
+NULL,1240,143 West Sixth St.,South Boston,MA,US
+NULL,1241,"Rt. 1, Box 1",Lindside,WV,US
+NULL,1242,3rd USA Msl Det APO,New York,NY,US
+NULL,1243,8 Perry Street,Union City,PA,US
+NULL,NULL,1243,8 Perry Street,Union City,PA
+NULL,1244,2737 SE 162nd Ave.,Portland,OR,US
+NULL,1245,9111 Columbia,Detroit,MI,US
+NULL,1246,7 Cathy Ct.,Glen Head,NY,US
+NULL,1247,1908 W. Buckingham Way,Fresno,CA,US
+NULL,1248,289 Penland,Waco,TX,US
+NULL,1249,15406 Old Bedford Trail,Mishawaka,IN,US
+NULL,1250,3232 Burning Tree Dr.,Birmingham,AL,US
+NULL,1251,"Flat 8, 24 Kintail Road",Applecross,WA,US
+NULL,1252,174 Lexington Avenue,New York City,NY,US
+NULL,1253,3502 Arch Street,Orlando,FL,US
+NULL,1254,"AG # USS, Okinawa LPH-3 FPO",San Francisco,CA,US
+NULL,1255,1017 Wadworth Avenue,North Chicago,IL,US
+NULL,1256,784 Holmdel Road,Holmdel,NJ,US
+NULL,1257,125 Rose St.,Bridgeport,CT,US
+NULL,1258,96 S. 17 Street,San Jose,CA,US
+NULL,1260,2551 Bruce St.,Saginaw,MI,US
+NULL,1261,North Manursing Island,Rye,NY,US
+NULL,1262,New College,Sarasota,FL,US
+NULL,1263,400 Craig Avenue,East Fairbanks,AK,US
+NULL,1264,Buckeye Union High,Buckeye,AZ,US
+NULL,1265,8916 Crocket Drive,New Orleans,LA,US
+NULL,1266,12 1/2 Charter Oak Place,Hartford,CT,US
+NULL,1267,"2357532 USMC 5th Comm Bn FMF, RR&amp;C co, FPO",San Francisco,CA,US
+NULL,1268,"417 Franklin Turnpike Building 5, Apt. 2",Mahwah,NJ,US
+NULL,1269,Box 725,Akron,IA,US
+NULL,1270,6239 Thorne Avenue,Burnaby 3,BC,CA
+NULL,1271,26 Almagosa Circle ,"Apra Heights, FPO SF 99630",GU,US
+NULL,1272,11 East 36th Street,Richmond,VA,US
+NULL,1273,1161 Kedith Street,Belmont,CA,US
+NULL,1274,481 Chelsey Avenue,Mt. View,CA,US
+NULL,1275,15 N. Balliet St.,Frackville,PA,US
+NULL,1276,Camp Howard Hawk DSP APO SF,NULL,NULL,US
+NULL,1277,461 Costa Mesa Street,Costa Mesa,CA,US
+NULL,1278,2847 East Flower,Phoenix,AZ,US
+NULL,1279,2778 South Marshall,Denver,CO,US
+NULL,1280,"77 Street, Clair Avenue East",Toronto 7,ON,US
+NULL,1281,3332 Melwood Avenue,Pittsburgh,PA,US
+NULL,1282,942 New Hampshire,Lawrence,KA,US
+NULL,1283,204 Bauer Road,Waterloo,NY,US
+NULL,1284,640 North East Marine Drive,Boca Raton,FL,US
+NULL,1285,2726 Castiglione Street,New Orleans,LA,US
+NULL,1286,3872 Garvin Street,Detroit,MI,US
+NULL,NULL,1286,3872 Garvin Street,Detroit,MI
+NULL,1287,"Route #1, Box 549-C",Durange,CO,US
+NULL,1288,161 Grosvenor St.,Athens,OH,US
+NULL,1289,987 Springfield Dr.,Walnut Creek,CA,US
+NULL,1290,"Rt. 1, Box 582",Mount Airy,NC,US
+NULL,1291,11 Hunt Street,Guildford,NSW,AU
+NULL,1292,762 Via Altamira #43,Montebello,CA,US
+NULL,1293,4006 Pine Street,Philadelphia,PA,US
+NULL,1294,1431 S. Street,S.E. Washington,D.C.,US
+NULL,1295,2112 Mythewood Dr.,Huntsville,AL,US
+NULL,1296,1404 Chestnut,Wyandotte,MI,US
+NULL,1297,564 Mayfield Ave.,Stanford,CA,US
+NULL,1298,3 Harbor Ct.,W. Long Branch,NJ,US
+NULL,1299,246 45th St.,Brooklyn,NY,US
+NULL,1300,1742 Hendrickson St.,Brooklyn,NY,US
+NULL,1301,936 Central Beach,Biloxi,MS,US
+NULL,1302,7428 Satsuma,Sun Valley,CA,US
+NULL,1303,254 E. 89 St.,Brooklyn,NY,US
+NULL,1304,4 Eldredge St.,Newton,MA,US
+NULL,1305,2216 Highland Street,West Lawn,PA,US
+NULL,1306,660 Ridgewood Lane Plantation,Ft. Launderdale,FL,US
+NULL,1307,4555 Henry Hudson Pkwy.,Bronx,NY,US
+NULL,1308,2211 Carol Drive,Lewiston,ID,US
+NULL,1309,Thayer 2-Harvard College,Cambridge,MA,US
+NULL,1310,Route 7 Box 25,Baton Rouge,LA,US
+NULL,1311,66 George St.,Brooklyn,NY,US
+NULL,1312,430 S. San Jose,Covina,CA,US
+NULL,1313,751 Walton Avenue,Bronx,NY,US
+NULL,1314,Grande E. Box 14,Hereford,TX,US
+NULL,1315,2129 23rd St.,Des Moines,IA,US
+NULL,1316,9 Nixon Court,Brooklyn,NY,US
+NULL,1317,719 Kenmore Rd.,Bala-Cynwyd,PA,US
+NULL,1318,15430 Rossine,Detroit,MI,US
+NULL,1319,Cebeci Cad. Keskin Sok Cagli Apt. No. 22A19,Cebeci-Ankaia,NULL,TR
+NULL,1320,1010 W. Greenwood,Nashville,TN,US
+NULL,1321,13606 Livingston Road,Clinton,MD,US
+NULL,NULL,1321,13606 Livingston Road,Clinton,MD
+NULL,1322,2271 Knapp Street,Brooklyn,NY,US
+NULL,1323,234 Central Park Ave.,Wilmette,IL,US
+NULL,1324,NULL,Jersey City,NJ,US
+NULL,1325,14900 Rochelle,Detroit,MI,US
+1326,NULL,Vallejo,CA,US,NULL
+NULL,1327,Hiram College,Hiram,OH,US
+NULL,1328,P.O. Box 31,Lincoln Park,MI,US
+NULL,1329,NULL,New York,NY,US
+NULL,1330,4214 Woodbine Ave.,Dayton,OH,US
+NULL,1331,190 Columbia Dr.,Williamsville,NY,US
+NULL,1332,NULL,Wappingers Falls,NY,US
+NULL,1333,NULL,Miami,FL,US
+NULL,1334,6736 So. Delaware Ct.,Tulsa,OK,US
+NULL,1335,30 Lincoln St.,Newton,MA,US
+NULL,1336,NULL,Bowling Green,KY,US
+NULL,1337,726 Via Altamira #43,Hontebello,CA,US
+NULL,1338,NULL,Port Arthur,TX,US
+NULL,1340,NULL,Santa Barbara,CA,US
+NULL,1341,NULL,Waterbury,CT,US
+NULL,1342,NULL,New Philidelphia,OH,US
+NULL,1343,NULL,New Philidelphia,OH,US
+NULL,1344,NULL,Buffalo,NY,US
+NULL,1345,NULL,Newton Falls,OH,US
+NULL,1346,NULL,Winston-Salem,NC,US
+NULL,1347,NULL,Atlanta,GA,US
+NULL,1348,NULL,Yonkers,NY,US
+NULL,1349,NULL,Pontiac,MI,US
+NULL,1350,NULL,Cadillac,MI,US
+NULL,1351,NULL,Pompton Plains,NJ,US
+NULL,1353,NULL,Forest Hills,NY,US
+1354,NULL,Manila,NULL,PH,NULL
+NULL,1355,NULL,Cape Cod,MA,US
+NULL,1358,NULL,Brooklyn,NY,US
+NULL,1359,NULL,Indianapolis,IN,US
+NULL,1360,NULL,Weskan,KS,US
+NULL,1361,NULL,Arlington,TX,US
+NULL,1362,NULL,Jacksonville,TX,US
+NULL,1363,NULL,Detroit,MI,US
+NULL,1365,NULL,New Orleans,LA,US
+NULL,1366,NULL,San Jose,CA,US
+NULL,1367,NULL,Oceanside,NY,US
+NULL,1368,3507 Firestone Blvd,Pensacola,FL,US
+NULL,1369,NULL,Skokie,IL,US
+NULL,1370,9875 S. W. 212th St.,Miami,FL,US
+NULL,1371,2813 malta Place,Las Vegas ,NV,US
+NULL,1372,1024 S. Oak Street,Hilsboro,IL,US
+NULL,1374,141 Second St.,East Providence ,RI,US
+NULL,1375,112 O'Grady Street,Fall River,MA,US
+NULL,1376,NULL,San Pedro,CA,US
+NULL,1377,3717 Springdale,Fort Worth,TX,US
+NULL,1378,3776 E. 134th Street,Cleveland,OH,US
+NULL,1379,622 Plater,Aberdeen,MD,US
+NULL,1380,P.O. Box 855,Bard,CA,US
+NULL,1381,NULL,Nampa,ID,US
+NULL,1382,NULL,Trenton,NJ,US
+NULL,1383,23861 Rennsselaer,Oak Park,MI,US
+NULL,1384,1955 Harle Avenue,Cleveland,TN,US
+NULL,1386,835 9th St.,Douglas,AZ,US
+NULL,1387,808 E.M.L. Ave,Kalamazoo,MI,US
+NULL,1388,NULL,Philadelphia,PA,US
+NULL,1389,2714 Gilbert Ave,Portsmouth,OH,US
+NULL,1390,1942 6th Ave,San Diego,CA,US
+NULL,1391,16857 Sunderland,Detroit,MI,US
+NULL,1392,330 E. 173 St.,New York,NY,US
+NULL,1393,"Box 39, A-Bar Hotel",Austin,TX,US
+NULL,1395,410 North Hamilton,Indianapolis,IN,US
+NULL,1396,320 West Johnson,Norman,OK,US
+NULL,1397,"R.D. 6, Fairdale",Cambridge,OH,US
+NULL,1399,530 Central Ave,Oildale,CA,US
+NULL,1400,27 Sunny Crest Rd,Trumbull,CT,US
+NULL,1403,50 Ave. D,New York,NY,US
+NULL,1404,729 Encanto Drive,Calexico,CA,US
+NULL,1405,1620 Deerwood Dr.,West Sacramento,CA,US
+NULL,1406,608 E. 6th St.,Mt. Vernon,IN,US
+NULL,1407,#2562 IWU,Denton,TX,US
+NULL,1408,1107 South Kiger,Independence,MO,US
+NULL,1409,307 Greensferry Rd,Jackson,MO,US
+NULL,1410,871 Warwick Lane,Glendale,MO,US
+NULL,1411,915 W. Pierson,Phoenix,AZ,US
+NULL,1412,25 Ocean Park,Lynn,MA,US
+NULL,1413,325 Dewey,Evanston,IL,US
+NULL,1414,"General Delicery, Main P.O.",Elizabeth,NJ,US
+NULL,1415,"Room 435, Russ Hotel, 517-523 S. San Juan",Los Angeles,CA,US
+NULL,1416,56 Poningo St.,Port Chester,NY,US
+NULL,1417,1937 W. Pratt St.,Baltimore,MD,US
+NULL,1418,9543 Poole St.,La Jolla,CA,US
+NULL,1419,99 Herald St,Rochester ,NY,US
+NULL,1420,Silver Saddle Ranch,North Branch,NJ,US
+NULL,1421,2232 Wirth Pl,New Orleans,LA,US
+NULL,NULL,1421,2232 Wirth Pl,New Orleans,LA
+NULL,1423,"RA 17465357 Cinc South Box 14, Navy 510. F.P.",New York,NY,US
+NULL,1424,9907 Larose,Montreal,QC,CA
+NULL,1425,Wagon-Wheels Apts. #5,Suisun,CA,US
+NULL,1426,1550 Northwood Drive,Cincinnati,OH,US
+NULL,1427,3308 Elmley Avenue,Baltimore,MD,US
+NULL,1428,405 E. Sheridan Road,Lake Bluff,IL,US
+NULL,1429,1726 Westchester,Peekskill ,NY,US
+NULL,1430,"RA 19682472 733rd Med. Det., APO 46, U.S. For",New York,NY,US
+NULL,1431,225 West Lima Street,Findlay,OH,US
+NULL,1432,61-44 148th Place,Flushing,NY,US
+NULL,1433,3070 Champion Street,Oakland,CA,US
+NULL,1434,33 Monsignor Reynolds Way,Boston,MA,US
+NULL,1435,91 Ravine Road,Medford,MA,US
+NULL,1436,15 Abott St.,Worchester,MA,US
+NULL,1438,4103 Westwood Drive,Anchorage,AK,US
+NULL,1439,919B Surburban Pkwy,Portsmouth,VA,US
+NULL,1440,P.O. Box 851,Seminole,TX,US
+NULL,1441,20 McNulty Street,Miles,AU,US
+NULL,1442,Box 264,Reedsburg,WI,US
+NULL,1443,1972 Morris Gate,Seaford,NY,US
+NULL,1444,7014 Roberts Court,University City,MO,US
+NULL,NULL,1444,7014 Roberts Court,University City,MO
+NULL,1445,242 Park Ave,Long Beach ,CA,US
+NULL,1446,4928 Enfield Ave.,Encino,CA,US
+NULL,1447,448 D'Arcy Street,Cobourg,CA,US
+NULL,1448,R.R. 1 Box 19,Henry,IL,US
+NULL,1449,NULL,Athens,TX,US
+NULL,1450,25 Bellmore Drive,Pittsfield,MA,US
+NULL,1452,605 North Sawyer,Oshkosh,WI,US
+NULL,1453,2814 W. 8th St.,Brooklyn,NY,US
+NULL,1454,9763 Westview St.,Houston,TX,US
+NULL,1457,364 Green Lanes,London,NULL,GB
+NULL,1458,35 East First St.,Bayonne,NJ,US
+NULL,1459,Shimer College,Mt. Carroll,IL,US
+NULL,1460,Rt. 3 Box 522,Plocerville,CA,US
+NULL,1461,P.O. Box 1277,Port Elizabeth ,NULL,ZA
+NULL,1462,249 Elm Ave,Glen Riddle,PA,US
+NULL,1463,17 Mukle St,Shelton,CT,US
+NULL,1464,NULL,Milpitas,CA,US
+NULL,1465,NULL,Haliburton,CA,US
+NULL,1466,NULL,Norfolk,VA,US
+NULL,1467,NULL,Jacksonville,FL,US
+NULL,1468,NULL,W. Hazelton,PA,US
+NULL,1469,59 Lakeside Ave,Haskell ,NJ,US
+NULL,1470,119 Balurie Drive,Dundee,NULL,GB
+NULL,1471,219 E. Temple Ave,College Park,GA,US
+NULL,1473,77 Kanarick Cres,Downsview,CA,US
+NULL,1474,3776 E. 154 St.,Cleveland,OH,US
+NULL,1475,P.O. Box 328,Vivian,LA,US
+NULL,NULL,1475,P.O. Box 328,Vivian,LA
+NULL,1476,11437 Ostrom Avenue,Granada Hills ,CA,US
+NULL,1477,NULL,Utica,NY,US
+NULL,1478,NULL,Lubbock,TX,US
+NULL,1480,NULL,Fort Worth,TX,US
+NULL,1481,NULL,So. Penoh,NULL,AU
+NULL,1482,NULL,Stanley,ND,US
+NULL,1483,NULL,Hayattsville,MD,US
+NULL,1484,211 North Elm St,Hastings ,NE,US
+NULL,1485,8 Mayflower St.,Plymouth ,MA,US
+NULL,1488,704 Lebanon Ave.,Campbellsville,KY,US
+NULL,1489,8635 Compton Blvd,Paramount,CA,US
+NULL,1492,475 Pahon Ave,San Jose,CA,US
+NULL,1493,712 So. Kimbrough St.,Raleigh,NC,US
+NULL,1494,3706 Lancaster Ave,Philadelphia,PA,US
+NULL,1495,"Naval Forces, Marianas #2 Portola Avenue",NULL,NULL,GU
+NULL,1496,261 Wildbriar Road,Rochester,NY,US
+NULL,1497,211 S. Copia St.,El Paso,TX,US
+NULL,1498,8905 Oro Way,Orangevale,CA,US
+NULL,1499,Blue Mountain Camp,Stroudsburg,PA,US
+NULL,1500,7415 Wish Ave,Van Nuys ,CA,US
+NULL,1501,205 N. Main St.,Federalsburg,MD,US
+NULL,1502,2061 E. LeGrande,Indianapolis,IN,US
+NULL,1503,309 Adrian St.,Mount Holly,NC,US
+NULL,1504,3745 No. Magnolia Ave,Chicago,IL,US
+NULL,1505,Box 421 ,Vanderhoof,CA,US
+NULL,1506,"Box 763, 322nd Air. Div. APO 253",New York,NY,US
+NULL,1507,Carroll Road,Phoenix,MD,US
+NULL,1508,1830 W. 255th St,Lomita ,CA,US
+NULL,1509,301 Degraw St.,Brooklyn,NY,US
+NULL,1510,Rt. #6 Box 681,Orlando,FL,US
+NULL,1512,733rd Medical Detachment APO 46,New York,NY,US
+NULL,1513,2670 Avalon Drive,Sacramento,CA,US
+NULL,1514,1300 W. 78th St.,Cleveland ,OH,US
+NULL,1515,311 Utah Place,Brassioux,NULL,FR
+NULL,1516,NULL,Allentown,PA,US
+NULL,1517,NULL,Attica,NY,US
+NULL,1518,Willowfield Road,NewCastle-on-Tyne,NULL,GB
+NULL,1519,2716 W. Somerset St.,Philadelphia,PA,US
+NULL,1520,574 E. 92 St.,Brooklyn,NY,US
+NULL,1521,Palms Hotel,Delano,CA,US
+NULL,1523,Box 61,Wilson,KS,US
+NULL,1524,2325 Columbia St.,Richmond,VA,US
+NULL,1526,So. Main Rd.,Vineland,NJ,US
+NULL,1527,3520 Chimeny Swift Drive,Huntingdon Valley,PA,US
+NULL,1528,2052 Downey Rd.,Homewood,IL,US
+NULL,1529,504 Oak St.,Old Forge,PA,US
+NULL,1530,87 Udalia Ct.,West Islip,NY,US
+NULL,1531,Rt. #3,Brainerd,MN,US
+NULL,1532,7112 Minna Rd.,Baltimore,MD,US
+NULL,1533,1300 W. "D" St.,Iron Mountain,MI,US
+NULL,NULL,1534,7 Woodruff Rd.,Metuchen,NJ
+NULL,NULL,1535,Pinellas Bayway,Tierra Verde,FL
+NULL,NULL,1536,787 Portland,Collinsville,IL
+NULL,1537,22 Magazine St.,Cambridge,MA,US
+NULL,1538,83 Irma Ave.,Port Washington,NY,US
+NULL,1539,168 Columbia Ave.,Greenville,PA,US
+NULL,1540,203 East Main St.,Pendleton,SC,US
+NULL,1541,3472 Kupaa Drive,Honolulu,HI,US
+NULL,1542,6062 Crab Orchard,Houston,TX,US
+NULL,1543,Rt. 1 Box 590,Benton,AR,US
+NULL,1544,25 Oakbrook 'E',Willaimsville,NY,US
+NULL,1545,1442-50 Street,Brooklyn,NY,US
+NULL,1546,88-04 63rd Dr.,Forest Hills,NY,US
+NULL,1547,25 Knolls Crescent,Riverdale,NY,US
+NULL,1548,6 Horizon Road,Ft. Lee,NJ,US
+NULL,1549,20-07 149th St.,Whitestone,NY,US
+NULL,1550,79-28 211th St.,Flushing,NY,US
+NULL,1551,70 Orange Dr.,Jericho,NY,US
+NULL,1552,610-23rd St. North,Great Falls,MT,US
+NULL,1553,1461 Sierra Vista Dr.,La Habra,CA,US
+NULL,1554,145 Combs Ave.,Woodmere,NY,US
+NULL,1555,528 Shrewsbury Ave.,New Shrewbury,NJ,US
+NULL,1556,40 Catherine Ct.,Cedar Grove,NJ,US
+NULL,1557,1116 28th Street NE,Canton,OH,US
+NULL,1558,1025 E. Miller,Kingsville,TX,US
+NULL,1559,PO Box 446,Norlina,NC,US
+NULL,1560,Box 5475,College Station,TX,US
+NULL,1561,1158 Ivesbrook Street,Lancaster,CA,US
+NULL,1562,1844 Riverdale Street,West Springfield,MA,US
+NULL,1563,3123 Capewood Lane,San Jose,CA,US
+NULL,1564,6037 Tholozan,St. Louis,MO,US
+NULL,1565,RR #1 Box 107 A,Durand,IL,US
+NULL,1566,5408 Leader Ave.,Sacremento,CA,US
+NULL,1567,Route 1 Box 450-A,Arroyo Grande,CA,US
+NULL,NULL,1567,Route 1 Box 450-A,Arroyo Grande,CA
+NULL,1568,872 Garden Terrace,Palm Bay,FL,US
+NULL,1569,2601 E. Broadway,Columbia,MO,US
+NULL,1570,320 9th Street,New York,NY,US
+NULL,1571,8681 Pleasantwood St NW,North Canton,OH,US
+NULL,1572,17 Summit St.,Yonkers,NY,US
+NULL,NULL,1572,17 Summit St.,Yonkers,NY
+NULL,1573,27465 Berenda Way,Hayward,CA,US
+NULL,1574,4173 Datcho Drive,San Diego,CA,US
+NULL,1575,3113 Klonway Dr.,Louisville,KY,US
+NULL,1576,15415 Oakbury Dr.,La Mirada,CA,US
+NULL,1577,"Northwestern University, 1960 Sheridan Rd.",Evanston,IL,US
+NULL,1578,Marianne Estates R.D. 1,Shippendale,PA,US
+NULL,1579,549 E. 27th St.,Paterson,NJ,US
+NULL,1580,322 Park Hill Avenue,Yonkers,NY,US
+NULL,1581,10114-89th Ave. S.W.,Tacoma,WA,US
+NULL,1582,807 Lamberton Drive,Silver Spring,MD,US
+NULL,1583,"Box 1109, Southern State College",Magnolia,AR,US
+NULL,1584,2718 Fremont Ave.,N. Minneapolis,MN,US
+NULL,1585,4228 Fourth,Detroit,MI,US
+NULL,1586,NULL,San Bernardino,CA,US
+NULL,1587,NULL,Asgard,NY,US
+NULL,1588,Pennypacker 27 Harvard,Cambridge,MA,US
+NULL,1589,5 Sound Beach Road,Bayville,NY,US
+NULL,1590,NULL,Rockhill Furn,PA,US
+NULL,1591,2285 Brockett Rd.,Tucker,GA,US
+NULL,1592,256 Las Miradas Dr.,Los Gatos,CA,US
+NULL,1593,900 Notley Road,Silver Springs,MD,US
+NULL,1594,4024 Willow St.,Pittsburg,PA,US
+NULL,1595,1204 Appleyard Dr.,Tall.,FL,US
+NULL,1596,4625 Maryland Avenue,St. Louis,MO,US
+NULL,1597,4117 N.W. 31st,Oklahoma City,OK,US
+NULL,1598,2714 S. Hillock Avenue,Chicago,IL,US
+NULL,1599,1108 Boylston St.,Boston,MA,US
+NULL,1600,NULL,Providence,RI,US
+NULL,1601,2223 N. Clinton,Saginaw,MI,US
+NULL,1602,424 W. Imperial Ave,El Segundo,CA,US
+NULL,1603,28 Orvill Road,Hampshire,NULL,GB
+NULL,1604,14 Skinner Rd,Rockville,CT,US
+NULL,1605,USS Courtney (DE-1021),New York,NY,US
+NULL,1606,671 Highland Ave,Newark,NJ,US
+NULL,1607,Taft School,Watertown,CT,US
+NULL,1609,536 General Mts. Rd,Milford,MI,US
+NULL,1610,2516 Highland Ave,Manhattan Beach,CA,US
+NULL,1611,40 E. Oak St.,Chicago,IL,US
+NULL,1612,37 Valley Road,Nahant,MA,US
+NULL,1613,"RA 11402129, 1626 V Corps, APO 79",New York,NY,US
+NULL,1614,24 King St. W,Cabourg,CA,US
+NULL,1615,1700 Tartan Way,Louisville,KY,US
+NULL,1616,2537 Quantico Ave,Baltimore ,MD,US
+NULL,1617,18 Marshall St.,Irvington,NJ,US
+NULL,1618,504 Linden Ave,Sunnyvale,CA,US
+NULL,1619,220 B. 71st St,Arverne,NY,US
+NULL,1620,279 State Road,Hinckley,OH,US
+NULL,1621,Williams College,Williamston,MA,US
+NULL,1622,"Baird Apts., 109 1/2 4th Ave. So",Lewiston,MT,US
+NULL,1623,1711 Davidson Ave,Bronx,NY,US
+NULL,1624,610 Dexter St,Santa Rosa ,CA,US
+NULL,1625,New York University,New York,NY,US
+NULL,1626,3463 Lakeside Dr,Atlanta,GA,US
+NULL,1627,510 1/2 E. 3rd St,Winona,MN,US
+NULL,1628,545 Cleveland Ave,South Bend,IN,US
+NULL,1629,2059 Jeanne-Mance St,Montreal,QC,CA
+NULL,1630,"Box 331B, Merced Hall, 802 Font Blvd",San Francisco,CA,US
+NULL,1631,9 Eastwood Dr,Denbigh,VA,US
+NULL,1632,810 Jansen,Mena,AR,US
+NULL,1633,19 Boenay St,Albany,NY,US
+NULL,1634,P.O. Box 372,Oracle,AZ,US
+NULL,1635,R.R. #2,Princeton,IN,US
+NULL,1636,840 Plainfield Lane,Valley Stream,NY,US
+NULL,1637,452 Madison St.,Gary,IN,US
+NULL,1638,117 W. 4th St,Winchester,IN,US
+NULL,1639,680 N. Auburndale,Memphis,TN,US
+NULL,1640,2932 E. Diamond ,Phoenix,AZ,US
+NULL,1641,17474 Ehle St,Castro Valley,CA,US
+NULL,NULL,1641,17474 Ehle St,Castro Valley,CA
+NULL,1642,Route #2,Tama,IA,US
+NULL,1643,6-A Oak Circle,Rockport,MA,US
+NULL,1644,7 Dullas Rd,Liverpool,NULL,GB
+NULL,1645,4463 Jefferson St,Bellaire,OH,US
+NULL,1646,223-22 65 Ave,Bayside,NY,US
+NULL,1647,527 Jasmine Lane,Santa Maria,CA,US
+NULL,1648,231 E. 56th St,Long Beach,CA,US
+NULL,1649,Walpole St,Dover,MA,US
+NULL,1650,508-H Allenhurst Rd,Buffalo,NY,US
+NULL,1652,Bard College,Annandale-on-Hudson,NY,US
+NULL,1654,1005 Hughes,Van Wert ,OH,US
+NULL,1655,112 Winter St,Portland,ME,US
+NULL,1656,20 Pine St,Westbrook,ME,US
+NULL,1657,117 Biltmore St,North Arlington,NJ,US
+NULL,1658,467 East Northern,Springfield,OH,US
+NULL,1659,5245 S. Kenwood Ave,Chicago,IL,US
+NULL,1660,337 Beacon St,Boston,MA,US
+NULL,1661,9 Ninth St,Edwards,CA,US
+NULL,1662,NULL,Capon Bridge,WV,US
+NULL,1663,2136 Glenwood,Toledo,OH,US
+NULL,NULL,1663,2136 Glenwood,Toledo,OH
+NULL,1664,"Parsons College, Box 442",Fairfield,IA,US
+NULL,1665,1236 W. North Shore Ave,Chicago,IL,US
+NULL,1666,"Lot 7, Rd. 8/3-I",Petaling Jaya,NULL,MY
+NULL,1667,205 Camelia Way,Modesto,CA,US
+NULL,1668,5220 Ascot Ave,Los Angeles,CA,US
+NULL,1670,33 Washington St,Harrison,NJ,US
+NULL,1671,428 Arch St,Cumberland,MD,US
+NULL,1672,P.O. Box 357,Summit City ,CA,US
+NULL,1673,432 nancahona St,Honolulu,HI,US
+NULL,1674,111 Norris Ave,McCook,NE,US
+NULL,1675,NULL,Albany,NY,US
+NULL,1677,NULL,Baton Rouge,LA,US
+NULL,1678,NULL,Tarentum,PA,US
+NULL,1679,NULL,Mobile,AL,US
+NULL,1680,3275 Route 31,Spenceport,NY,US
+NULL,1681,NULL,Upton,KY,US
+NULL,1682,60 Gladys Street,San Francisco,CA,US
+NULL,1683,Eastern Illinois University,Charleston,IL,US
+NULL,1684,1535 S.E. 16th ,Portland,OR,US
+NULL,1685,R.R. #2,Mayville ,WI,US
+NULL,1686,"YN "A" School, USNTC",San Diego,CA,US
+NULL,1687,505 No. 16th St,Herrin ,IL,US
+NULL,1688,3 Otowi Drive,Security ,CO,US
+NULL,1689,1120 10th Ave N.W.,Great Falls,MT,US
+NULL,1690,864 River Ave,Providence,RI,US
+NULL,1691,530 W. 15th St,Ada,OK,US
+NULL,1692,530 W. 15th St,Ada,OK,US
+NULL,1693,Malacanang,Manila,NULL,PH
+NULL,1694,13201 Crowley St,Arleta,CA,US
+NULL,1695,4896 S. Dorey Dr,Bay City,MI,US
+NULL,1696,1505 Huiracocha,Lima,NULL,PE
+NULL,1697,12161/2 N. Hoover St.,Los Angeles ,CA,US
+NULL,1698,6122 East 20th St,Tucson,AZ,US
+NULL,1699,53 Vale St,Wolverhampton,NULL,GB
+NULL,1700,22 Battery St,San Francisco,CA,US
+NULL,1701,240 High Street,Prescott,AZ,US
+NULL,1702,Centre College of Kentucky,Danville,KY,US
+NULL,1703,1328 No. Jackson St,Waukegan,IL,US
+NULL,1704,1036 Armitage Ave,Chicago,IL,US
+NULL,1705,1901 84th St,Brooklyn,NY,US
+NULL,1706,5948 Fairwood,Dearborn Heights,MI,US
+NULL,1708,569 Hilson Ave,Ottawa,CA,US
+NULL,1709,17821 Lahey St,Granada Hills ,CA,US
+NULL,NULL,1709,17821 Lahey St,Granada Hills ,CA
+NULL,1710,27 Honeysuckle Lane,Mountain Brook,AL,US
+NULL,1711,205 S. 11th St.,Carlsbad,NM,US
+NULL,1712,442 E. 105th St. (3C),New York,NY,US
+NULL,1713,22 Larkin House,Stanford,CA,US
+NULL,NULL,1713,22 Larkin House,Stanford,CA
+NULL,1714,18 Hawk Road,Levittown ,PA,US
+NULL,1715,63 Havalock Ave,Ottowa,CA,US
+NULL,1716,625 South 3rd St,Okemah,OK,US
+NULL,1717,"R. D. 1, Box 264",Coal Center,PA,US
+NULL,1719,Alliance College,Cambridge,PA,US
+NULL,1720,Ohio State University,Colombus,OH,US
+NULL,1722,"Rt. #4, Box 393",Sherwood,OR,US
+NULL,1724,7711 88th Ave,Edmonton,CA,US
+NULL,NULL,1724,7711 88th Ave,Edmonton,CA
+NULL,1725,"Room 1422, Pierce Tower, 5514 University Ave",Chicago,IL,US
+NULL,1726, 120 Benchley Pl.,Bronx,NY,US
+NULL,1728,NULL,Niitykumpu,FL,US
+NULL,1729,NULL,Cleveland,OH,US
+NULL,1730,R.R. #1,Keremos,CA,US
+NULL,1731,11 Glen St,Hot Springs,AR,US
+NULL,1732,"Sanborn Hall, Pitzer College",Claremont,CA,US
+NULL,1733,NULL,Davenport,IA,US
+NULL,1734,2708 East Colvin,Syracuse,NY,US
+NULL,1735,715 W. 10th Street,Junction City ,KS,US
+NULL,1736,243 E. Cherry St,Mt Carmel ,PA,US
+NULL,1737,290 Jefferson Ave,Cresskill,NJ,US
+NULL,1738,642 East 11th St,New York,NY,US
+NULL,1739,R.D. #1,York Haven,PA,US
+NULL,1741,787 Welburn Ave.,Gilroy ,CA,US
+NULL,1742,2743 West San Miguel Ave,Phoenix,AZ,US
+NULL,1743,"Box 20, Girualt, Adams State College",Alamosa,CO,US
+NULL,1744,2840 Ocean Parkway,Brooklyn,NY,US
+NULL,1745,6402 34th Ave NW,Seattle,WA,US
+NULL,1746,6146 Chaffin St,Houston,TX,US
+NULL,1747,3224 Wesleyan Ave,Rockford,IL,US
+NULL,1748,2440 W. 111th St.,Chicago,IL,US
+NULL,1749,1298-A Symington Dr.,Rantoul,IL,US
+NULL,1751,Opp. Govt. Secondary Girls School,Raipur,NULL,IN
+NULL,1752,P.O. Box 496,Athens,TX,US
+NULL,1753,1651 DeSoto Lane,Speedway ,IN,US
+NULL,1755,"926 Furnald Hall, Columbia",New York,NY,US
+NULL,NULL,1756,Box 465,Brenham,TX
+NULL,NULL,1757,2906 Rueckert Ave.,Baltimore,MD
+NULL,NULL,1758,4305 Sea Chest Rd.,Virginia Beach,VA
+NULL,NULL,1759,2912 Marshall St.,Falls Church,VA
+NULL,NULL,1760,32 Central Ave.,Berwyn,PA
+NULL,NULL,1761,117 Longwood Dr.,Waterloo,ON
+NULL,NULL,1762,187 Edgewood Ave.,Clifton,NJ
+NULL,NULL,1763,1516 West Shore Dr.,Pekin,IL
+NULL,NULL,1764,Box 177,Glencoe,OH
+NULL,NULL,1765,"Rt. #1, Box 40",Nashwauk,MN
+NULL,NULL,1766,2663 N.W. Westover,Portland,OR
+NULL,1767,9913 Minuteman St.,El Paso,TX,US
+NULL,1768,1601 Adams St.,Madison,WI,US
+NULL,1769,13914 Marianna Dr.,Rockville,MD,US
+NULL,1770,NULL,Corona,NY,US
+NULL,1771,Stevens Inst. of Technology,Hoboken,NJ,US
+NULL,1772,"Dept. of Anthropology, S.U.N.Y.",Buffalo,NY,US
+NULL,1774,NULL,Wauwatosa,WI,US
+NULL,1775,NULL,Roselle,NJ,US
+NULL,1776,NULL,Oakland,CA,US
+NULL,1777,NULL,Alamedam,CA,US
+NULL,NULL,1778,1250 W. Albian,Chicago,IL
+NULL,1779,NULL,Phoenix,AZ,US
+NULL,1780,4777 Oakes Rd.,Dayton,OH,US
+NULL,NULL,1781,"Route 6, Box 46 F",Cleveland,TN
+NULL,NULL,1782,196 Frederick,Tonawanda,NY
+NULL,NULL,1783,630 Gerona Road,Stanford,CA
+NULL,NULL,1784,4734 No. Franklin,Philadelphia,PA
+NULL,1784,4734 No. Franklin,Philadelphia,PA,US
+NULL,NULL,1785,2198 Cruger Avenue,Bronx,NY
+NULL,NULL,1786,6 N 154 Glendale,Medinah,IL
+NULL,NULL,1787,4408 Conchita Way,Torzana,CA
+NULL,1788,5307 Sepulveda Blvd.,Van Nuys,CA,US
+NULL,1789,1415 East Second St.,Port Angeles,WA,US
+NULL,1790,214 Clark Howel UGA,Athens,GA,US
+NULL,NULL,1791,504 W. 166 St. (#2R),New York,NY
+NULL,1791,504 W. 166 St. (#2R),New York,NY,US
+NULL,1792,1935 Shore Parkway,Brooklyn,NY,US
+NULL,NULL,1793,5027 16th NE,Seattle,WA
+NULL,1794,50 Stony Road West,Edison,NJ,US
+NULL,NULL,1795,NULL,Spring Lake,NC
+NULL,1796,4 Elm St.,Batavia,NY,US
+NULL,NULL,1797,2866 No. 46th St.,Milwaukee,WI
+NULL,1798,80-06 57th Street,Floral Park,NY,US
+NULL,1799,1324 N.W. 12th Street,Gainesville,FL,US
+NULL,1800,90 Fairway Dr.,Edmonton,AB,CA
+1800,90 Fairway Dr.,Edmonton,AB,CA,NULL
+NULL,1801,5213 E. Marlette Rd.,Marletto,MI,US
+NULL,1802,61 Philadelphia Ave,Massapequa Park,NY,US
+NULL,1803,151 Cooper Rd,West Haven,CT,US
+NULL,1804,5914 N. Willard Ave,San Gabriel,CA,US
+NULL,1805,1825 E. Evergreen St,Wheaton,IL,US
+NULL,1806,"VF-124 Admin., NAS Miramar",San Diego,CA,US
+NULL,1807,1209 Hilltop Dr.,Covington,KY,US
+NULL,1808,9 Sheridan Ave,Kearny,NJ,US
+NULL,NULL,1808,9 Sheridan Ave,Kearny,NJ
+NULL,1809,5170 St. Anthony Apt B,New Orleans ,LA,US
+NULL,1811,930 S. Telemachus,New Orleans,LA,US
+NULL,1812,321 Lake Forrest Lane,Atlanta,GA,US
+NULL,1813,77 Towbridge St,Cambridge,MA,US
+NULL,1814,534 Larchwood Avenue,Upper Darby,PA,US
+NULL,1815,156-11 Aquilar Ave,Flushing ,NY,US
+NULL,1816,2224 Guthrie,Royal Oaks,MI,US
+NULL,1817,Box 181,Michigamme,MI,US
+NULL,1818,2721 Barker Ave,Bronx ,NY,US
+NULL,1819,9 Foley St,Attleboro ,MA,US
+NULL,NULL,1819,9 Foley St,Attleboro ,MA
+NULL,1820,2269 E. 27th St,Brooklyn,NY,US
+NULL,1821,720 Ave. P,Brooklyn,NY,US
+NULL,1822,1328 Nelson Ave,Bronx ,NY,US
+NULL,1823,832 E. 2nd St,So. Boston ,MA,US
+NULL,1824,313 N. Tenth St.,Belen,NM,US
+NULL,1825,878 Lenore Ave,Colombus,OH,US
+NULL,1826,833 Pearl St,Ottawa,IL,US
+NULL,1828,10735 Hazelwood Dr,Lemoore,CA,US
+NULL,NULL,1828,10735 Hazelwood Dr,Lemoore,CA
+NULL,1829,195 Walnut St,Stoughton,MA,US
+NULL,1830,823 E. Elm St,Wheaton,IL,US
+NULL,1831,"15th Supply &amp; Service Bn., 1st Cavalry (Air M",Ft. Benning,GA,US
+NULL,1832,1595 Madison Ave,New York,NY,US
+NULL,1833,2601 Briarhurst,Houston,TX,US
+NULL,1834,154 Third Ave,San Francisco,CA,US
+NULL,1835,R.F.D. #4,Caribou ,ME,US
+NULL,1836,621 So. High St.,Belleville ,IL,US
+NULL,1837,3337 Yale Station,New Haven ,CT,US
+NULL,1838,2314 Josie Avenue,Long Beach ,CA,US
+NULL,1839,1050 Beloit Avenue,Janesville,WI,US
+NULL,1840,64 E. 91st Way,New York,NY,US
+NULL,1841,820 McDonald Ave.,Brooklyn,NY,US
+NULL,1842,"Co. A. 709, M.P., B.N. A.P.O.",NULL,NY,US
+NULL,1843,"Drug Help, Inc.",Ann Arbor,MI,US
+NULL,1844,Netherlands Res. Agency 2nd Reg. USACIDC APO,NULL,NY,US
+NULL,1845,188 Wilson Drive,Cresskill,NJ,US
+NULL,1846,Auburn University,NULL,NULL,US
+NULL,1847,R.D. #1,Lewisberry,PA,US
+NULL,1848,3223 Manning Ave.,Cincinnati,OH,US
+NULL,1849,1217-B Margaret St.,Key West,FL,US
+NULL,1851,18 West 22nd St.,Huntington Sta.,NY,US
+NULL,1852,Box 482,Westport,WA,US
+NULL,1853,50 Dolly Drive,Parsippany,NJ,US
+NULL,1854,1517 Locust,Eldorado,IL,US
+NULL,1855,34 Chatham Lane,Oak Brook,IL,US
+NULL,1856,3712 Hackett Ave.,Long Beach,CA,US
+NULL,1857,Box 345,Wallins,KY,US
+NULL,1858,5 Highland Hall,Bellingham,WA,US
+NULL,1859,NULL,Bellflower,CA,US
+NULL,1860,NULL,Bowling Green,OH,US
+NULL,NULL,1861,892 Fox St.,Bronx,NY
+NULL,NULL,1862,112 E. Jane Ave.,Perry,FL
+NULL,NULL,1863,3398 W. 99 St.,Cleveland,OH
+NULL,1863,3398 W. 99 St.,Cleveland,OH,US
+NULL,NULL,1864,5816 Prospect,Dallas,TX
+NULL,NULL,1865,"c/o Sgt. Larry Van Winkle HHD 3rd Inf. Div., ",New York,NY
+NULL,NULL,1866,394 Whitney Ave.,New Haven,CT
+NULL,NULL,1867,St. James Road,Cheektowaga,NY
+NULL,NULL,1868,911 Lake Street,Angola,NY
+NULL,NULL,1869,2351 Dotley Avenue,Jennings,MO
+NULL,NULL,1870,102-18 64 Ave.,Forest Hills,NY
+NULL,NULL,1871,405 Penn Vista Dr.,Pittsburgh,PA
+NULL,NULL,1872,2127 Lincoln,Saginaw,MI
+NULL,NULL,1873,258 Bewley Road,Haddonfield,NJ
+NULL,NULL,1874,"Box 22051, LSU",Baton Rouge,LA
+NULL,NULL,1875,Box 4702,Stanford,CA
+NULL,NULL,1876,1409 Waco St.,Troy,OH
+NULL,1876,1409 Waco St.,Troy,OH,US
+NULL,NULL,1877,"AF 19820744, POB 2885 Scott AFB",NULL,IL
+NULL,NULL,1878,64 So. Parsonage St.,Rhinebeck,NY
+NULL,NULL,1879,6330 Piping Rock Road,Madison,WI
+NULL,1879,6330 Piping Rock Road,Madison,WI,US
+NULL,NULL,1880,6 Duncan La.,Rockaway,NJ
+NULL,NULL,1881,510 Barrett St.,Wilmington,DE
+NULL,NULL,1882,1065 French St.,Willows,CA
+NULL,NULL,1883,5836 West 59th Street,Chicago,IL
+NULL,1884,140 Banner Way,Pittsburgh,PA,US
+NULL,1885,141 Kathleen Drive,Elgin,IL,US
+NULL,1887,29370 Miles Road,Solon,OH,US
+NULL,NULL,1887,29370 Miles Road,Solon,OH
+NULL,1888,88-49 202 St,Hollis,NY,US
+NULL,1889,700 West College Ave,El Paso,TX,US
+NULL,1891,R.R. 1 Box 19,Virden,IL,US
+NULL,1892,22 Mansfield Rd,London,NULL,GB
+NULL,1894,57 2nd St,Troy,NY,US
+NULL,1897,41 Jackson Ave,W. Peabody,MA,US
+NULL,1898,"Co. D, 701st Maint. Bnn., APO 96345",San Francisco,CA,US
+NULL,1899,527 Division St,Altoona,WI,US
+NULL,1900,94-1006 Awaiki,Waipahu,HI,US
+NULL,1901,NULL,Port Washington,NY,US
+NULL,1902,52 Briarwood Lane,Plainview,NY,US
+NULL,NULL,1902,52 Briarwood Lane,Plainview,NY
+1904,96 Howard Ave.,Ansonia,CT,US,NULL
+NULL,1906,NULL,Pasadena,TX,US
+NULL,1907,8786 Hendricks Rd.,Mentor,OH,US
+NULL,1908,151 West 86th St.,New York,NY,US
+NULL,1909,447 Dulaney Avenue,Woodriver,IL,US
+NULL,1910,"P.O. Box 205, Gilman Hall John Hopkins U",Baltimore,MD,US
+NULL,1911,30 Montrose Avenue (Apt. 19-T),Brooklyn,NY,US
+NULL,1912,952 Fresno,Berkeley,CA,US
+NULL,1913,1440 Eastern Ave.,Morgantown,WV,US
+NULL,1914,1758 Piping Rock Dr.,Memphis,TN,US
+NULL,1915,2010 Potter Ave.,N. Merrick,NY,US
+NULL,1916,15 Campbell Terr.,Pawtucket,RI,US
+NULL,1917,NULL,W.Seneca,NY,US
+NULL,1918,909 Santa Fe Ave.,Albany,CA,US
+NULL,1919,Highland Hall #5,Bellingham,WA,US
+NULL,1920,"Box 208, Olson Hall University of S. Dakota",Vermillion,SD,US
+NULL,NULL,1921,Box 1136,North Highlands,CA
+NULL,1922,2056 East 46th St.,Indianapolis,IN,US
+NULL,1923,807 North 39th St.,Omaha,NE,US
+NULL,1924,310 Morrow Avenue,Carnegie,PA,US
+NULL,1925,402 Arch St.,Seaford,DE,US
+NULL,1926,16203 Oregon Ave.,Bellflower,CA,US
+NULL,1927,6 Valley Lane,Upper Saddle River,NJ,US
+NULL,1928,2950 Invergarry,Memphis,TN,US
+NULL,1929,288 Linwood Avenue,Buffalo,NY,US
+NULL,1930,"1230 E., 38 1/2 Street #130-B",Austin,TX,US
+NULL,1931,4401 Clark Avenue,Long Beach,CA,US
+NULL,1932,15 So. Division St.,New Rochelle,NY,US
+NULL,1933,333 Sorsar Circle,Cartholl,MN,US
+NULL,1934,3087 SE Ankeny #6,Portland,OR,US
+NULL,1935,35 MMS-PSC Box 3036,George AFB,CA,US
+NULL,1936,NULL,Ape City,CA,US
+NULL,1937,605 Florence Street,Dothan,AL,US
+NULL,NULL,1938,509 Chestnut Street,Desloge,MO
+NULL,NULL,1939,119 West Fourth,Salisbury,MO
+NULL,NULL,1940,P.O. Box 345,Sackville,NB
+NULL,NULL,1941,11 Bette Lane,Commack,NY
+NULL,1941,11 Bette Lane,Commack,NY,US
+NULL,NULL,1942,P.O. Box 865,Dunedin,FL
+NULL,NULL,1943,9150 Plaza Park Dr.,Elk Grove,CA
+NULL,NULL,1944,108 Carmorant Bay,Winnipeg 6,MB
+NULL,NULL,1945,301 Waugh St.,Columbia,MO
+NULL,NULL,1946,214 1/2 South Bjai St.,Santa Paulo,CA
+NULL,NULL,1947,571 Ithaca Road,Horseheads,NY
+NULL,NULL,1948,1321 S. Charlotte,San Gabriel,CA
+NULL,NULL,1949,2720 Overlook Dr. N.E.,Atlanta,GA
+NULL,NULL,1950,"US 56731898, 4-H-1-1",Fort Ord,CA
+NULL,NULL,1951,357 West Saddle River Road,Upper Saddle RIver,NJ
+NULL,NULL,1952,1007 Drean Dr.,Clawson,MI
+NULL,NULL,1953,Box 81,Kearney,ON
+NULL,NULL,1954,"2138 035, Disbursing Office, MAG-36, 1st MAW ",San Francisco,CA
+NULL,NULL,1955,1924 74th Ct.,Elmwood Park,IL
+NULL,NULL,1956,P.O. Box 1107,Seguin,TX
+NULL,NULL,1957,218 W. Lincolnway,Ames,IA
+NULL,NULL,1958,1494 Lexington Ave.,New York,NY
+NULL,NULL,1959,Farm 45 Rt. 2,Iowa Park,TX
+NULL,1959,Farm 45 Rt. 2,Iowa Park,TX,US
+NULL,NULL,1960,109-07 Francis-Lewis Blvd.,Queens Village,NY
+NULL,1961,NULL,Tyger,GA,US
+NULL,1962,812 Concord Street,Urbana,OH,US
+NULL,1963,13/1 Hearn Place,Carnarvon,WA,AU
+NULL,NULL,1964,433 Parkside Ave.,Buffalo,NY
+NULL,1965,Box 1131,Yakima,WA,US
+NULL,NULL,1966,1219 Nolan St.,San Antonio,TX
+NULL,1967,401 1/2 Eighth Avenue S.E.,Aberdeen,SD,US
+NULL,1968,1055 South Alameda Drive,Baton Rouge,LA,US
+NULL,1969,"RR #1, Box 300",Lead Hill,AK,US
+NULL,NULL,1970,525 Lakeview St.,Pineville,LA
+NULL,1971,8600 N. West Lane Sp. 127,Stockton,CA,US
+NULL,1972,14453 Llama Street NW,Anoka,MN,US
+NULL,NULL,1973,901 N. Stanley Ave.,Los Angeles,CA
+NULL,1973,901 N. Stanley Ave.,Los Angeles,CA,US
+NULL,1974,225 S. Bloomington Street De Pauw University,Greencastle,IN,US
+NULL,1975,81 Delaware Street,Staten Island,NY,US
+NULL,1976,RR 3 Box 176-C,West Monroe,LA,US
+NULL,1977,Box 259,APO NY,NY,US
+NULL,1978,32-25 167 Street,Flushing,NY,US
+NULL,1979,455 Cascade Drive,Lebanon,OR,US
+NULL,1980,RR 1 Box 678-A,Hamburg,NJ,US
+NULL,1981,"Town Terrace Apts #7, Valley Park Drive",Chapel Hill,NC,US
+NULL,1982,744 West Diamond Avenue,Hazleton,PA,US
+NULL,1983,NULL,Austin,TX,US
+NULL,1984,16 Caroline Street S.,Saratoga Springs,NY,US
+NULL,1985,2342 10th Street,Rockford,IL,US
+NULL,1986,1006 Lane Avenue,Titusville,FL,US
+NULL,1987,"2410 E. Lynn, #104",Seattle,WA,US
+NULL,1988,RD 2-Almond Rd.,Hornell,NY,US
+NULL,1989,66 Crestfield Dr.,Rochester,NY,US
+NULL,1990,2002 Fourth St. Apt. #208,Santa Monica,CA,US
+NULL,1991,3053 Tremont St.,Allentown,PA,US
+NULL,1994,Marlboro College,Marlboro,VT,US
+NULL,1995,45 Lawn Ave,Warwick,RI,US
+NULL,1996,134-25 166th Place,Jamaica,NY,US
+NULL,1998,2426 Belvedere,Wilmington,NC,US
+NULL,1999,Haverford College,Haverford,PA,US
+NULL,2000,508 Eleanor,Toledo,OH,US
+NULL,NULL,2000,508 Eleanor,Toledo,OH
+NULL,2002,162 E. 2nd St,New York,NY,US
+NULL,2003,St. John's College,Annapolis,MD,US
+NULL,2004,548 Riverside Drive,New York,NY,US
+NULL,2006,539 Silver St,Manchester,NH,US
+NULL,NULL,2007,2825 N.E. 65th,Portland,OR
+NULL,NULL,2008,1474 Newfoundland Dr.,Sunnyvale,CA
+NULL,NULL,2009,905B Ashbridge Dr.,Baltimore,MD
+NULL,NULL,2010,"1117-C 13th St., Treasure Island Quarters",San Francisco,CA
+NULL,NULL,2011,"203 Elkins Ave., Mifflin Park",Shillington,PA
+NULL,NULL,2012,"R.R. #1, Box 77",Belvidere,IL
+NULL,NULL,2013,347 S. Thompson St.,Hemet,CA
+NULL,2014,Box 145,Frenchtown,NJ,US
+NULL,2015,1957 W. Lunt,Chicago,IL,US
+NULL,2016,#69 Hover Road,Longmont,CO,US
+NULL,2017,990 NE 74 St.,Miami,FL,US
+NULL,2018,9120 Hawthorn Point,Westerville,OH,US
+NULL,2019,Rt. 1 Box 15,Greenville,VA,US
+NULL,2020,5316 Blue Water Place,Fayetteville,NC,US
+NULL,2021,2132 Glencoe Hills #7,Ann Arbor,MI,US
+NULL,2022,110 W. 86 St.,NULL,NY,US
+NULL,2023,1134 Belmont Street,Albert Lea,MN,US
+NULL,2024,27 Gov. Belcher Lane,Milton,MA,US
+NULL,2025,6827 Wentworth,Richfield,MN,US
+NULL,2026,2727 Midtown Ct. Apt. 14,Palo Arto,CA,US
+NULL,2027,1847 Rogue Road,Yuba City,CA,US
+NULL,2028,93 Avenue Louise,1050 Bruxelles,NULL,BE
+NULL,2029,227 Fox Run,King of Prussia,PA,US
+NULL,2030,806 Hastings Place,North Augusta,SC,US
+NULL,2031,NULL,Snow Low,AZ,US
+NULL,2032,5435 Grove St.,Skokie,IL,US
+NULL,2033,Box 36,Lakeview,WA,US
+NULL,2034,NULL,Great Lakes,IL,US
+NULL,2035,NULL,Fridley,MN,US
+NULL,2036,P.O. Box 723,Clinton,NC,US
+NULL,2037,1090-1330 8 St. SW,Calgary,AB,CA
+NULL,2038,Box 735,Carbondale,CO,US
+NULL,2039,Box 33A,Montgomery,NY,US
+NULL,2041,"Box 1710, Brown University",Providence,RI,US
+NULL,2042,Box 249,Windsor,NL,CA
+NULL,2043,316 E 77th Street,New York,NY,US
+NULL,2044,168 Colon Avenue,Staten Island,NY,US
+NULL,2045,5776 North 79th Street,Milwaukee,WI,US
+NULL,2046,328 Chauncey Street,Brooklyn,NY,US
+NULL,2047,4020 Seabridge Ave.,Orlando,FL,US
+NULL,2049,18734 Stahelin,Detroit,MI,US
+NULL,2051,1322 Milvia St.,Berkeley,CA,US
+NULL,2052,59 Harlan Drive,New Rochelle,NY,US
+NULL,2053,215 N. Baylor Drive,Sterling,VA,US
+NULL,2054,1512-169th St. #154,Hammond,IN,US
+NULL,2055,11156 Pearl St.,Northglenn,CO,US
+NULL,2056,809 Eastwich Drive,Lafayette,IN,US
+NULL,2057,25 Brookwood Lane,Shelton,CT,US
+NULL,2058,1627 W. 26th Street,Minneapolis,MN,US
+NULL,2059,115 Southberry Lane,Levittown,NY,US
+NULL,2060,21 Hampton Heights,Canton,NC,US
+NULL,2061,"D301R Austin Peay Hall, University of Tenn.",Martin,TN,US
+NULL,2062,1648 Dean Road,Roanoke,VA,US
+NULL,2063,"109B Chapman Hall, Adelphi University",Garden City,NY,US
+NULL,2064,1250 San Miguel Street,Gilroy,CA,US
+NULL,2065,442 South Belford Avenue,Holyoke,CO,US
+NULL,2066,RFD #2,Montpellier,VT,US
+NULL,2067,120 Wayne Court East,Redwood City,CA,US
+NULL,2068,2059 Krameria,Denver,CO,US
+NULL,2069,"Route 2, Box B4",Newberg,MO,US
+NULL,NULL,2070,3241 Sherman Street,Fairfax,VA
+NULL,NULL,2071,636 Timberlake,Richardson,TX
+NULL,NULL,2072,263 Young Street,Tanawanda,NY
+NULL,NULL,2073,809 Stonefield Ave.,Charleston,SC
+NULL,NULL,2074,106 Holiday Lane,Cocoa Beach,FL
+NULL,NULL,2075,701 Bartley Place,Toledo,OH
+NULL,NULL,2076,4757 Sheridan Road,Chicago,IL
+NULL,NULL,2077,120-25 227th St.,Cambria Heights,NY
+NULL,NULL,2078,321 Edison St.,Albany,GA
+NULL,NULL,2079,"513 Chestnut Hall, 39th &amp; Chestnut Sts. Unive",Philadelphia,PA
+NULL,NULL,2080,90 Lupton Lane,Haledon,NJ
+NULL,2080,90 Lupton Lane,Haledon,NJ,US
+NULL,NULL,2081,986 Mayflower Drive,Charelston,SC
+NULL,2081,986 Mayflower Drive,Charelston,SC,US
+NULL,NULL,2082,1112 Magnolia Rd.,Teaneck,NJ
+NULL,NULL,2083,3313 10th Ave.,Racine,WI
+NULL,NULL,2084,358 W. 35th St.,New York,NY
+NULL,NULL,2085,945 E. Sherrett,Potland,OR
+NULL,NULL,2086,2415-20 St. N.W. #34,Washington D.C.,DC
+NULL,NULL,2087,182 Montclair Ave.,Newark,NJ
+NULL,2088,230 Venado Avenue,Thousand Oaks,CA,US
+NULL,2089,2421 East 71st Street,Brooklyn,NY,US
+NULL,NULL,2090,516 Cedar Avenue,Moose Lake,MN
+NULL,2091,703 NW 19th Street,Gainsville,FL,US
+NULL,2092,"1125 Courtney, NW",Grand Rapids,MI,US
+NULL,2093,45 Franklin Ave.,Hawthorne,NJ,US
+NULL,2094,2207 Old Hickory Blvd.,Nashville,TN,US
+NULL,2095,26110 Nagel,Roseville,MI,US
+NULL,2096,4900 Manor Rd. #102,Austin,TX,US
+NULL,NULL,2097,9 Moonsheen Drive,Woodbridge,ON
+NULL,2098,146-35 183rd St.,Springfield Gardens,NY,US
+NULL,2099,"Box 3, Vikas Soc.",Memnagar,AMD 380052,IN
+NULL,2100,RR #1,Plainfield,IN,US
+NULL,NULL,2101,HSB 3/34 Arty. 9th Div. APOSF 96373,NULL,NULL
+NULL,NULL,2102,1135 Louise St.,San Leandra,CA
+NULL,2103,1639 Maryland Ave. S.,St. Louis Park,MN,US
+NULL,2104,150 Capri St.,Morro Bay,CA,US
+NULL,2105,121-122 Pumpkin Place,Snuf Gwen City,NY,US
+NULL,NULL,2106,235 Congress Ave.,Lansdowne,PA
+NULL,2107,22 Torogay St.,Milton,GLA,SCT
+NULL,2108,4864 Sioux Avenue,Sierra Vista,AZ,US
+NULL,NULL,2109,77 St. Clair Ave. E. Apt. 509,Toronto 7,ON
+NULL,2110,219 Hewlett Ct.,Creve Coeur,MO,US
+NULL,2111,Box 1492 APO,San Francisco,CA,US
+NULL,NULL,2112,NULL,Toronto,ON
+NULL,NULL,2113,205 Fieldcrest Rd.,Parsippony,NJ
+NULL,2114,412 Owl Hill Rd.,Lititz,PA,US
+NULL,2115,1 Freeman Ct.,Commack,NY,US
+NULL,2116,943 Nena Avenue,Havre de Grace,MD,US
+NULL,2117,253 NW 63 Terr.,Miami,FL,US
+NULL,2118,9030 Carriage Ct.,Pickerington,OH,US
+NULL,2119,2534 State,Granite City,IL,US
+NULL,2120,704 S. Third Street,Rockford,IL,US
+NULL,2121,4524 Kinmount Rd.,Lanham,MD,US
+NULL,2122,Box 14A Dooley Rt.,Boles,AR,US
+NULL,NULL,2123,21617 4th Avenue West,Bothell,WA
+NULL,2124,304 27th St. NE,Rochester,MN,US
+NULL,NULL,2125,1116 10th Ave.,Rockford,IL
+NULL,2125,1116 10th Ave.,Rockford,IL,US
+NULL,2126,Marine Post Office,Sault Ste. Marie,MI,US
+NULL,NULL,2127,614 Forest Avenue,Alton,IL
+NULL,2128,625 Fullerton,Chicago,IL,US
+NULL,2129,1020 West 41st Place Apt. 3,Kansas City,MO,US
+NULL,NULL,2130,1052 S. Westlake Ave.,Los Angeles,CA
+NULL,2131,1010 15th Ave. SE,Minneapolis,MN,US
+NULL,NULL,2132,88 Broad Street,Hudson,MA
+NULL,2133,1507 Monks Ave. S-13,Mankato,MN,US
+NULL,2134,1500 LaSalle Ave.,Minneapolis,MN,US
+NULL,2135,432 Winton St.,Pittsburgh,PA,US
+NULL,NULL,2136,12th USAF Hosp. APO,San Francisco,CA
+NULL,2137,74 Carsbrooke Road,Etobicoke,ON,CA
+NULL,2138,339 East Hyde Park Blvd.,Inglewood,CA,US
+NULL,2139,13 St. James Dr.,Belleville,IL,US
+NULL,2140,41 Somerset Rd.,Lexington,MA,US
+NULL,2141,11304 Marlboro Pk.,Upper Marlboro,MD,US
+NULL,2142,242 Louis #3,East Lansing,MI,US
+NULL,2143,7 Partridge Rd.,Lexington,MA,US
+NULL,2144,7 West 81st St.,New York,NY,US
+NULL,2145,NULL,Liverpool,NY,US
+NULL,2146,NULL,Pewaukee,WI,US
+NULL,2147,303 W. Pennslyvania,Urbana,IL,US
+NULL,2148,628 MacDuff Ave.,Stockton,CA,US
+NULL,2149,129 Gunson St. Apt. 7,E. Lansing,MI,US
+NULL,2150,New Rochelle Hospital Medical Center,New Rochelle,NY,US
+NULL,2151,225 Colorado,Portales,NM,US
+NULL,2152,1012 Rosewood,DeSoto,TX,US
+NULL,2153,457 Tillbury Ave.,Ottawa,ON,CA
+NULL,2154,12600 Rolling Rd. Dr.,Miami,FL,US
+NULL,2155,100 Hillside,Montreal,PO,CA
+NULL,2156,1690 B. Elm Ave.,San Diego,CA,US
+NULL,2157,"Columbia University, 411 West 116 Street",New York,NY,US
+NULL,2158,Baronet Ruddigore Castle,Cornwall,NULL,GB
+NULL,2159,507 East Main St,Bellevue,OH,US
+NULL,2160,"300 No. State St., Suite 5908",Chicago,IL,US
+NULL,2161,1805 32nd St,Vernon,CA,US
+NULL,2162,223 Knox Crescent,Ottawa,ON,CA
+NULL,2163,1522 W. 261st St,Harbor City,CA,US
+NULL,2164,"711 Norton Hall, Univ. of Calif., 2400 Durant",Berkeley,CA,US
+NULL,2165,Pleasant St,Pembroke,MA,US
+NULL,2166,4106 Donna Lynn Dr,Houston ,TX,US
+NULL,2167,8334 W. 52nd,Cleveland,OH,US
+NULL,2168,5635 Wegg Ave,East Chicago,IN,US
+NULL,2169,3619 S. 61 Court,Cicero,IL,US
+NULL,2171,NULL,NULL,NULL,NULL
+NULL,2172,1950 Comm. Sq. Box 2037 APO,New York,NY,US
+NULL,2173,Hildesheimerster 39,Hanover,NULL,DE
+NULL,2174,1809 20th St. N.W.,Washington D.C.,DC,US
+NULL,2175,6014 7th Ave,Los Angeles,CA,US
+NULL,2177,"Box 40, White III, Room 2, R.P.I.",Troy,NY,US
+NULL,2178,5882 Rhode Island,Cincinnati,OH,US
+NULL,2179,"Rt. #1, Box 309",Lenoir City,TN,US
+NULL,2180,152 West 19th St,Hamilton,CA,US
+NULL,2181,"209 Barnard, CMU",Mt. Pleasant,MI,US
+NULL,2182,1001 Robert St.,La Porte,IN,US
+NULL,2183,"1196 Selden, #280",Detroit,MI,US
+NULL,2184,14475 Sobey Road,Saratoga,CA,US
+NULL,2185,"Hwy. 996, Box 177",New Orleans,LA,US
+NULL,NULL,2185,"Hwy. 996, Box 177",New Orleans,LA
+NULL,2186,2457 Woodvalley Dr,East Point,GA,US
+NULL,2187,15 Allen Lane,Ipswich,MA,US
+NULL,2188,310 Yale Ave,New Haven,CT,US
+NULL,2189,401 E. 25th St,Paterson,NJ,US
+NULL,2190,2308 Arthur St,Louisville,KY,US
+NULL,2192,"21st Signal Co., APO",New York,NY,US
+NULL,2193,1803 31st St,Brooklyn,NY,US
+NULL,2194,203 Collins Ave,Spartanburg,SC,US
+NULL,2195,"Long Meadows Apts., Bldg. 4, Richland Lane",Camp Hill,PA,US
+NULL,2196,178 Oakcliff Ct. N.W.,Atlanta,GA,US
+NULL,2197,15 Dickenson St,Princeton,NJ,US
+NULL,2198,"33, Spyrou Mercouri",Athens,GR,US
+NULL,2199,"3 Wing, R.C.A.F., CAPO 5055",NULL,CA,US
+NULL,2200,52 Candia Rd,Manchester,NH,US
+NULL,2201,5929 Green Tree,Houston,TX,US
+NULL,2202,1059 East 228 St.,Bronx,NY,US
+NULL,2203,2709 N. Main St,Findlay,OH,US
+NULL,2204,215 Clower Ave,Long Beach,MS,US
+NULL,2205,7434 Drake Rd,Cincinnati,OH,US
+NULL,NULL,2205,7434 Drake Rd,Cincinnati,OH
+NULL,2206,8611 Becker Ave,Allen Park,MI,US
+NULL,2207,420 No. Springfield Ave,Chicago,IL,US
+NULL,2208,1908 S. Harrison,Amarillo,TX,US
+NULL,2209,101 Michel Ave,So. Farmingdale ,NY,US
+NULL,2211,2501 Washington St,Wilmington,DE,US
+NULL,2212,16428 Cornuta,Bellflower,CA,US
+NULL,NULL,2214,Hg. Co. 4th Marines APO,San Francisco,CA
+NULL,NULL,2215,R4 Amity Road,New Haven,CT
+NULL,NULL,2216,4015 N.W. Ave.,Bellingham,WA
+NULL,NULL,2217,380 East 67th Way,Long Beach,CA
+NULL,NULL,2218,8307 West 4th St.,Los Angeles,CA
+NULL,2219,Villa Allendo,Cordoba,NULL,AR
+NULL,2220,5995 Stewart Road,Cincinnati,OH,US
+NULL,2221,575 Main Ave,Bayhead,NJ,US
+NULL,2222,"7312 Bell Dr., Rt. #1",Colorado Springs,CO,US
+NULL,2223,"Theta XI Fraternity, Washington University",St. Louis,MO,US
+NULL,2224,1916 Kerrigan Ave,Union City,NJ,US
+NULL,2225,740 S. 400 E,Centerville,UT,US
+NULL,2227,4761 N.W. 1st Ct,Fort Lauderdale,FL,US
+NULL,2228,381 Tremont Ave,Orange,NJ,US
+NULL,2229,"1st Inf. Div., APO",San Francisco,CA,US
+NULL,2230,Blake College,Eugene,OR,US
+NULL,2231,836 Gardenia,Long Beach,CA,US
+NULL,2232,P.O. Box 495,Warrior,AL,US
+NULL,2233,NULL,Marion ,OH,US
+NULL,2234,NULL,Richmond,VA,US
+NULL,2235,NULL,New York,NY,US
+NULL,2236,NULL,Ridgefield,CT,US
+NULL,2237,NULL,Cranston,RI,US
+NULL,2238,NULL,Maplewood,NJ,US
+NULL,2239,NULL,Cambridge,MA,US
+NULL,2240,NULL,Eastlake,OH,US
+NULL,2241,NULL,Montreal,QC,CA
+NULL,2242,NULL,Franklin Sq,NJ,US
+NULL,2244,NULL,Hialeah,FL,US
+NULL,2245,NULL,Niagara Falls,NY,US
+NULL,2247,NULL,Corning,OH,US
+NULL,2248,NULL,New Haven,CT,US
+NULL,2249,NULL,Ridgefield Park,NJ,US
+NULL,2250,NULL,Lathan,NY,US
+NULL,2251,NULL,Lake Cowichan,BC,CA
+NULL,2252,NULL,Beaver Falls,PA,US
+NULL,2254,NULL,Little Falls,NJ,US
+NULL,2255,NULL,Salinas,KS,US
+NULL,2256,"Box 255, SOC, US Army Ordanance C&amp;S",Aberdeen,MD,US
+NULL,2257,595 Chandler St,Tewksbury,MA,US
+NULL,2259,240 E. Prospect Ave,State College,PA,US
+NULL,2260,915 Camborne Pl,Charlotte,NC,US
+NULL,2261,311 81/2 St. So.,Virginia,MN,US
+NULL,NULL,2261,311 81/2 St. So.,Virginia,MN
+NULL,2262,"Tuslog Det. 168, APO",New York,NY,US
+NULL,2263,Box 104,Winside,NE,US
+NULL,2264,3619 61 Court,Cicero,IL,US
+NULL,2265,"B63, Bucknell University",Lewisburg,PA,US
+NULL,2266,5404 S. Christiana Ave,Chicago,IL,US
+NULL,2267,2835 Coddington Ave,New York,NY,US
+NULL,2268,NULL,Menasha,WI,US
+NULL,2269,NULL,W. Bridgewater,CT,US
+NULL,2270,"Rt. #2, Box 112",Pomona,MO,US
+NULL,2271,432 Dallyn Rd,Richmond,CA,US
+NULL,2272,P.O. Box 7,Bonita,CA,US
+NULL,2273,157 Portman St,Windsor,CT,US
+NULL,2274,1621 Vista Place,Colorado Springs,CO,US
+NULL,2275,2565 W. 6th St.,San Bernardino ,CA,US
+NULL,2276,Amherst College,Amherst,MA,US
+NULL,2277,111 Fairway Lane,Pittsburgh,PA,US
+NULL,2278,5901 "A" St,Little Rock,AR,US
+NULL,2281,"Fleet Marine Force, Atlantic, Courthouse Bay",Camp Lejune,NC,US
+NULL,2282,1249 Willow St,Denver ,CO,US
+NULL,2283,520 Wiltshire Rd,Upper Darby,PA,US
+NULL,2284,2004 Breckenridge Dr. N.E.,Atlanta,GA,US
+NULL,2285,718 Palmerston Ave,Toronto,NULL,CA
+NULL,2286,9 Bingham Ave,Rumson,NJ,US
+NULL,2287,3040 W. 84th St,Chicago,IL,US
+NULL,2288,42 Greenwood Rd,Murray Hill,NJ,US
+NULL,2289,Carlos de los Heros 408,Chimbote,PE,US
+NULL,2290,"1st Bn. 5th Mar. H&amp;S Co. M.T., FPO",San Francisco,CA,US
+NULL,2291,3006 Hayfield Dr,Buffalo,NY,US
+NULL,2293,153 Holly Dr,Watsonville,CA,US
+NULL,2294,128 Maple Ave,Wilmette,IL,US
+NULL,2295,1419 Pitner,Evanston,IL,US
+NULL,2296,68-36 108th St.,Forest Hills,NY,US
+NULL,2297,1222 E. Wilson Ave.,Orange,CA,US
+NULL,2298,28 Forest Rd.,Glen Rock,NJ,US
+NULL,2299,120 Wharf Rd,Capitola,CA,US
+NULL,2300,383 E. 143 St,Bronx ,NY,US
+NULL,2301,421 E. Maryland Ave,St. Paul,MN,US
+NULL,2302,"Rt. #3, Box 123",Ironton,OH,US
+NULL,2303,"DPP-10, H&amp;S Co., FLSG-A, FMFPAC, FPO",San Francisco,CA,US
+NULL,2304,"Rt. #1, Box 439",Oakiland,MD,US
+NULL,2306,4848 Opal Ave,Norridge,IL,US
+NULL,2307,7 Shawnee Lane,Dover,NH,US
+NULL,2308,6209 Twilight Lane,El Paso,TX,US
+NULL,2309,6928 Shepherd St,Hyattsville,MD,US
+NULL,2310,436 Charles Rd,Lancaster,PA,US
+NULL,2311,42-58 79th St.,Elmhurst,NY,US
+NULL,2312,135 Via di Roma Walk,Long Beach,CA,US
+NULL,2313,406 Wolf St.,Philadelphia,PA,US
+NULL,2314,"3d Admin Co., 3d Inf. Div. (PM), APO",New York,NY,US
+NULL,2315,267 Fernwood Rd,Weirton,WV,US
+NULL,2316,NULL,Marcellus,MI,US
+NULL,2317,2554 Pensacola Ave,Chciago,IL,US
+NULL,2318,1149 Greenwood St,Bellefontaine,OH,US
+NULL,2320,86 Elm St,River Rouge ,MI,US
+NULL,2321,3404 Hobbs Rd,Nashville,TN,US
+NULL,2322,"1 Sundia Lane, 22a",Birmingham,GB,US
+NULL,2323,1029-27th St,Two Rivers,WI,US
+NULL,2325,216 Manse Rd,Hagerstown,MD,US
+NULL,2326,"305 Tener Hall, Penn State University",University Park ,PA,US
+NULL,2328,64 Netherlands Ave,Cranston,RI,US
+NULL,2329,15641 Union Ave,Harvey,IL,US
+NULL,2330,11 Blunt St,Bjuildford,NULL,AU
+NULL,2331,"Box 54, MRC, Indiana University",Bloomington,IN,US
+NULL,2332,Box 784,Bells,TX,US
+NULL,2333,R.R. #2,Belle Plaine,KS,US
+NULL,2336,7418 Parker Dr,Houston,TX,US
+NULL,2337,29 Cleveland St,Arlington,MA,US
+NULL,2338,4417 Watrous Ave,Tampa ,FL,US
+NULL,2339,122 Shornecliffe Rd,Newton,MA,US
+NULL,2340,"Team B, 102D USASA Scty Det, APO",New York,NY,US
+NULL,2341,2349 Ewing Drive,Atlanta,GA,US
+NULL,2342,NULL,Fort Huachua,AZ,US
+NULL,2343,1715 Oliver Ave. N,Minneapolis,MN,US
+NULL,2344,"463 Cumberland B, University of Maryland",College Park,MD,US
+NULL,2345,"368 Hopkinson, Univ. of Pa.",Philadephia,PA,US
+NULL,2346,Whell US AB,NULL,LY,NULL
+NULL,2347,"317 Cumberland Street, Apt. 5",Cornwall,CA,US
+NULL,2348,Box 23,Towner,ND,US
+NULL,2349,839 Day Hollow Road,Endcott,NY,US
+NULL,2351,1240 Corpus Christi Rd,Almeda,CA,US
+NULL,NULL,2351,1240 Corpus Christi Rd,Almeda,CA
+NULL,2352,10848 32nd Sw,Seattle,WA,US
+NULL,2353,507 East 123 Street,Cleveland,OH,US
+NULL,2355,446 High Ave,Oshkosh,WI,US
+NULL,2356,303 Easton Avenue,Buffalo,NY,US
+NULL,2357,910 Edgewater Drive,Amherst,NY,US
+NULL,2358,110 Swan St,Scotia,NY,US
+NULL,2359,3084 Brown Rd,Salem ,OR,US
+NULL,2360,500 Poplar Lane,Portsmouth,VA,US
+NULL,2361,1321 West Louden St,Philadelphia ,PA,US
+NULL,2362,1580 N. Griggs,St. Paul,MN,US
+NULL,2363,691 Humphrey St,Swampscott,MA,US
+NULL,2364,1701 Terrace Dr. West,Lake Worth,FL,US
+NULL,2365,East 22nd Street,Brooklyn,NY,US
+NULL,2366,51 Fair Street,Wallingford,CT,US
+NULL,2367,345 1/2 Cherry,Kent,OH,US
+NULL,2368,3446 N.W. 17th St,Miami,FL,US
+NULL,2369,1103 Glenwood Dr.,Augusta,GA,US
+NULL,2370,9055 Nilescenter Rd,Skokie,IL,US
+NULL,2371,704 South Third St,Rockford,IL,US
+NULL,2372,Rural Route #2,Boone,IA,US
+NULL,2373,63 Fountainbleau Dr,Willowdale,CA,US
+NULL,2374,3856 W. 104th St,Inglewood,CA,US
+NULL,2376,366 Greeley Avenue,Staten Island,NY,US
+NULL,2377,33 Elkwood Terr.,Tenafly,NJ,US
+NULL,2378,1594 Unionport Rd.,Bronx,NY,US
+NULL,2379,404 Ingraham Lane,New Hyde Park,NY,US
+NULL,2380,38 Hawthorne Ave,Princeton,NJ,US
+NULL,2381,NULL,Erie,KS,US
+NULL,NULL,2381,NULL,Erie,KS
+NULL,2382,235 E. 18th St,Bartlesville,OK,US
+NULL,2383,2108 E. 65th St,Brooklyn,NY,US
+NULL,2384,221 Sunset,Cape Girardeau,MO,US
+NULL,2385,321 N.E. 23 Way,Boca Raton,FL,US
+NULL,2386,NULL,Spring Valley,NY,US
+NULL,2387,145 S. Whittlesey Ave,Wallingford,CT,US
+NULL,2388,4972 Mt. Alverno Rd,Cincinnati,OH,US
+NULL,2390,1218 E. Ermina,Spokane,WA,US
+NULL,2392,647 Lytton,Palo Alto,CA,US
+NULL,2393,637 Forward Dr.,Victoria,CA,US
+NULL,2394,9031 Ft. Hamiton Parkway,Brooklyn,NY,US
+NULL,2397,133 Main St,Medway,MA,US
+NULL,2398,945 Beaver Bank Cr,Baltimore,MD,US
+NULL,2399,408 E. 138th St,New York,NY,US
+NULL,2400,P.O.B. 12000,Keesler AFB,MS,US
+NULL,2401,1017 West Shelley Road,North Baltimore ,NY,US
+NULL,2402,"HHD 96th MP Battalion, APO",San Francisco,CA,US
+NULL,2403,"Highway 996, Box 177",New Orleans,LA,US
+NULL,2404,17 Fulton,Vanderbyl Park,NULL,ZA
+NULL,2405,3 Somerset Rd,Tenafly,NJ,US
+NULL,2406,76 Madison Ave,Newtonville ,MA,US
+NULL,2408,R.R. #1 North,Williston,ND,US
+NULL,2410,175 Adams St,Brooklyn,NY,US
+NULL,2411,1100 Warburton Ave,Yonkers,NY,US
+NULL,2413,Route 1,Fisherville,VA,US
+NULL,2414,HHC USAH Pharmacy,Ft. Jackson ,SC,US
+NULL,2416,67 Hamilton Ave,Auburn ,NY,US
+NULL,2418,79 East Isabel Street,St Paul,MN,US
+NULL,2419,1776 Danesta Drive,Concord,CA,US
+NULL,2421,2709 Wood Road,Morristown,NJ,US
+NULL,2422,The Taft School,Watertown,CT,US
+NULL,2423,P.O. Box 655,Decatur,GA,US
+NULL,2425,3645 Boren St,San Diego,CA,US
+NULL,2427,2250 S.W. 28th St,Miami ,FL,US
+NULL,2428,3700 Dermond Road,Drexel Hill,PA,US
+NULL,2430,603 Brooks Avenue,Dallas ,TX,US
+NULL,2431,38 Simpson Avenue,Pitman,NJ,US
+NULL,2432,1514 Cedar Lane,Knoxville ,TN,US
+NULL,2434,4107 Gallagher,Saginaw,MI,US
+NULL,2435,124 W. 17th St.,Grand Island,NE,US
+NULL,2436,5423 Ft. Hamilton Parkway,Brooklyn,NY,US
+NULL,2438,5635 Yarwell,Houston,TX,US
+NULL,2439,1209 Judith,St. Paul,MN,US
+NULL,2440,1306 Gov. Nichalls Street,New Orleans,LA,US
+NULL,2441,2318 Broadway,Rockford,IL,US
+NULL,2442,357 Valley Blvd,Wood Ridge,NJ,US
+NULL,2443,312 Hamilton Ave,Peterson,NJ,US
+NULL,2444,"Rt. 2, Ebey Island",Everett,WA,US
+NULL,2445,4184 Hubbard,Lincoln Park,MI,US
+NULL,2446,817 West 66th Ave,Philadelphia,PA,US
+NULL,2447,405 S. 2nd Ave,Maywood,IL,US
+NULL,2448,NULL,Mitchellville,TN,US
+NULL,2450,"4 Stratford Rd, Ben Arion Heights",Pittsburg,PA,US
+NULL,2451,15 Hart Ave,Winnipeg,MB,CA
+NULL,2452,541 Pelham Rd.,New Rochelle,NY,US
+NULL,2453,15 Via Marechiaro,Naples,NULL,IT
+NULL,2454,3004 So. Tripp Ave.,Chicago,IL,US
+NULL,2455,5501 420 Memorial Dr.,Campbridge,MA,US
+NULL,2456,11995 Walbrook Dr.,Saratoga,CA,US
+NULL,NULL,2456,11995 Walbrook Dr.,Saratoga,CA
+NULL,2457,2016 47 St. S.E.,Calgary,ALTA.,CA
+NULL,2458,227 Broad St.,Fairborn,OH,US
+NULL,2459,P.O. Box 851,Poulsbo,WA,US
+NULL,2460,845 So. Third St.,Montebello,CA,US
+NULL,2461,1577 E. 37th St.,Brooklyn,NY,US
+NULL,NULL,2461,1577 E. 37th St.,Brooklyn,NY
+NULL,NULL,2462,1101 First St.,Mt. Pleasant,PA
+NULL,NULL,2463,122 Chestnut Dorm University of Pennsylvania,Philadelphia,PA
+NULL,NULL,2464,170 Blenheim Dr.,Ottawa 7,ON
+NULL,NULL,2465,3925 Brown St.,Flint,MI
+NULL,NULL,2466,96 1/2 Hicks St.,Brooklyn,NY
+NULL,NULL,2467,NULL,Flushing,NY
+NULL,2467,NULL,Flushing,NY,US
+NULL,NULL,2468,800 E. 2nd,Easley,SC
+NULL,NULL,2469,454 Shady Lane,Bellaire,OH
+NULL,NULL,2470,2015 Elm,Grand Junction,CO
+NULL,NULL,2471,259 West Patterson,Dunkirk,OH
+NULL,NULL,2472,4800 Commonwealth Apt. 6,Detroit,MI
+NULL,NULL,2473,1421 Gillett,Port Huron,MI
+NULL,NULL,2474,3901 Merwin St.,Shreveport,LA
+NULL,2475,410 S.W. 2nd St,Chisolm,MN,US
+NULL,2476,1577 East 37th St,Brooklyn,NY,US
+NULL,2477,25 So. Turnpike Rd,Wallingford,CT,US
+NULL,2478,"Cornell University, School of Law",Ithaca,NY,US
+NULL,2479,Manned Space Center,Houston,TX,US
+NULL,2480,"Co D. 2nd Bn 60th INF. 9th INF. DIV., APO",San Francisco,CA,US
+NULL,2482,329 Heaslet Ave,Weirton,WV,US
+NULL,2483,1139 9th Avenue,Honolulu,HI,US
+NULL,2484,666 Chestnut Hill Road,Glastonbury ,CT,US
+NULL,2485,502 Windsor Dr,Birmingham,AL,US
+NULL,2486,"Box 339, Rt. 1",Swansboro,NC,US
+NULL,2487,R.R. #1,Dorsey,IL,US
+NULL,2488,17 Sherman Ave,Plainsview ,NY,US
+NULL,2489,P.O. Box 319,Williamsburg,VA,US
+NULL,2490,2658 Kemper Rd,Cleveland,OH,US
+NULL,2491,"Rt. 2, Box 70-A",Duette ,FL,US
+NULL,2492,Landsvagsgatan 31,Malmkoping,NULL,SE
+NULL,2493,2305 S.W. 129 St.,Miami,FL,US
+NULL,2494,824 W. Santa Barbara Ave,Los Angeles ,CA,US
+NULL,2495,47 South Street,Plainville,MA,US
+NULL,2496,1410 Pine Drive,Ashdown,AR,US
+NULL,2497,16-26 212th St,Bayside,NY,US
+NULL,2498,320 Stratford,Ferndale,MI,US
+NULL,2499,"1946 Comm. Sqd., APO",New York,NY,US
+NULL,2500,9712 Old Six Mile Lane,Jeffersontown ,KY,US
+NULL,2501,1060 Hollywood,Chicago,IL,US
+NULL,2502,Amtmandishojen 21,Overlund I Viborg,NULL,DK
+NULL,2503,421 Marshall St,San Antonio,TX,US
+NULL,2504,3241 Mobley St,San Diego,CA,US
+NULL,2506,6819 Fait Ave,Baltimore,MD,US
+NULL,2507,"1655 Flatbush Ave., Apt A206",Brooklyn,NY,US
+NULL,2508,1220 Delaware,Butte ,MT,US
+NULL,2509,6772 Hawthorn Ave. #4,Hollywood ,CA,US
+NULL,2510,2340 Villanova Rd,San Jose,CA,US
+NULL,2511,1207-B 140th Ave,Tampa,FL,US
+NULL,2512,902 N. Belgrade Rd,Silver Spring,MD,US
+NULL,2514,1910 Bougainvillea,Tampa,FL,US
+NULL,2515,217 South Hidalgo Ave,Alhambra,CA,US
+NULL,2517,601 W. 110th St,New York,NY,US
+NULL,2518,10101/2 Main St,Lafayette,IN,US
+NULL,2519,921 Ferngrove Dr,San Jose,CA,US
+NULL,2520,14538 Horseshoe Dr,Saratoga,CA,US
+NULL,2521,194 Midland Pl,Newark,NJ,US
+NULL,2522,101 Woodridge Rd,Wayland,MA,US
+NULL,2523,"Tuslog Det. 16, POB 1208, APO",New York,NY,US
+NULL,2524,72 Joan Ct,Elmont,NY,US
+NULL,2525,2015 Eldersville Road,Follansbe,WV,US
+NULL,2526,205 W. Clinton Ave,Tenafly,NJ,US
+NULL,2527,152 Haborview South,Lawrence ,NY,US
+NULL,2528,434 Warwick Rd,Wynnewood,PA,US
+NULL,2529,1041 Balsam Ave,Simi,CA,US
+NULL,2530,1366 32 Ave,San Francisco,CA,US
+NULL,2531,4011 Vernon,Brookfield,IL,US
+NULL,2532,"1360 Danforth Rd., Apt. 1508",Scarborough,CA,US
+NULL,2533,1381 East 72nd Street,Brooklyn,NY,US
+NULL,2534,3090 W. 65th Ave,Denver,CO,US
+NULL,2535,"1207 Colony Court, #327",Lebanon,PA,US
+NULL,2536,3109 Indiana St,Evansville,IN,US
+NULL,2537,2330 Guadalupe,Austin,TX,US
+NULL,2538,440 Garfield Ave,Eau Claire,WI,US
+NULL,2539,520 Redwood Ave,Winnipeg,MB,CA
+NULL,2540,11636 S.E. 227th,Kent,WA,US
+NULL,2541,17 Broadmore Ave,Colorado Springs,CO,US
+NULL,2542,223 Miller Hall,Medford,MA,US
+NULL,2543,8562 Lurline Ave,Canoga Park,CA,US
+NULL,2544,69-09 75 Street,Middle Village,NY,US
+NULL,2545,6400 SW 198th,Aloha,OR,US
+NULL,2546,NULL,Douglas,KS,US
+NULL,2547,132 NE 37th Avenue,Hollsboro,OR,US
+NULL,2548,19 High Street,Croton-on-Hudson,NY,US
+NULL,2549,1111-11 St,Moline,IL,US
+NULL,2550,3887 E. Swift,Fresno,CA,US
+NULL,2551,2107 N. 62,Seattle,WA,US
+NULL,2552,26 Oakwood Ave,White Plains,NY,US
+NULL,2553,P.O. Box 68236,Oak Grove,OR,US
+NULL,2554,10300 Westlake Dr.,Bethesda,MD,US
+NULL,2555,1112 West 53rd St,Los Angeles,CA,US
+NULL,2556,1535 Ferdinand,Detroit,MI,US
+NULL,2557,5490 Filmore St,Merriville,IN,US
+NULL,2558,8541 Hillcrest,Orland Park,IL,US
+NULL,2559,139 Highview Ave,Scarborough,CA,US
+NULL,2560,1474 Newfoundland,Sunnyvale,CA,US
+NULL,2561,2615 E. 46th Ave,Denver,CO,US
+NULL,2562,404 Koerber Avenue,Akron,OH,US
+NULL,2563,304 S. Depot Street,Victoria,TX,US
+NULL,2564,320 Francis St,Drexel Hill,PA,US
+NULL,2565,151-12 24th Road,Whitestone,NY,US
+NULL,2566,116 Broadway,Tivoli,NY,US
+NULL,2567,586 Yale Station,New Haven,CT,US
+NULL,2568,45 Glenwood Ave,Toronto,ON,CA
+NULL,2569,2533 EL Segundo,Rancho Cordova,CA,US
+NULL,2570,403 Laurel Glen Rd,Soquel,CA,US
+NULL,2571,"315 W. Main, Apt. 31",Mascouta,IL,US
+NULL,2573,428 Schiller,Elmhurst,IL,US
+NULL,2574,3327 Cook Lane,Alameda,CA,US
+NULL,2575,2530 Independence Avenue,Riverdale,NY,US
+NULL,2576,739 East 45th St,Brooklyn,NY,US
+NULL,2577,232 Washington St,Hanover,MA,US
+NULL,2579,"222 E. 8th St., SOuth",Newton,IA,US
+NULL,2580,934 Stewart Ave. A12,Ithaca ,NY,US
+NULL,2581,33-45 94th St,Flushing,NY,US
+NULL,2582,308 Brookline St. #1,Cambridge,MA,US
+NULL,2583,3010 Ruthland Rd,Richmond,VA,US
+NULL,2584,"6111 Adler St., APt #2",Pittsburgh ,PA,US
+NULL,2585,319 13th St.,Brooklyn,NY,US
+NULL,2586,"3018 Parsons Hall, Marietta College",Marietta,OH,US
+NULL,2587,4401 West 19th St.,Topeka,KS,US
+NULL,2588,118 Saxon Ave.,Capitola,CA,US
+NULL,2589,"Box 590, Domier Hall, Carnegie Inst. of Techn",Pittsburgh,PA,US
+NULL,2590,1318 Vermont PL. N.E.,Canton,OH,US
+NULL,2591,1405 Shakespeare Ave.,Bronx,NY,US
+NULL,2592,22919 Masonic,St. Clair Shores,MI,US
+NULL,2593,19 Pearl Rd.,Saugus,MA,US
+NULL,2594,R.R. #2,Morgantown,KY,US
+NULL,2595,1051 Roxie Lane,Cincinnatti,OH,US
+NULL,2596,814 W. Clark St.,Champaign,IL,US
+NULL,2597,216 Winding River Rd.,Wellesley,MA,US
+NULL,2598,3935 Mosley Dr.,Columbus,GA,US
+NULL,2599,52 Buckley Road,Leanington Spa,WAR,GB
+NULL,2600,1310 W. Hood Ave.,Chicago,IL,US
+NULL,NULL,2601,885 S. 42nd,Springfield,OR
+NULL,NULL,2602,4028 Anne Dr.,Seaford,NY
+NULL,2602,4028 Anne Dr.,Seaford,NY,US
+NULL,NULL,2603,35 Grove St.,New York,NY
+NULL,NULL,2604,1717 Jennings Rd.,Farfield ,CT
+NULL,2605,2727 So. 5th St.,Ironton,OH,US
+NULL,2606,1104 University Ave.,Boulder,CO,US
+NULL,2607,11520 Mulhall St.,El Monte,CA,US
+NULL,2608,3239 King Rd.,Toledo,OH,US
+NULL,2609,273 Selby Ave.,St. Paul,MN,US
+NULL,NULL,2609,273 Selby Ave.,St. Paul,MN
+NULL,2610,374 Oakwood Drive,Burlington,ON,CA
+NULL,2611,3032 Matthews Avenue,Bronx,NY,US
+NULL,2612,2804 Whitis,Austin,TX,US
+NULL,2613,Box 4227,University,MS,US
+NULL,2614,4037 Vistamount Drive,San Jose,CA,US
+NULL,2615,1105 Pueblo,Richardson,TX,US
+NULL,2616,2701 Beaumont St.,Green Bay,WI,US
+NULL,2617,41 Whitaker Pl.,Staten Island,NY,US
+NULL,2618,1418 Sandy Hollow Rd.,Rockford,IL,US
+NULL,2619,R.D. 1,Covington,PA,US
+NULL,2620,622 Meade,Saginaw,MI,US
+NULL,2621,NULL,Mt. Village,AK,US
+NULL,2622,NULL,Lake Park,MN,US
+NULL,2623,4445 Painters St.,New Orleans,LA,US
+NULL,2624,2531 E. Brill St. Apt. 4,Phoenix,AZ,US
+NULL,NULL,2625,539 Commonwealth ,Bronx,N.Y.
+NULL,NULL,2626,11423 So. Sawyer Ave.,Chicago,IL
+NULL,NULL,2627,R.R. #1 Box 43,Mason City,IL
+NULL,2628,330 South 11th St.,Livingston,MT,US
+NULL,2629,Casilla 673,La Paz,NULL,BO
+NULL,2630,4850 W. Adams St.,Chicago,IL,US
+NULL,2631,210 Glenhill Lane,Chapel Hill,NC,US
+NULL,2632,1320 N.W. 191 St.,Miami,FL,US
+NULL,2633,1204 Pine Hills Rd.,Orlando,FL,US
+NULL,2634,15 Sunnyside Rd.,Scotia,NY,US
+NULL,2635,196 Summit Ave.,Phillipsburg,NJ,US
+NULL,2636,2588 7 Ave.,New York,NY,US
+NULL,2637,7 Oxford St.,Montclair,NJ,US
+NULL,2638,11 Wilson Ave.,Brooklyn,NY,US
+NULL,2639,933 Parkside Ave.,Buffalo,NY,US
+NULL,2640,4802 Avenue K,Brooklyn,NY,US
+NULL,2641,29 Legion Place,Staten Island,NY,US
+NULL,2642,R.R. #3,Lebanon,MO,US
+NULL,2643,1611 Spring Lake Dr.,Orlando,FL,US
+NULL,2644,76 Mgr. Langlois,Pincourt,QC,CA
+NULL,2645,480 Beaurepaire Dr.,Beaconsfield,QC,CA
+NULL,2646,34 Kenwood St.,Brookline,MA,US
+NULL,2647,148-52 87th Rd.,Jamaica,NY,US
+NULL,2648,NULL,Reading,PA,US
+NULL,2649,21 Ludlow St.,Hamilton,OH,US
+NULL,2650,1012 N. Walnut,St. Elmo,IL,US
+NULL,2651,5 Darnley Pl.,Huntington Stat.,NY,US
+NULL,2652,NULL,St. Michael,ND,US
+NULL,2653,208 Main St.,Lafayette,TN,US
+NULL,2654,1622 Lewis St.,Camden,SC,US
+NULL,2655,2808 S. Harrison,Amarillo,TX,US
+NULL,2657,Route 1,Rocky Mountain,VA,US
+NULL,2658,"Ht. #1, Box 52",Pedro,OH,US
+NULL,2659,NULL,Charlotte C. H.,VA,US
+NULL,2660,19965 Cradel Ct.,Bellville,MI,US
+NULL,2661,5941 Lansdowne Ave.,Philadelphia,PA,US
+NULL,2662,2324 Comm. Street,Wellsburg,WV,US
+NULL,2663,909 Polk Avenue,Pascagoula,MS,US
+NULL,2664,1312 Anza Street,San Francisco,CA,US
+NULL,2665,1041 Main St.,Osawatomic,KS,US
+NULL,2666,622 Shearton Dr.,San Jose,CA,US
+NULL,2667,509 N. Hawthorne,Chattanooga,TN,US
+NULL,2668,137 Broadway,Chicopee Falls,MA,US
+NULL,2669,806 N. Academy St.,Murfeesboro,TN,US
+NULL,2670,1206 Market St.,Mt. Carmel,IL,US
+NULL,2671,NULL,Berkeley,CA,US
+NULL,2672,16 Pleasant Park,Thompson,MB,CA
+NULL,2673,NULL,Sauk City,WI,US
+NULL,2674,312 Edison St.,Albany,GA,US
+NULL,2675,NULL,Nashville,TN,US
+NULL,2676,7150 Kendallwood,Dallas,TX,US
+NULL,2677,NULL,Miami Beach,FL,US
+NULL,2678,NULL,Saginaw,MI,US
+NULL,2679,512 Farm Ranch Rd. East,"Bethpage, L.I.",NY,US
+NULL,2680,431 Pacific Street,Brooklyn,NY,US
+NULL,2681,NULL,San Angelo,TX,US
+NULL,2682,312 North Lewis Road,Rayersford,PA,US
+NULL,2683,NULL,Roseburg,OR,US
+NULL,2684,NULL,Bethlehem,PA,US
+NULL,2685,West 3827 Longfellow,Spokane,WA,US
+NULL,2686,2503 West Thompson,Philadephia,PA,US
+NULL,2687,NULL,El Monte,CA,US
+NULL,2688,NULL,North Palm Beach,CA,US
+NULL,2689,NULL,Wallkill,NY,US
+NULL,2690,"HHD, 759th MP Bn",Ft. Dix,NJ,US
+NULL,2691,NULL,Savannah,GA,US
+NULL,2692,NULL,Albuquerque,NM,US
+NULL,2693,347 W. Vine St.,New Wilmington,PA,US
+NULL,2694,81 Rue de Versailles,92 Ville D'Auray,NULL,FR
+NULL,2695,2356 N. Nelson St.,Arlington,VA,US
+NULL,2696,7003 Bonnamere Dr.,Hermitage,TN,US
+NULL,2697,3051 Kishner Drive #310,Las Vegas,NV,US
+NULL,2698,Rt. #1,Mt. Vernon,OH,US
+NULL,2699,R.R. #1,Canaan,CT,US
+NULL,2700,230 Melrose St.,Auburndale,MA,US
+NULL,2701,1201 South 3rd Avenue,Atchison,KS,US
+NULL,2702,2986 Turrill,San Bernardino,CA,US
+NULL,2703,8358 Lawfin St. S.,Jacksonville,FL,US
+NULL,2704,68 Kelly St.,Battle Creek,MI,US
+NULL,2705,77 St. Clare Ave. E.,Toronto 7,ON,CA
+NULL,2706,2024 Whipple Avenue,Redwood City,CA,US
+NULL,2707,State University of New York,Stony Brooks,NY,US
+NULL,2708,1650 Ryan St.,Victoria,BC,CA
+NULL,2709,1315 Flag Ave. So.,St. Louis Park,MN,US
+NULL,2710,NULL,Connon Beach,OR,US
+NULL,2711,5330 Ashford Road,Dublin,OH,US
+NULL,2712,134 College Park Drive,Monroeville,PA,US
+NULL,2713,726 Pine St.,Seattle,WA,US
+NULL,2714,7117 Lindell Blvd.,St. Louis,MO,US
+NULL,2715,1826 N. Western Ave.,Los Angeles,CA,US
+NULL,2716,1425 18th Ave. #5,San Francisco,CA,US
+NULL,2717,102 Bryan Ct. Apt. 101,Laurel,MD,US
+NULL,2718,"R.D. 2, High Hill",Cambridge,OH,US
+NULL,2719,200 Argyle Ct.,Mary Ester,FL,US
+NULL,2720,"Box 31, Bowdoin College",Brunswick,ME,US
+NULL,2721,142 Main St.,Sea Cliff,NY,US
+NULL,2722,622 W. Pilger,Roseburg,OR,US
+NULL,2723,University of California,Berkeley,CA,US
+NULL,2724,349 Cribbins St.,Norwood,PA,US
+NULL,2725,737 1/2 W. North St.,Springfield,OH,US
+NULL,2726,311 Alice Ct.,Hudson Falls,MA,US
+NULL,2727,1320 S. University #28,Ann Arbor,MI,US
+NULL,2728,234 E. 89th St.,New York,NY,US
+NULL,2729,3104 Crela St.,Bonita,CA,US
+NULL,2730,1050 S. Cresent Heights,Los Angeles,CA,US
+NULL,2731,2595 Victory Ln.,Medford,OR,US
+NULL,2732,17002 45th Ave.,Carlyle,IL,US
+NULL,2733,NULL,Palo Verdes Est.,CA,US
+NULL,2734,"002 Johnston, GRC, Indiana University",Bloomington,IN,US
+NULL,2735,7 Robin Lane,Swampscott,MA,US
+NULL,2737,P.O. Box 1331,Atlanta,GA,US
+NULL,2738,"Box 196, Lehigh University",Bethlehem,PA,US
+NULL,2739,19657 Sierra Madre Ave.,Glendora,CA,US
+NULL,2740,P.P. Box 3,Ft. Thomas,KY,US
+NULL,2741,254 N. Estelle,Wichita,KS,US
+NULL,2742,P.O. Box 1397,Cottonwood,AZ,US
+NULL,2743,Seelyville Route,Honesdale,PA,US
+NULL,2744,102 Rosewood Ave.,Muncie,IN,US
+NULL,2745,1504 North 85th Street,Seattle,WA,US
+NULL,2746,Main Street,Ashfield,MA,US
+NULL,2747,3033 Hillcrest Dr. #72,Thousand Oaks,CA,US
+NULL,2748,NULL,Bakersfield,CA,US
+NULL,2749,2215 Wilson Ave.,Louisville,KY,US
+NULL,2750,#1,Dayville,CT,US
+NULL,2751,4236 43rd St.,San Diego,CA,US
+NULL,2752,406 N. 36th,Seattle,WA,US
+NULL,2753,"Rt. 5, Box 105",Pocahontas,AR,US
+NULL,2754,CDC/TOS Development Group APO,New York,NY,US
+NULL,2755,204 North Stine Road,Bakersfield,CA,US
+NULL,2756,P.O. Box 212,Falmouth,MA,US
+NULL,2757,938 Helen Ave.,San Leandro,CA,US
+NULL,2758,21 Baldwin St.,West Haven,CT,US
+NULL,2759,Sub HQ-1250 Nuala St.,Concord,CA,US
+NULL,2760,5550  Central #21,El Cerrito,CA,US
+NULL,2761,K.E. VII School,Taiping,PRK,MY
+NULL,2762,4285 Portland Rd.,Salem,OR,US
+NULL,2763,1259 Forest Hill Dr.,Mobile,AL,US
+NULL,2764,"239 83 88 USMC, Company A, 1st Recon Bn FPO",San Francisco,CA,US
+NULL,2765,1648 N. Artesian,Chicago,IL,US
+NULL,2766,"Grandmora Hall, Marquette University, 627 N. ",Milwaukee,WI,US
+NULL,2767,7423 Vernon Sq. Dr. #304,Alexandria,VA,US
+NULL,2768,"Psychology Dept., University of Rhode Island",Kingston,RI,US
+NULL,2769,#11 1105 NW 3rd Ave.,Gainesville,FL,US
+NULL,2770,3345 Troy Rd. (Rt. 41),Springfield,OH,US
+NULL,2771,497 Knollwood Ave.,Tallmagde,OH,US
+NULL,2772,"USAF, 573-64-5357 POB 2159",Offutt AFB,NE,US
+NULL,2773,3 Cedar Grove Ct.,Ottawa,ON,US
+NULL,2774,6774 Trigo #2,Goleta,CA,US
+NULL,2775,1721 W. 5th St.,Brooklyn,NY,US
+NULL,NULL,2776,#1 Calle Taft,Santruce,NULL
+NULL,NULL,2777,R.R. #1 ,Almo,KY
+NULL,NULL,2778,1702 Glenwood Rd.,Vestal,NY
+NULL,NULL,2779,644 N. Court,Ottumwa,IA
+NULL,NULL,2780,University of Cal. School of Medicine,Davis,CA
+NULL,NULL,2781,4158 Baker Ave.,Palo Alto,CA
+NULL,NULL,2782,207 West E Street,Waurika,OK
+NULL,NULL,2783,NULL,New York,NY
+NULL,NULL,2784,1218 Montgomery St.,San Francisco,CA
+NULL,NULL,2785,2315 Dwight Way #101,Berkeley,CA
+NULL,NULL,2786,37700 Lakeshore Blvd.,Eastlake,OH
+NULL,NULL,2787,NULL,East Hartford,CT
+NULL,NULL,2788,170 David Ave.,Jackson,OH
+NULL,NULL,2789,"H&amp;MS-12, MAG-12, AVI FPO",San Francisco,CA
+NULL,NULL,2790,NULL,NULL,NULL
+NULL,NULL,2791,201 Hamilton Ave.,Staten Island,NY
+NULL,NULL,2792,13148 Lake St.,Los Angeles,CA
+NULL,NULL,2793,"Rm. 3119, Markley Hall",Ann Arbor,MI
+NULL,NULL,2794,"25 Campbell Hall, Princeton U.",Princeton,N.J.
+NULL,NULL,2795,85 Center St.,Old Town,NULL
+NULL,NULL,2796,GPO Box 12435,Gainesville,FL
+NULL,NULL,2797,9335 Renton Ave. So.,Seattle,WA
+NULL,NULL,2798,9 Edgewater Lane,Willingboro,NJ
+NULL,NULL,2799,2947 Wetherburn Court,Woodbridge,VA
+NULL,NULL,2800,Box 517 ,Wading River,NY
+NULL,NULL,2801,520 Ritchie Ave.,Clarksdale,MS
+NULL,NULL,2802,59 Troy Meadow Rd.,Parsippany,NJ
+NULL,NULL,2803,Box 211,La Plata,MD
+NULL,NULL,2804,2500 S. Garland Ave.,Garland,TX
+NULL,NULL,2805,Box 122 ,Franklin,TN
+NULL,NULL,2806,2064 Young St.,Honolulu,Hawaii
+NULL,NULL,2807,1201 E. Cota St.,Santa Barbara,CA
+NULL,NULL,2809,PO Box 718,El Paso,TX
+NULL,NULL,2810,NULL,Riverside,CA
+NULL,NULL,2811,3311 Sedgwick Ave.,Bronx,NY
+NULL,NULL,2812,5165 Lisa Way,Santa Rona,CA
+NULL,NULL,2813,3634 Beck Ave.,Bell,CA
+NULL,NULL,2814,960 Elberon Ave.,Cincinnati,OH
+NULL,NULL,2815,528 St. Joseph Way,Marietta,GA
+NULL,NULL,2816,10228 McNerney Dr.,Franklin Park,IL
+NULL,2817,3 Acorn Lane,Wesport,CT,US
+NULL,2818,65 Frank Avenueh,Yaphank,NY,US
+NULL,2819,Box 196 University Sta.,Syracuse,NY,US
+NULL,2820,5104 Woodlawn N.,Seattle,WA,US
+NULL,2821,9459 Buffalo Ave.,Orangeville,CA,US
+NULL,2822,2003 N. Beachwood Dr. #11,Hollywood,CA,US
+NULL,2823,7 Glencoe Avenue,Winnipeg 15,Manitoba,CA
+NULL,2824,NULL,Kayford,WV,US
+NULL,2825,27 Tapper Drive,Hunt Station,NY,US
+NULL,2826,1603 E. Division,Springfield,MO,US
+NULL,2827,22352 Gregory,Dearborn,MI,US
+NULL,2829,"55 Pike St., Apt. 2A",New York,NY,US
+NULL,2830,P.O. Box 409,Falls Church,VA,US
+NULL,2831,"377 Old Indian Tr., #44",Aurora,IL,US
+NULL,2832,2232 So. Emerson,Denver,CO,US
+NULL,2833,412 North Lake St.,Gary,IN,US
+NULL,2834,6 Preston St.,Forestville,CT,US
+NULL,2835,3170 N. Pollard St.,Arlington,VA,US
+NULL,2836,"R.P.O. #7416, Rutgers College",New Brunswick,NY,US
+NULL,2838,Loras University,Dubuque,IA,US
+NULL,2839,202 Oakland Dr.,San Antonio,TX,US
+NULL,2840,Northeastern Illinois University,NULL,IL,US
+NULL,2841,34-10 94th St.,Jackson Heights,NY,US
+NULL,2842,559 Lytton Blvd.,Toronto 12,ON,CA
+NULL,2843,"Spangdahlem AFB, CMR Box 2073, APO",New York,NY,US
+NULL,2844,null,Blue Bell,PA,US
+NULL,2845,3639 Lochmoor Dr.,Lansing,MI,US
+NULL,2846,611 Solano SE,Albuquerque,NM,US
+NULL,2847,237 Irvington Dr.,Ukiah,CA,US
+NULL,2849,Spouter Inn,New Bedford,MA,US
+NULL,2850,7570 Byron Place,Clayton,MO,US
+NULL,2851,Maple Ave.,Newton,NH,US
+NULL,2852,100 Lee Street,Warrenton,VA,US
+NULL,2853,779 New Terrace Ct.,Salem,OR,US
+NULL,2854,"92 Patton Hall, Princeton University",Princeton,NJ,US
+NULL,2855,132 Main Street,Cotland,NY,US
+NULL,2856,142 Tollgate Rd. #12,Brandtford,ON,CA
+NULL,2858,160-31 23rd Ave.,Whitestone,NY,US
+NULL,2859,150 Park Lane,Chagrin Falls,OH,US
+NULL,2860,260 W. Orangewood,Phoenix,AZ,US
+NULL,2861,Star Route,Waubun,MN,US
+NULL,2862,145 E. 26th Street,New York,NY,US
+NULL,2863,1066 E. 102 St.,Brooklyn,NY,US
+NULL,2864,"309 W. Metcalf Hall, Tufts Univ.",Medford,MA,US
+NULL,2866,78 Butler Ave.,Southington,CT,US
+NULL,2867,216 Dartmouth St.,Iowa City,IA,US
+NULL,2868,City College of New York,null,NY,US
+NULL,2869,4205 1/2 Fitch Ave.,Baltimore,MD,US
+NULL,2870,757 West Broadway,Woodmere,NY,US
+NULL,2871,215 A Avenue A,Hereford,TX,US
+NULL,2872,18 Bayberry Road,Elmsford,NY,US
+NULL,2873,Homestead A.F.B.,null,null,US
+NULL,2874,3860 San Juan Dr.,Mobile,AL,US
+NULL,2875,"University of Berkeley, 2441 Haste St. #47",Berkeley,CA,US
+NULL,2876,null,Holtsville,LA,US
+NULL,2877,8631 Monterey Rd.,Indianapolis,IN,US
+NULL,2878,412 Ocean Ave.,Massapequa Park,NY,US
+NULL,2879,218 Hannalei Dr.,Vista,CA,US
+NULL,2880,115 N. Elm Street,Columbia City,IN,US
+NULL,2881,1376 East Keith Road,North Vancouver,BC,CA
+NULL,2882,4107 Longfield Dr.,Evansville,IN,US
+NULL,2883,null,Washington,DC,US
+NULL,2884,"457 Washington St., Apt. One",Brookline,MA,US
+NULL,2885,null,Mishawaka,IN,US
+NULL,2886,977 Mt. Vernon Dr.,Charleston,SC,US
+NULL,2887,null,Wear Your Love Like Heaven,null,null
+NULL,2888,101 1/2 22nd Street,Rock Island,IL,US
+NULL,2889,400 Bradley St.,Jonesboro,AR,US
+NULL,2890,83 N. Main St.,Ellenville,NY,US
+NULL,2891,304 W. 21st Street,Litte Rock,AR,US
+NULL,2892,15501 Willman Ave.,Cleveland,OH,US
+NULL,2893,2650 Glenmount Rd. N.W.,Canton,OH,US
+NULL,2894,USNCSP Sup Det FASU APO,null,null,US
+NULL,2895,32845 Coventry,Warren,MI,US
+NULL,2896,null,Long Branch,NJ,US
+NULL,2897,813 Adams Street,Ottawa,IL,US
+NULL,2898,33262 Bremerton,Dana Point,CA,US
+NULL,2899,987 S. East St.,Culpepper,VA,US
+NULL,2900,1203 Wilton,Philadelphia,PA,US
+NULL,2901,3 Aqueduct Place,Elmsford,NY,US
+NULL,2902,null,White Haven,PA,US
+NULL,2903,1247 &amp; 1249 Fanshawe St.,Philadelphia,PA,US
+NULL,2904,211 Prince Charles Ave.,Odenton,MO,US
+NULL,2905,90 Lake View Drive,Pat.,NY,US
+NULL,2906,947 Maple Drive Box 15,Morgantown,WV,US
+NULL,2907,7571 Columbia Rd.,Olmstead Falls,OH,US
+NULL,2908,55-20 103 St.,Corona,NY,US
+NULL,2909,null,Sullivan,IN,US
+NULL,2910,34 Kennedy Ter.,Westwood,NJ,US
+NULL,2911,BRC Box 165 - APO,New York City,NY,US
+NULL,2912,Box 2154,Whittier,CA,US
+NULL,NULL,2913,1091/2 9th St,Wellsville,OH
+NULL,NULL,2914,2813 Jamestown,Las Vegas,NV
+NULL,NULL,2915,5 Lewis Rd,Glynde,null
+NULL,NULL,2916,1261 Merriam Ave,Bronx,NY
+NULL,NULL,2917,P.O. Box 61,Wilson,KS
+NULL,NULL,2918,108 Belle Vista Ct,Winston-Salem,SC
+NULL,NULL,2919,"Radcliffe College, 56 Linnaean St",Cambridge,MA
+NULL,NULL,2920,1910 Jefferson St,Madison 11,WI
+NULL,NULL,2921,9824 Hawthorne Ave,New Orleans 23,LA
+NULL,NULL,2922,165 E. Monterey St,Mobile,AL
+NULL,NULL,2923,2548 Olopua St,Honolulu 14,HI
+NULL,NULL,2924,9 Lawn St,Providence,RI
+NULL,NULL,2925,20145 Wedgewood Dr,Cross Pointe 36,MI
+NULL,NULL,2926,169 East Carpenter St,Valley Stream,NY
+NULL,NULL,2927,318 Sunny Side Ave,Chester,PA
+NULL,NULL,2928,507 Meadow Lane,Murray,KY
+NULL,NULL,2929,153-26 58th Ave,Flushing 55,NY
+NULL,NULL,2930,R.R. #1,Swayzee,IN
+NULL,NULL,2931,1449 Sinclair Ave,Steubenville,OH
+NULL,NULL,2932,266-08 82nd Ave,Floral Park,NY
+NULL,NULL,2933,2948 N. 3rd St,Philadelphia 33,PA
+NULL,NULL,2934,351 Greenwich Ave,Greenwich,CT
+NULL,NULL,2935,317 So. Prospect Ave,Bergenfield,NJ
+NULL,NULL,2936,3040 N.W. 6th St,Miami,FL
+NULL,NULL,2937,5831 Blackstone,Chicago,IL
+NULL,NULL,2938,1873 W. 20th Ave,Gary,IN
+NULL,NULL,2939,437 Ellsworth,Villa Park,IL
+NULL,NULL,2940,Box 454,Agana,null
+NULL,NULL,2941,3123 Cedar St,Philadelphia 34,PA
+NULL,NULL,2942,RR #1,Lansdowne,null
+NULL,NULL,2943,59 Bronx Terminal Market,New York 51,NY
+NULL,NULL,2944,933 E. 6th St,Hobart,IN
+NULL,NULL,2945,5488 Princeton St,Montclair,CA
+NULL,NULL,2946,2-148 Kami-Ogikubo,Tokyo,null
+NULL,NULL,2947,14362 Hawes,Whittier,CA
+NULL,NULL,2948,39 Mt. Carmel Ave.,Hamden,CT
+NULL,NULL,2949,6832 Fait Ave,Baltimore,MD
+NULL,NULL,2950,925 N. 9th E,Mountain Home,ID
+NULL,NULL,2951,Rt. #2,Powell,TN
+NULL,NULL,2952,357 W. Sheridan,Laramie,WY
+NULL,NULL,2953,P.O. Box 392,Cooper Station 3,NY
+NULL,NULL,2954,36 E. First St,Bayonne,NJ
+NULL,NULL,2955,4338 Walker Ave,Toledo,OH
+NULL,NULL,2956,290 E 9th,Bloomsburg,PA
+NULL,NULL,2957,Via Dei Monti Parioli 20,Rome,null
+NULL,NULL,2958,4430 Greenwood Road,Shreveport,LA
+NULL,NULL,2959,1219 Washington Ave,Sheboygan,WI
+NULL,NULL,2960,3825 W. 160th St,Cleveland,OH
+NULL,NULL,2961,5 St. Mark's Place,New York,NY
+NULL,NULL,2963,Box 442,Hedrick,IA
+NULL,NULL,2964,8928 Crochet Avenue,New Orleans,LA
+NULL,NULL,2965,1033 Boston Rd,Bronx,NY
+NULL,NULL,2966,44 Falkirk Ave,"Finden, Adelaide",null
+NULL,NULL,2967,P.O. Box 6,Garden City,LA
+NULL,NULL,2968,1945 Taylor Road,E. Cleveland,OH
+NULL,NULL,2969,"Twelve Oaks, Pine Rd",Mt. Holly Springs,PA
+NULL,NULL,2970,128 Shannon St,Dayton 7,OH
+NULL,NULL,2971,135 Willow St,Yonkers,NY
+NULL,NULL,2972,4417 Penn Ave. N,Minneapolis,MN
+NULL,NULL,2973,957 N. Trumbull Ave,Chicago 51,IL
+NULL,NULL,2974,525 E. Davilla Ave,Rockdale,TX
+NULL,NULL,2975,"651st Med Co (Amb) (Sep), APO 154",New York,NY
+NULL,NULL,2977,35 Howarth Ave,Scarboro,null
+NULL,NULL,2978,807 7th,Miles City,MT
+NULL,NULL,2979,1962 University Ave,Bronx,NY
+NULL,NULL,2980,Box 943,Bellflower,CA
+NULL,NULL,2981,77 Vaughn Ave,New Rochelle,NY
+NULL,NULL,2982,44 River St,Hudson Falls,NY
+NULL,NULL,2983,4519 Chesapeake Ave,Dayton,OH
+NULL,NULL,2984,null,Grand Forks,ND
+NULL,NULL,2985,1 Mont St,Spryfield,null
+NULL,NULL,2986,2622 Centre St,Boston,MA
+NULL,NULL,2987,1457 Union St,Indianapolis,IN
+NULL,NULL,2988,P.O. Box 55,Grayling,MI
+NULL,NULL,2989,"Qrts. 4A, Fort Ruger",Honolulu,HI
+NULL,NULL,2990,2478 E. 65th St,Cleveland,OH
+NULL,NULL,2991,5222 Olive Rd,Trotwood,OH
+NULL,NULL,2992,2914 E. Moreland St,Phoenix,AZ
+NULL,NULL,2993,333 Country Club Dr,San Gabriel,CA
+NULL,NULL,2994,6540 N. Black Canyon,Phoenix,AZ
+NULL,NULL,2995,Ludwigshafen 1RH (GF),Ludwigsahr 12,null
+NULL,NULL,2996,1918 Strand,Mermosa Beach,CA
+NULL,NULL,2997,Pringle Ave,French's Forest,null
+NULL,NULL,2998,364 Chapel View Rd,Ellicott City,MD
+NULL,NULL,2999,339 49th St,Brooklyn 20,NY
+NULL,NULL,3000,233 Baskin Ave,Eustace,TX
+NULL,NULL,3001,207 Zelda Cr,Richmond Hill,null
+NULL,NULL,3002,2B Cambrai Ave,Kingston,null
+NULL,NULL,3003,722 Josina Ave,Palo Alto,CA
+NULL,NULL,3005,28 Cambria Ave,Kingston,CA
+NULL,NULL,3006,8580 Hubbard Dr,Garden City,MI
+NULL,NULL,3007,Windsor Mountain School,Lenox,MA
+NULL,NULL,3008,1329 Oak St,Wilmington,DE
+NULL,NULL,3009,"Box 3, Wesleyan University",Middletown,CT
+NULL,NULL,3011,138 West 5818 South,Murray,UT
+NULL,NULL,3012,"Findley College, 2 Starr Ave",Toledo,OH
+NULL,NULL,3013,718 McCulloch Rd,Pt. Pleasant,WV
+NULL,NULL,3014,315 Alderson,Billings,MT
+NULL,NULL,3015,Route 2,Alvord,TX
+NULL,NULL,3016,4820 Ohio St,So. Charleston,WV
+NULL,NULL,3017,176 Greenacres Road,Oldham,null
+NULL,NULL,3018,3926 New York Ave,Fair Oaks,CA
+NULL,NULL,3019,426 Huron Ave,Cambridge,MA
+NULL,NULL,3020,3037 Getty,Kansas City,KS
+NULL,NULL,3021,709 13th St,Pascagoula,MS
+NULL,NULL,3022,"Intel. Div. Hq. USAREUR, APO 403",New York,NY
+NULL,NULL,3023,805 N. 10 St,Reading,PA
+NULL,NULL,3024,4909 Rossmoor Dr,Louisville,KY
+NULL,NULL,3025,866 Court Rd,Franklin Sq,NY
+NULL,NULL,3026,113 Sheridan St,Jamaica Plain,MA
+NULL,NULL,3029,1746 Hauser Blvd,Los Angeles,CA
+NULL,NULL,3030,11 W. Linden Ave,Linden,NJ
+NULL,NULL,3031,null,Oxnard,CA
+NULL,NULL,3032,632 Curtis St,Toledo,OH
+NULL,NULL,3033,Rt. 3B,Springfield,KY
+NULL,NULL,3034,6619 Newgard,Chicago,IL
+NULL,NULL,3035,4045 N. Moody Ave,Chicago,IL
+NULL,NULL,3036,7 Spruce St,Natrona,PA
+NULL,NULL,3037,35-05 30th St,Long Island City,NY
+NULL,NULL,3038,R.R. #5,Owen Sound,CA
+NULL,NULL,3039,Apartado 119,Monterrey,null
+NULL,NULL,3040,2600 Adams St,Granite Hills,IL
+NULL,NULL,3041,216 Hickory Court,Northbrook,IL
+NULL,NULL,3043,5831 Lake Drive,Pauline,KS
+NULL,NULL,3044,3032 Grace Ave,Dayton,OH
+NULL,NULL,3045,241 E. 13th St,New York 3,NY
+NULL,NULL,3046,4990 Bel Estos,San Jose,CA
+NULL,NULL,3047,125 Conifer Lake,Walnut Creek,CA
+NULL,NULL,3049,22 So. Lane,Amityville,NY
+NULL,NULL,3050,2627 W. Wells St,Milwaukee,WI
+NULL,NULL,3051,1915 S. Juniper,Philadelphia,PA
+NULL,NULL,3052,P.O. Box 1333,Kodiak,AK
+NULL,NULL,3053,2234 N. Lavergne,Chicago,IL
+NULL,NULL,3054,2776 Schley Ave,Bronx,NY
+NULL,NULL,3056,2116 1/2 E. Colorado,Pasadena,CA
+NULL,NULL,3057,3907 Isabella Ave,Allison Park,PA
+NULL,NULL,3058,685 Wicklow,Deerfield,IL
+NULL,NULL,3059,5424 Mikewood Dr,Pontiac,MI
+NULL,NULL,3060,527 Bennent Dr,Vandalia,OH
+NULL,NULL,3061,663 Fifth Ave,New York,NY
+NULL,NULL,3062,"E-32 Kirkland House, Harvard College",Cambridge 38,NY
+NULL,NULL,3063,"Johnson House, Oberlin College",Oberlin,OH
+NULL,NULL,3064,135 No. Underfhill Dr,Glendora,CA
+NULL,NULL,3066,131 1/2 Gibbons St,Toledo 9,OH
+NULL,NULL,3067,42 Greenwood Rd,Burlington,MA
+NULL,NULL,3068,8 Smith St,West Haven,CT
+NULL,NULL,3069,421 East 8th St,Spencer,IA
+NULL,NULL,3070,804 Dakota Ave,Libby,MT
+NULL,NULL,3071,175 N. Dithridge,Pittsburgh,PA
+NULL,NULL,3072,141 East Elm St,Kent,OH
+NULL,NULL,3073,19 Clydach St,Cardiff,null
+NULL,NULL,3074,2047 Brenton Drive,Dayton,OH
+NULL,NULL,3075,328 Concord Road,Bedford,MA
+NULL,NULL,3076,702 S. 8th St,Lincoln,IL
+NULL,NULL,3077,1356 Foster Rd,Warminster,PA
+NULL,NULL,3078,1503 Chambers St,Vicksburg,MS
+NULL,NULL,3079,"319th USASA Bn, APO",New York,NY
+NULL,NULL,3080,null,Bethany,WV
+NULL,NULL,3081,716 N.E. 50th,Oklahoma City,OK
+NULL,NULL,3082,4900 Chalgrove Ave,Baltimore,MD
+NULL,NULL,3083,7933 Bailey,Taylor,MI
+NULL,NULL,3084,26 Atwood St,Lisbon,NH
+NULL,NULL,3085,13832 Erwin St,Van Nuys,CA
+NULL,NULL,3086,30 Maskwonicut St,Sharon,MA
+NULL,NULL,3087,Hqs. VII Corps. APO,New York,NY
+NULL,NULL,3088,4320 Oglethorpe Rd,Montgomery,AL
+NULL,NULL,3089,602 N. Naches,Yakima,WA
+NULL,NULL,3090,1105 N. Pennsylvania,Lansing,MI
+NULL,NULL,3091,102 Standish Ave,North Haven,CT
+NULL,NULL,3092,5834 Molson St,Montreal 36,null
+NULL,NULL,3093,"Rt. #1, Box 95",Maple Valley,WA
+NULL,NULL,3094,Belle Road,Pembroke,MA
+NULL,NULL,3095,"P.O. Box 13099, Univ. Station, Univ. of Fla.",Gainesville,FL
+NULL,NULL,3096,219 Husted St,Port Chester,NY
+NULL,NULL,3097,856 N. 6th St,Sanbury,PA
+NULL,NULL,3098,807 8th Ave,Brooklyn,NY
+NULL,NULL,3099,108 Third Ave,Butler,PA
+NULL,NULL,3100,130 Toro Circle,Carpentersville,IL
+NULL,NULL,3101,66-68 S. Nelson St,Port-of-Spain,null
+NULL,NULL,3102,1831 St. Clair St,Racine,WI
+NULL,NULL,3103,53 Lauriston St,Providence,RI
+NULL,NULL,3104,522 9th Ave,Alexandria,MN
+NULL,NULL,3105,100 Kings Rd,Schenectady,NY
+NULL,NULL,3106,117 W. Washington,Harlingen,TX
+NULL,NULL,3107,"English Dept., Berkshire School",Sheffield,MA
+NULL,NULL,3108,3223 So. 23rd St,Omaha,NE
+NULL,NULL,3109,8840 S.W. 17th St,Miami 55,FL
+NULL,NULL,3110,21 Gainor Ave,Maple Shade,NJ
+NULL,NULL,3111,41 Henry St,Trenton,NJ
+NULL,NULL,3112,Rt. #3,Roan Mtn,TN
+NULL,NULL,3113,15 Hubbard St,Ludlow,MA
+NULL,NULL,3114,631 E. 96th Street,Brooklyn,NY
+NULL,NULL,3115,900 E. 5th St,Cheyenne,WY
+NULL,NULL,3116,203 Oakwood Ave,Lancaster,SC
+NULL,NULL,3117,1407 Perkins,Richland,WA
+NULL,NULL,3118,367 Freeport Rd,Pittsburgh,PA
+NULL,NULL,3119,283 E. 6th North,Logan,UT
+NULL,NULL,3120,"VF-Maintenance, NAS",Miramar,CA
+NULL,NULL,3121,"2 St. John's Park, Mounttown",Dun Laoire,null
+NULL,NULL,3124,206 E. Highland,Muncie,IN
+NULL,NULL,3125,3320 S. Darlington,Tulsa,OK
+NULL,NULL,3126,590 So. 22nd St,Columbus,OH
+NULL,NULL,3127,8061/2 E. 4th St,Sterling,IL
+NULL,NULL,3128,902 North Park,Helena,MT
+NULL,NULL,3129,1309 Vine St,Norman,OK
+NULL,NULL,3130,37 S. 17th Ave,Coatesville,PA
+NULL,NULL,3131,"Box 17, 50 St. Joseph",Toronto 5,null
+NULL,NULL,3132,R.R. #4,Vernon,null
+NULL,NULL,3133,75 Ayrault St,Providence,RI
+NULL,NULL,3134,Box 261,Clyde,NC
+NULL,NULL,3136,1305 E. 83rd,Kansas City,MO
+NULL,NULL,3137,R.D. #2,Oil City,PA
+NULL,NULL,3138,308 W. 9th St,Carrollton,MO
+NULL,NULL,3139,1606 Carll St,Cincinnati 25,OH
+NULL,NULL,3140,3807 Whitney,Detroit,MI
+NULL,NULL,3141,Box 145,Woodridge,NY
+NULL,NULL,3142,3702 N. 53 St,Omaha,NE
+NULL,NULL,3143,7410 Annawood Ct,Annadale,VA
+NULL,NULL,3144,100 Webster Ave,W. Hazelton,PA
+NULL,NULL,3145,401 E. 74th St,New York,NY
+NULL,NULL,3146,19 Kathy Dr,Seymour,CT
+NULL,NULL,3147,1723 So. 32nd St,Milwaukee,WI
+NULL,NULL,3148,61 Division St,Easthampton,MA
+NULL,NULL,3149,900 Minto St,Winnipeg 10,CA
+NULL,NULL,3150,1535 University Ave,Bronx,NY
+NULL,NULL,3151,7307 Stanford Ave,University City,MO
+NULL,NULL,3152,"144th Ord. Co., APO",New York,NY
+NULL,NULL,3153,Box 4276,Lubbock,TX
+NULL,NULL,3154,3346 N. Mill Rd,Dryden,MI
+NULL,NULL,3155,188 Arthur Ave. S.E.,Minneapolis,MN
+NULL,NULL,3156,7600a Vermont Ave,St. Louis,MO
+NULL,NULL,3157,102 Jackson Ct,Smyrna,TN
+NULL,NULL,3158,128 Parkway West,Bloomfield,NJ
+NULL,NULL,3159,"Box 79, River Rd",Relay,MD
+NULL,NULL,3160,2420 Virginia St,Berkeley,CA
+NULL,NULL,3161,5975 Shore Parkway,Brooklyn,NY
+NULL,NULL,3162,100 Grandview Circle,Cornelia,GA
+NULL,NULL,3163,87-10 108th St,Richmond Hill,NY
+NULL,NULL,3164,2131 Chadbourne Ave,Madison,WI
+NULL,NULL,3165,5303 N. Penn St,Indianapolis,IN
+NULL,NULL,3167,1530 Commonwealth Ave,Bronx,NY
+NULL,NULL,3168,null,Cashton,WI
+NULL,NULL,3169,"Co. B., 93rd Sig. Bn., APO",New York,NY
+NULL,NULL,3170,744 Linden Ave,Johnstown,PA
+NULL,NULL,3171,Box 276,Soldatna,AK
+NULL,NULL,3172,1 Running Brand Rd,Rolling Hills,CA
+NULL,NULL,3173,"Rm. 229, Elder Hall, Northwestern University",Evanston,IL
+NULL,NULL,3174,Box 274,Portland,OR
+NULL,NULL,3175,6824 N. 91st St,Milwaukee,WI
+NULL,NULL,3176,"Rt. #1, Box 296A",Catlettsburg,KY
+NULL,NULL,3177,350 Blake Ave,Brooklyn,NY
+NULL,NULL,3178,3549 Nostrand Ave,Brooklyn,NY
+NULL,NULL,3179,"5 Mathura Rd., Jangpura-A",New Dehli 14,null
+NULL,NULL,3180,"R.D. #1, Box 355",Highstown,NH
+NULL,NULL,3181,16 Melrose St,Adams,MA
+NULL,NULL,3182,2555 Dole St. #304,Honolulu,HI
+NULL,NULL,3183,1607 Russwood,Memphis,TN
+NULL,NULL,3184,"Box 717, APO",San Francisco,CA
+NULL,NULL,3185,245 E. Main St,Moorestown,NJ
+NULL,NULL,3186,54 Brock St,Moorestown,NJ
+NULL,NULL,3187,1079 N. Royal,Paragould,AR
+NULL,3188,1431 Lancaster Ave.,St. Louis Park,MN,US
+NULL,3189,null,Monterey,CA,US
+NULL,3190,134 Carol Drive,Rochester,NY,US
+NULL,3191,2001 Bowers,Santa Clara,CA,US
+NULL,3192,P.O. Box 70,Clarksburg,IN,US
+NULL,3193,2205 Thornton Rd.,Lansing,IL,US
+NULL,3194,477 Kimberly Ave.,Winnipeg 15,Manitoba,CA
+NULL,3195,"1128 S. Gay Ave., #18",Panama City,FL,US
+NULL,3196,1353 Klauber Ave.,San Diego,CA,US
+NULL,3197,"Flat 11, Granville Flats, 413-15 Elizabeth St",Hobart,Tasmania,AU
+NULL,3198,139 Highview Ave.,Scarborough,Ontario 714,CA
+NULL,3199,719 Kenmare Rd.,Bala-Cynwyd,PA,US
+NULL,3200,1704 N. Layman Ave.,Indianapolis,IN,US
+NULL,3201,718 Somerset Rd.,Saginaw,MI,US
+NULL,3202,null,Olympia,WA,US
+NULL,3203,379 West Main St.,Fredonia,NY,US
+NULL,3204,null,Paris Island,SC,US
+NULL,3205,601 Saddle River Road,Monsey,NY,US
+NULL,3206,Box 3453,Chanute AFB,IL,US
+NULL,3207,null,Gainesville,TX,US
+NULL,3208,null,Huntington,WV,US
+NULL,3209,null,Louisville,KY,US
+NULL,3210,null,N. Manchester,null,null
+NULL,3211,null,Lebanon,PA,US
+NULL,3212,null,Syracuse,NE,US
+NULL,3213,null,Harrisburg,PA,US
+NULL,3214,null,Englishtown,NJ,US
+NULL,3215,258-19 Kensington Place,Great Neck,NY,US
+NULL,3216,Box 163,Augusta,IL,US
+NULL,3217,20 Schermerhorn St.,Brooklyn,NY,US
+NULL,3218,688 Kingswood Way,Los altos,CA,US
+NULL,3219,1520 Hedge Road,Champaign,IL,US
+NULL,3220,188 Wilson Drive,Cresskill,NY,US
+NULL,3221,6426 N. Glenwood,Chicago,IL,US
+NULL,3222,"Rt. 4, Box 88",Marianna,AR,US
+NULL,3223,1400 Evanston St.,Pittsburgh,PA,US
+NULL,3224,null,Orlando,FL,US
+NULL,3225,73 Fredrick Ave.,St. Vital 8,Manitoba,CA
+NULL,3226,1256 Linden,Terre Haute,IN,US
+NULL,3227,R.R. #4,Minot,ND,US
+NULL,3228,null,Huntingdon Valley,PA,US
+NULL,3229,217 Greene Ave,Middlesex,NJ,US
+NULL,3230,92 Main St.,Milan,OH,US
+NULL,3231,null,Berea,OH,US
+NULL,3232,2243 Falcon Ave.,St. Paul,MN,US
+NULL,3233,null,Tallmadge,OH,US
+NULL,3234,1314 Cooper St.,Missoula,MT,US
+NULL,3235,P.O. Box 02105,Cleveland,OH,US
+NULL,3236,189 Palm Ave.,Auburn,CA,US
+NULL,3237,2811 S. Oakhurst,Los Angeles,CA,US
+NULL,3238,160 Garden Spring Rd.,Columbia,SC,US
+NULL,3239,null,Rochester,NY,US
+NULL,3240,2024 Whipple Ave.,Redwood City,CA,US
+NULL,3241,Box 3737,Savannah,GA,US
+NULL,3242,5057 Harold Pl. N.E.,Seattle,WA,US
+NULL,3243,312 Phi Delta Theta,Bowling Green,OH,US
+NULL,3244,"Box 1032, Manchester Hall, Ill. State Univers",Normal,IL,US
+NULL,NULL,3245,290 McLean Place,Hillside,NJ
+NULL,NULL,3246,"522 T. Plt. (BARC), APO",San Francisco,CA
+NULL,NULL,3247,7517 W. Addison St,Chicago,IL
+NULL,NULL,3248,1107 Ave. C,Bayonne,NY
+NULL,NULL,3249,17 East St,Oxford,CT
+NULL,NULL,3250,201 Beverly Dr,Athens,GA
+NULL,NULL,3251,244 N.E. 1st Ct,Satellite Beach,FL

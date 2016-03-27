@@ -2859,7 +2859,7 @@ id_location_dim,street,city,state,country,postal_code
 2841,34-10 94th St.,Jackson Heights,NY,US,NULL
 2842,559 Lytton Blvd.,Toronto 12,ON,CA,NULL
 2843,"Spangdahlem AFB, CMR Box 2073, APO",New York,NY,US,NULL
-2844,null,Blue Bell,PA,US,NULL
+2844,NULL,Blue Bell,PA,US,NULL
 2845,3639 Lochmoor Dr.,Lansing,MI,US,NULL
 2846,611 Solano SE,Albuquerque,NM,US,NULL
 2847,237 Irvington Dr.,Ukiah,CA,US,NULL
@@ -2880,54 +2880,54 @@ id_location_dim,street,city,state,country,postal_code
 2864,"309 W. Metcalf Hall, Tufts Univ.",Medford,MA,US,NULL
 2866,78 Butler Ave.,Southington,CT,US,NULL
 2867,216 Dartmouth St.,Iowa City,IA,US,NULL
-2868,City College of New York,null,NY,US,NULL
+2868,City College of New York,NULL,NY,US,NULL
 2869,4205 1/2 Fitch Ave.,Baltimore,MD,US,NULL
 2870,757 West Broadway,Woodmere,NY,US,NULL
 2871,215 A Avenue A,Hereford,TX,US,NULL
 2872,18 Bayberry Road,Elmsford,NY,US,NULL
-2873,Homestead A.F.B.,null,null,US,NULL
+2873,Homestead A.F.B.,NULL,NULL,US,NULL
 2874,3860 San Juan Dr.,Mobile,AL,US,NULL
 2875,"University of Berkeley, 2441 Haste St. #47",Berkeley,CA,US,NULL
-2876,null,Holtsville,LA,US,NULL
+2876,NULL,Holtsville,LA,US,NULL
 2877,8631 Monterey Rd.,Indianapolis,IN,US,NULL
 2878,412 Ocean Ave.,Massapequa Park,NY,US,NULL
 2879,218 Hannalei Dr.,Vista,CA,US,NULL
 2880,115 N. Elm Street,Columbia City,IN,US,NULL
 2881,1376 East Keith Road,North Vancouver,BC,CA,NULL
 2882,4107 Longfield Dr.,Evansville,IN,US,NULL
-2883,null,Washington,DC,US,NULL
+2883,NULL,Washington,DC,US,NULL
 2884,"457 Washington St., Apt. One",Brookline,MA,US,NULL
-2885,null,Mishawaka,IN,US,NULL
+2885,NULL,Mishawaka,IN,US,NULL
 2886,977 Mt. Vernon Dr.,Charleston,SC,US,NULL
-2887,null,Wear Your Love Like Heaven,null,null,NULL
+2887,NULL,Wear Your Love Like Heaven,NULL,NULL,NULL
 2888,101 1/2 22nd Street,Rock Island,IL,US,NULL
 2889,400 Bradley St.,Jonesboro,AR,US,NULL
 2890,83 N. Main St.,Ellenville,NY,US,NULL
 2891,304 W. 21st Street,Litte Rock,AR,US,NULL
 2892,15501 Willman Ave.,Cleveland,OH,US,NULL
 2893,2650 Glenmount Rd. N.W.,Canton,OH,US,NULL
-2894,USNCSP Sup Det FASU APO,null,null,US,NULL
+2894,USNCSP Sup Det FASU APO,NULL,NULL,US,NULL
 2895,32845 Coventry,Warren,MI,US,NULL
-2896,null,Long Branch,NJ,US,NULL
+2896,NULL,Long Branch,NJ,US,NULL
 2897,813 Adams Street,Ottawa,IL,US,NULL
 2898,33262 Bremerton,Dana Point,CA,US,NULL
 2899,987 S. East St.,Culpepper,VA,US,NULL
 2900,1203 Wilton,Philadelphia,PA,US,NULL
 2901,3 Aqueduct Place,Elmsford,NY,US,NULL
-2902,null,White Haven,PA,US,NULL
+2902,NULL,White Haven,PA,US,NULL
 2903,1247 &amp;amp; 1249 Fanshawe St.,Philadelphia,PA,US,NULL
 2904,211 Prince Charles Ave.,Odenton,MO,US,NULL
 2905,90 Lake View Drive,Pat.,NY,US,NULL
 2906,947 Maple Drive Box 15,Morgantown,WV,US,NULL
 2907,7571 Columbia Rd.,Olmstead Falls,OH,US,NULL
 2908,55-20 103 St.,Corona,NY,US,NULL
-2909,null,Sullivan,IN,US,NULL
+2909,NULL,Sullivan,IN,US,NULL
 2910,34 Kennedy Ter.,Westwood,NJ,US,NULL
 2911,BRC Box 165 - APO,New York City,NY,US,NULL
 2912,Box 2154,Whittier,CA,US,NULL
 2913,1091/2 9th St,Wellsville,OH,NULL,NULL
 2914,2813 Jamestown,Las Vegas,NV,NULL,NULL
-2915,5 Lewis Rd,Glynde,null,NULL,NULL
+2915,5 Lewis Rd,Glynde,NULL,NULL,NULL
 2916,1261 Merriam Ave,Bronx,NY,NULL,NULL
 2917,P.O. Box 61,Wilson,KS,NULL,NULL
 2918,108 Belle Vista Ct,Winston-Salem,SC,NULL,NULL
@@ -2952,13 +2952,13 @@ id_location_dim,street,city,state,country,postal_code
 2937,5831 Blackstone,Chicago,IL,NULL,NULL
 2938,1873 W. 20th Ave,Gary,IN,NULL,NULL
 2939,437 Ellsworth,Villa Park,IL,NULL,NULL
-2940,Box 454,Agana,null,NULL,NULL
+2940,Box 454,Agana,NULL,NULL,NULL
 2941,3123 Cedar St,Philadelphia 34,PA,NULL,NULL
-2942,RR #1,Lansdowne,null,NULL,NULL
+2942,RR #1,Lansdowne,NULL,NULL,NULL
 2943,59 Bronx Terminal Market,New York 51,NY,NULL,NULL
 2944,933 E. 6th St,Hobart,IN,NULL,NULL
 2945,5488 Princeton St,Montclair,CA,NULL,NULL
-2946,2-148 Kami-Ogikubo,Tokyo,null,NULL,NULL
+2946,2-148 Kami-Ogikubo,Tokyo,NULL,NULL,NULL
 2947,14362 Hawes,Whittier,CA,NULL,NULL
 2948,39 Mt. Carmel Ave.,Hamden,CT,NULL,NULL
 2949,6832 Fait Ave,Baltimore,MD,NULL,NULL
@@ -2969,7 +2969,7 @@ id_location_dim,street,city,state,country,postal_code
 2954,36 E. First St,Bayonne,NJ,NULL,NULL
 2955,4338 Walker Ave,Toledo,OH,NULL,NULL
 2956,290 E 9th,Bloomsburg,PA,NULL,NULL
-2957,Via Dei Monti Parioli 20,Rome,null,NULL,NULL
+2957,Via Dei Monti Parioli 20,Rome,NULL,NULL,NULL
 2958,4430 Greenwood Road,Shreveport,LA,NULL,NULL
 2959,1219 Washington Ave,Sheboygan,WI,NULL,NULL
 2960,3825 W. 160th St,Cleveland,OH,NULL,NULL
@@ -2977,7 +2977,7 @@ id_location_dim,street,city,state,country,postal_code
 2963,Box 442,Hedrick,IA,NULL,NULL
 2964,8928 Crochet Avenue,New Orleans,LA,NULL,NULL
 2965,1033 Boston Rd,Bronx,NY,NULL,NULL
-2966,44 Falkirk Ave,"Finden, Adelaide",null,NULL,NULL
+2966,44 Falkirk Ave,"Finden, Adelaide",NULL,NULL,NULL
 2967,P.O. Box 6,Garden City,LA,NULL,NULL
 2968,1945 Taylor Road,E. Cleveland,OH,NULL,NULL
 2969,"Twelve Oaks, Pine Rd",Mt. Holly Springs,PA,NULL,NULL
@@ -2987,15 +2987,15 @@ id_location_dim,street,city,state,country,postal_code
 2973,957 N. Trumbull Ave,Chicago 51,IL,NULL,NULL
 2974,525 E. Davilla Ave,Rockdale,TX,NULL,NULL
 2975,"651st Med Co (Amb) (Sep), APO 154",New York,NY,NULL,NULL
-2977,35 Howarth Ave,Scarboro,null,NULL,NULL
+2977,35 Howarth Ave,Scarboro,NULL,NULL,NULL
 2978,807 7th,Miles City,MT,NULL,NULL
 2979,1962 University Ave,Bronx,NY,NULL,NULL
 2980,Box 943,Bellflower,CA,NULL,NULL
 2981,77 Vaughn Ave,New Rochelle,NY,NULL,NULL
 2982,44 River St,Hudson Falls,NY,NULL,NULL
 2983,4519 Chesapeake Ave,Dayton,OH,NULL,NULL
-2984,null,Grand Forks,ND,NULL,NULL
-2985,1 Mont St,Spryfield,null,NULL,NULL
+2984,NULL,Grand Forks,ND,NULL,NULL
+2985,1 Mont St,Spryfield,NULL,NULL,NULL
 2986,2622 Centre St,Boston,MA,NULL,NULL
 2987,1457 Union St,Indianapolis,IN,NULL,NULL
 2988,P.O. Box 55,Grayling,MI,NULL,NULL
@@ -3005,14 +3005,14 @@ id_location_dim,street,city,state,country,postal_code
 2992,2914 E. Moreland St,Phoenix,AZ,NULL,NULL
 2993,333 Country Club Dr,San Gabriel,CA,NULL,NULL
 2994,6540 N. Black Canyon,Phoenix,AZ,NULL,NULL
-2995,Ludwigshafen 1RH (GF),Ludwigsahr 12,null,NULL,NULL
+2995,Ludwigshafen 1RH (GF),Ludwigsahr 12,NULL,NULL,NULL
 2996,1918 Strand,Mermosa Beach,CA,NULL,NULL
-2997,Pringle Ave,French's Forest,null,NULL,NULL
+2997,Pringle Ave,French's Forest,NULL,NULL,NULL
 2998,364 Chapel View Rd,Ellicott City,MD,NULL,NULL
 2999,339 49th St,Brooklyn 20,NY,NULL,NULL
 3000,233 Baskin Ave,Eustace,TX,NULL,NULL
-3001,207 Zelda Cr,Richmond Hill,null,NULL,NULL
-3002,2B Cambrai Ave,Kingston,null,NULL,NULL
+3001,207 Zelda Cr,Richmond Hill,NULL,NULL,NULL
+3002,2B Cambrai Ave,Kingston,NULL,NULL,NULL
 3003,722 Josina Ave,Palo Alto,CA,NULL,NULL
 3005,28 Cambria Ave,Kingston,CA,NULL,NULL
 3006,8580 Hubbard Dr,Garden City,MI,NULL,NULL
@@ -3025,7 +3025,7 @@ id_location_dim,street,city,state,country,postal_code
 3014,315 Alderson,Billings,MT,NULL,NULL
 3015,Route 2,Alvord,TX,NULL,NULL
 3016,4820 Ohio St,So. Charleston,WV,NULL,NULL
-3017,176 Greenacres Road,Oldham,null,NULL,NULL
+3017,176 Greenacres Road,Oldham,NULL,NULL,NULL
 3018,3926 New York Ave,Fair Oaks,CA,NULL,NULL
 3019,426 Huron Ave,Cambridge,MA,NULL,NULL
 3020,3037 Getty,Kansas City,KS,NULL,NULL
@@ -3037,7 +3037,7 @@ id_location_dim,street,city,state,country,postal_code
 3026,113 Sheridan St,Jamaica Plain,MA,NULL,NULL
 3029,1746 Hauser Blvd,Los Angeles,CA,NULL,NULL
 3030,11 W. Linden Ave,Linden,NJ,NULL,NULL
-3031,null,Oxnard,CA,NULL,NULL
+3031,NULL,Oxnard,CA,NULL,NULL
 3032,632 Curtis St,Toledo,OH,NULL,NULL
 3033,Rt. 3B,Springfield,KY,NULL,NULL
 3034,6619 Newgard,Chicago,IL,NULL,NULL
@@ -3045,7 +3045,7 @@ id_location_dim,street,city,state,country,postal_code
 3036,7 Spruce St,Natrona,PA,NULL,NULL
 3037,35-05 30th St,Long Island City,NY,NULL,NULL
 3038,R.R. #5,Owen Sound,CA,NULL,NULL
-3039,Apartado 119,Monterrey,null,NULL,NULL
+3039,Apartado 119,Monterrey,NULL,NULL,NULL
 3040,2600 Adams St,Granite Hills,IL,NULL,NULL
 3041,216 Hickory Court,Northbrook,IL,NULL,NULL
 3043,5831 Lake Drive,Pauline,KS,NULL,NULL
@@ -3075,14 +3075,14 @@ id_location_dim,street,city,state,country,postal_code
 3070,804 Dakota Ave,Libby,MT,NULL,NULL
 3071,175 N. Dithridge,Pittsburgh,PA,NULL,NULL
 3072,141 East Elm St,Kent,OH,NULL,NULL
-3073,19 Clydach St,Cardiff,null,NULL,NULL
+3073,19 Clydach St,Cardiff,NULL,NULL,NULL
 3074,2047 Brenton Drive,Dayton,OH,NULL,NULL
 3075,328 Concord Road,Bedford,MA,NULL,NULL
 3076,702 S. 8th St,Lincoln,IL,NULL,NULL
 3077,1356 Foster Rd,Warminster,PA,NULL,NULL
 3078,1503 Chambers St,Vicksburg,MS,NULL,NULL
 3079,"319th USASA Bn, APO",New York,NY,NULL,NULL
-3080,null,Bethany,WV,NULL,NULL
+3080,NULL,Bethany,WV,NULL,NULL
 3081,716 N.E. 50th,Oklahoma City,OK,NULL,NULL
 3082,4900 Chalgrove Ave,Baltimore,MD,NULL,NULL
 3083,7933 Bailey,Taylor,MI,NULL,NULL
@@ -3094,7 +3094,7 @@ id_location_dim,street,city,state,country,postal_code
 3089,602 N. Naches,Yakima,WA,NULL,NULL
 3090,1105 N. Pennsylvania,Lansing,MI,NULL,NULL
 3091,102 Standish Ave,North Haven,CT,NULL,NULL
-3092,5834 Molson St,Montreal 36,null,NULL,NULL
+3092,5834 Molson St,Montreal 36,NULL,NULL,NULL
 3093,"Rt. #1, Box 95",Maple Valley,WA,NULL,NULL
 3094,Belle Road,Pembroke,MA,NULL,NULL
 3095,"P.O. Box 13099, Univ. Station, Univ. of Fla.",Gainesville,FL,NULL,NULL
@@ -3103,7 +3103,7 @@ id_location_dim,street,city,state,country,postal_code
 3098,807 8th Ave,Brooklyn,NY,NULL,NULL
 3099,108 Third Ave,Butler,PA,NULL,NULL
 3100,130 Toro Circle,Carpentersville,IL,NULL,NULL
-3101,66-68 S. Nelson St,Port-of-Spain,null,NULL,NULL
+3101,66-68 S. Nelson St,Port-of-Spain,NULL,NULL,NULL
 3102,1831 St. Clair St,Racine,WI,NULL,NULL
 3103,53 Lauriston St,Providence,RI,NULL,NULL
 3104,522 9th Ave,Alexandria,MN,NULL,NULL
@@ -3123,7 +3123,7 @@ id_location_dim,street,city,state,country,postal_code
 3118,367 Freeport Rd,Pittsburgh,PA,NULL,NULL
 3119,283 E. 6th North,Logan,UT,NULL,NULL
 3120,"VF-Maintenance, NAS",Miramar,CA,NULL,NULL
-3121,"2 St. John's Park, Mounttown",Dun Laoire,null,NULL,NULL
+3121,"2 St. John's Park, Mounttown",Dun Laoire,NULL,NULL,NULL
 3124,206 E. Highland,Muncie,IN,NULL,NULL
 3125,3320 S. Darlington,Tulsa,OK,NULL,NULL
 3126,590 So. 22nd St,Columbus,OH,NULL,NULL
@@ -3131,8 +3131,8 @@ id_location_dim,street,city,state,country,postal_code
 3128,902 North Park,Helena,MT,NULL,NULL
 3129,1309 Vine St,Norman,OK,NULL,NULL
 3130,37 S. 17th Ave,Coatesville,PA,NULL,NULL
-3131,"Box 17, 50 St. Joseph",Toronto 5,null,NULL,NULL
-3132,R.R. #4,Vernon,null,NULL,NULL
+3131,"Box 17, 50 St. Joseph",Toronto 5,NULL,NULL,NULL
+3132,R.R. #4,Vernon,NULL,NULL,NULL
 3133,75 Ayrault St,Providence,RI,NULL,NULL
 3134,Box 261,Clyde,NC,NULL,NULL
 3136,1305 E. 83rd,Kansas City,MO,NULL,NULL
@@ -3166,7 +3166,7 @@ id_location_dim,street,city,state,country,postal_code
 3164,2131 Chadbourne Ave,Madison,WI,NULL,NULL
 3165,5303 N. Penn St,Indianapolis,IN,NULL,NULL
 3167,1530 Commonwealth Ave,Bronx,NY,NULL,NULL
-3168,null,Cashton,WI,NULL,NULL
+3168,NULL,Cashton,WI,NULL,NULL
 3169,"Co. B., 93rd Sig. Bn., APO",New York,NY,NULL,NULL
 3170,744 Linden Ave,Johnstown,PA,NULL,NULL
 3171,Box 276,Soldatna,AK,NULL,NULL
@@ -3177,7 +3177,7 @@ id_location_dim,street,city,state,country,postal_code
 3176,"Rt. #1, Box 296A",Catlettsburg,KY,NULL,NULL
 3177,350 Blake Ave,Brooklyn,NY,NULL,NULL
 3178,3549 Nostrand Ave,Brooklyn,NY,NULL,NULL
-3179,"5 Mathura Rd., Jangpura-A",New Dehli 14,null,NULL,NULL
+3179,"5 Mathura Rd., Jangpura-A",New Dehli 14,NULL,NULL,NULL
 3180,"R.D. #1, Box 355",Highstown,NH,NULL,NULL
 3181,16 Melrose St,Adams,MA,NULL,NULL
 3182,2555 Dole St. #304,Honolulu,HI,NULL,NULL
@@ -3187,7 +3187,7 @@ id_location_dim,street,city,state,country,postal_code
 3186,54 Brock St,Moorestown,NJ,NULL,NULL
 3187,1079 N. Royal,Paragould,AR,NULL,NULL
 3188,1431 Lancaster Ave.,St. Louis Park,MN,US,NULL
-3189,null,Monterey,CA,US,NULL
+3189,NULL,Monterey,CA,US,NULL
 3190,134 Carol Drive,Rochester,NY,US,NULL
 3191,2001 Bowers,Santa Clara,CA,US,NULL
 3192,P.O. Box 70,Clarksburg,IN,US,NULL
@@ -3200,19 +3200,19 @@ id_location_dim,street,city,state,country,postal_code
 3199,719 Kenmare Rd.,Bala-Cynwyd,PA,US,NULL
 3200,1704 N. Layman Ave.,Indianapolis,IN,US,NULL
 3201,718 Somerset Rd.,Saginaw,MI,US,NULL
-3202,null,Olympia,WA,US,NULL
+3202,NULL,Olympia,WA,US,NULL
 3203,379 West Main St.,Fredonia,NY,US,NULL
-3204,null,Paris Island,SC,US,NULL
+3204,NULL,Paris Island,SC,US,NULL
 3205,601 Saddle River Road,Monsey,NY,US,NULL
 3206,Box 3453,Chanute AFB,IL,US,NULL
-3207,null,Gainesville,TX,US,NULL
-3208,null,Huntington,WV,US,NULL
-3209,null,Louisville,KY,US,NULL
-3210,null,N. Manchester,null,null,NULL
-3211,null,Lebanon,PA,US,NULL
-3212,null,Syracuse,NE,US,NULL
-3213,null,Harrisburg,PA,US,NULL
-3214,null,Englishtown,NJ,US,NULL
+3207,NULL,Gainesville,TX,US,NULL
+3208,NULL,Huntington,WV,US,NULL
+3209,NULL,Louisville,KY,US,NULL
+3210,NULL,N. Manchester,NULL,NULL,NULL
+3211,NULL,Lebanon,PA,US,NULL
+3212,NULL,Syracuse,NE,US,NULL
+3213,NULL,Harrisburg,PA,US,NULL
+3214,NULL,Englishtown,NJ,US,NULL
 3215,258-19 Kensington Place,Great Neck,NY,US,NULL
 3216,Box 163,Augusta,IL,US,NULL
 3217,20 Schermerhorn St.,Brooklyn,NY,US,NULL
@@ -3222,22 +3222,22 @@ id_location_dim,street,city,state,country,postal_code
 3221,6426 N. Glenwood,Chicago,IL,US,NULL
 3222,"Rt. 4, Box 88",Marianna,AR,US,NULL
 3223,1400 Evanston St.,Pittsburgh,PA,US,NULL
-3224,null,Orlando,FL,US,NULL
+3224,NULL,Orlando,FL,US,NULL
 3225,73 Fredrick Ave.,St. Vital 8,Manitoba,CA,NULL
 3226,1256 Linden,Terre Haute,IN,US,NULL
 3227,R.R. #4,Minot,ND,US,NULL
-3228,null,Huntingdon Valley,PA,US,NULL
+3228,NULL,Huntingdon Valley,PA,US,NULL
 3229,217 Greene Ave,Middlesex,NJ,US,NULL
 3230,92 Main St.,Milan,OH,US,NULL
-3231,null,Berea,OH,US,NULL
+3231,NULL,Berea,OH,US,NULL
 3232,2243 Falcon Ave.,St. Paul,MN,US,NULL
-3233,null,Tallmadge,OH,US,NULL
+3233,NULL,Tallmadge,OH,US,NULL
 3234,1314 Cooper St.,Missoula,MT,US,NULL
 3235,P.O. Box 02105,Cleveland,OH,US,NULL
 3236,189 Palm Ave.,Auburn,CA,US,NULL
 3237,2811 S. Oakhurst,Los Angeles,CA,US,NULL
 3238,160 Garden Spring Rd.,Columbia,SC,US,NULL
-3239,null,Rochester,NY,US,NULL
+3239,NULL,Rochester,NY,US,NULL
 3240,2024 Whipple Ave.,Redwood City,CA,US,NULL
 3241,Box 3737,Savannah,GA,US,NULL
 3242,5057 Harold Pl. N.E.,Seattle,WA,US,NULL

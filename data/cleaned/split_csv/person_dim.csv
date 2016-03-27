@@ -1032,7 +1032,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1063,Weidler,S. Alyne,NULL,NULL,NULL,NULL
 1064,Bluhm,Warren,NULL,NULL,NULL,NULL
 1065,Woods,Jim,NULL,NULL,NULL,NULL
-1067,Turner,\"Swifty\",R.A.,NULL,NULL,NULL
+1067,Turner,\'Swifty\',R.A.,NULL,NULL,NULL
 1068,Gambino,George,NULL,NULL,NULL,NULL
 1069,Kramer,Kurt,NULL,NULL,NULL,NULL
 1070,Zeises,Harvey,NULL,NULL,NULL,NULL
@@ -1400,7 +1400,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1469,Shoemaker,Joseph,NULL,NULL,NULL,NULL
 1473,Goldstein,Barry,NULL,NULL,NULL,NULL
 1474,Goff,Ronn,NULL,NULL,NULL,NULL
-1484,Martin,Michael \"Mickey\",NULL,NULL,NULL,NULL
+1484,Martin,Michael \'Mickey\',NULL,NULL,NULL,NULL
 1485,Gibbons,Fred,NULL,NULL,NULL,NULL
 1486,Church,Ginger,NULL,NULL,NULL,NULL
 1487,Phillips,Ricky,NULL,NULL,NULL,NULL
@@ -2727,7 +2727,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 2909,Rudolph,George,NULL,NULL,NULL,NULL
 2910,Owens,Stoner,NULL,NULL,NULL,NULL
 2912,Sparrs,Steve,NULL,NULL,NULL,NULL
-2913,\"The Grey Mouser\",NULL,NULL,NULL,NULL,NULL
+2913,\'The Grey Mouser\',NULL,NULL,NULL,NULL,NULL
 2914,Balinton,Raylene,Mrs.,NULL,NULL,NULL
 2915,Schoap,Tim,NULL,NULL,NULL,NULL
 2917,Snow,Dana,NULL,NULL,NULL,NULL

@@ -373,7 +373,7 @@ id_location_dim,street,city,state,country,postal_code
 386,1120 N.E. 170th St. No.,Miami Beach,FL,US,NULL
 387,Cooper Rd.,Parkston,MD,US,NULL
 388,1101 S. Virlee,Santa Ana,CA,US,92704
-389,"RA 12547327 \"B\" Btry, 5th Msl, 1st Arty., A",New York,NY,US,9332
+389,"RA 12547327 \'B\' Btry, 5th Msl, 1st Arty., A",New York,NY,US,9332
 390,113 Blue Hill Lane,Akron,OH,US,44313
 1203,2016 Capouse Ave.,Scranton,PA,US,18509
 393,6839 Molson St.,Montreal 36,QC,CA,NULL
@@ -484,7 +484,7 @@ id_location_dim,street,city,state,country,postal_code
 502,1750 Main,Osawatomic,KS,US,NULL
 503,2453 So. Lawndale,Chicago,IL,US,60623
 504,NULL,Keota,IA,US,NULL
-505,\"Eastwood\" De Waal Drive,Cape Town,NULL,ZA,NULL
+505,\'Eastwood\' De Waal Drive,Cape Town,NULL,ZA,NULL
 506,5101 No. Cypress,Kansas City,MO,US,64119
 507,42 W. Washington,Athens,OH,US,NULL
 508,1099 Bane St.,S.W. Warren,OH,US,NULL
@@ -985,7 +985,7 @@ id_location_dim,street,city,state,country,postal_code
 1007,"(Art Dept., Univ. of Conn.) Upton Rd., Ashfor",Masfield Depot,CT,US,6251
 1008,317 Laidlwa Blvd.,Winnipeg 29,MB,CA,NULL
 1009,702 School St.,Corinth,MS,US,38834
-1010,"2164081 USMC, \"I\" Co. 3rd Bn., 1st Mar. Div",San Francisco,CA,US,96602
+1010,"2164081 USMC, \'I\' Co. 3rd Bn., 1st Mar. Div",San Francisco,CA,US,96602
 1011,251 Poplar Ave.,Hackensack,NJ,US,NULL
 1012,302 S. Washington St.,Ypsilanti,MI,US,NULL
 1013,333 Crowley Ave.,Buffalo,NY,US,14207
@@ -1469,7 +1469,7 @@ id_location_dim,street,city,state,country,postal_code
 1530,87 Udalia Ct.,West Islip,NY,US,NULL
 1531,Rt. #3,Brainerd,MN,US,56401
 1532,7112 Minna Rd.,Baltimore,MD,US,21207
-1533,1300 W. \"D\" St.,Iron Mountain,MI,US,29801
+1533,1300 W. \'D\' St.,Iron Mountain,MI,US,29801
 1534,7 Woodruff Rd.,Metuchen,NJ,US,840
 1535,Pinellas Bayway,Tierra Verde,FL,US,NULL
 1536,787 Portland,Collinsville,IL,US,62234
@@ -1617,7 +1617,7 @@ id_location_dim,street,city,state,country,postal_code
 1683,Eastern Illinois University,Charleston,IL,US,NULL
 1684,1535 S.E. 16th,Portland,OR,US,NULL
 1685,R.R. #2,Mayville,WI,US,NULL
-1686,"YN \"A\" School, USNTC",San Diego,CA,US,92133
+1686,"YN \'A\' School, USNTC",San Diego,CA,US,92133
 1687,505 No. 16th St,Herrin,IL,US,NULL
 1688,3 Otowi Drive,Security,CO,US,NULL
 1689,1120 10th Ave N.W.,Great Falls,MT,US,NULL
@@ -2172,7 +2172,7 @@ id_location_dim,street,city,state,country,postal_code
 2275,2565 W. 6th St.,San Bernardino,CA,US,NULL
 2276,Amherst College,Amherst,MA,US,1002
 2277,111 Fairway Lane,Pittsburgh,PA,US,NULL
-2278,5901 \"A\" St,Little Rock,AR,US,NULL
+2278,5901 \'A\' St,Little Rock,AR,US,NULL
 2281,"Fleet Marine Force, Atlantic, Courthouse Bay",Camp Lejune,NC,US,28542
 2282,1249 Willow St,Denver,CO,US,80220
 2283,520 Wiltshire Rd,Upper Darby,PA,US,19082

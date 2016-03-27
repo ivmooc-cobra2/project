@@ -281,7 +281,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 213,Brinning,Larry,NULL,NULL,NULL,NULL
 214,Boyle,Larry,NULL,NULL,NULL,NULL
 215,Arden,Michael,Jr.,NULL,NULL,NULL
-3215,Warden,Mike,null,NULL,NULL,NULL
+3215,Warden,Mike,NULL,NULL,NULL,NULL
 216,Cadwell,Peter,NULL,NULL,NULL,NULL
 217,Rollins,Louis,NULL,NULL,NULL,NULL
 218,Polk,Gary,NULL,NULL,NULL,NULL
@@ -942,7 +942,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 800,Wallace,Gene,NULL,NULL,NULL,NULL
 801,Kono,Masao,NULL,NULL,NULL,NULL
 801,Kono,Masao,NULL,NULL,NULL,NULL
-3046,International Dr. Doom Fan Club,null,null,NULL,NULL,NULL
+3046,International Dr. Doom Fan Club,NULL,NULL,NULL,NULL,NULL
 802,Schumann,Barbara,NULL,NULL,NULL,NULL
 803,Coville,Bruce,NULL,NULL,NULL,NULL
 804,Smart,Charles,NULL,NULL,NULL,NULL
@@ -1278,7 +1278,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1127,Riell,Dana,NULL,NULL,NULL,NULL
 1563,Gruskin,Mitchell,NULL,NULL,NULL,NULL
 2852,White,Ted,NULL,NULL,NULL,NULL
-3406,Klorese,Roger,null,NULL,NULL,NULL
+3406,Klorese,Roger,NULL,NULL,NULL,NULL
 1092,Blake,Len,NULL,NULL,NULL,NULL
 1133,Grey,Rodney,NULL,NULL,NULL,NULL
 1093,Gonzales,Anthony,NULL,NULL,NULL,NULL
@@ -1332,7 +1332,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1138,Baganz,T.,NULL,NULL,NULL,NULL
 1139,Glover,Edward,NULL,NULL,NULL,NULL
 1560,Ryan,Norma,NULL,NULL,NULL,NULL
-3407,Maginnis,Pat,null,NULL,NULL,NULL
+3407,Maginnis,Pat,NULL,NULL,NULL,NULL
 1140,Creeley,John,NULL,NULL,NULL,NULL
 1141,Liberatore,M.,NULL,NULL,NULL,NULL
 1142,Choate,Roger,NULL,NULL,NULL,NULL
@@ -1655,7 +1655,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1427,Sanders,Buddy,NULL,NULL,NULL,NULL
 1428,Austin,Leroy,NULL,NULL,NULL,NULL
 1429,Touhey,Mike,NULL,NULL,NULL,NULL
-3446,Gora,Gary,null,NULL,NULL,NULL
+3446,Gora,Gary,NULL,NULL,NULL,NULL
 1432,Smith,Harold,NULL,NULL,NULL,NULL
 1433,Santiago,David,NULL,NULL,NULL,NULL
 1434,Stern,Steve,NULL,NULL,NULL,NULL
@@ -2016,7 +2016,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1797,Wildstein,Charles,NULL,NULL,NULL,NULL
 1798,Holden,Elizabeth,NULL,NULL,NULL,NULL
 1799,Erickson,Steve,NULL,NULL,NULL,NULL
-3152,Erikson,Steve,null,NULL,NULL,NULL
+3152,Erikson,Steve,NULL,NULL,NULL,NULL
 1800,Lucas,Kathy,NULL,NULL,NULL,NULL
 1801,Holmes,Marilyn,NULL,NULL,NULL,NULL
 1802,Baez,Carlos,NULL,NULL,NULL,NULL
@@ -2102,7 +2102,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 1872,Nathan,Richard,NULL,NULL,NULL,NULL
 1872,Nathan,Richard,NULL,NULL,NULL,NULL
 1886,Hollingsworth,Jane C.,NULL,NULL,NULL,NULL
-3426,Hollingsworth,Jana Claire,null,NULL,NULL,NULL
+3426,Hollingsworth,Jana Claire,NULL,NULL,NULL,NULL
 1887,Burden,William,NULL,NULL,NULL,NULL
 1885,DeLaTorre,William,NULL,NULL,NULL,NULL
 1885,DeLaTorre,William,NULL,NULL,NULL,NULL
@@ -2837,7 +2837,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 2631,Hurles,Dan,NULL,NULL,NULL,NULL
 2632,Starb,Chris,NULL,NULL,NULL,NULL
 2633,Klein,Mark,NULL,NULL,NULL,NULL
-3408,Scheibner,Steven,null,NULL,NULL,NULL
+3408,Scheibner,Steven,NULL,NULL,NULL,NULL
 2634,Rogers,Ricky,NULL,NULL,NULL,NULL
 2635,Albaugh,John,NULL,NULL,NULL,NULL
 2636,Aiken,Richard,NULL,NULL,NULL,NULL
@@ -2918,7 +2918,7 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 2706,Oliver,Randy,NULL,NULL,NULL,NULL
 2707,Russell,Steve,NULL,NULL,NULL,NULL
 2708,Mills,W.P.,NULL,NULL,NULL,NULL
-3441,Mills,William,null,NULL,NULL,NULL
+3441,Mills,William,NULL,NULL,NULL,NULL
 2709,Smoljanovic,Renato,NULL,NULL,NULL,NULL
 2710,Kruize,John C.,NULL,NULL,NULL,NULL
 2711,Everson,Bjarne L,NULL,NULL,NULL,NULL
@@ -3246,415 +3246,415 @@ id_person_dim,surname,forename,person_title,person_role,alt_name,m_f
 3037,Theisman,Dave,NULL,NULL,NULL,NULL
 3038,Becket,Tom,NULL,NULL,NULL,NULL
 3039,Moslow,Michael,NULL,NULL,NULL,NULL
-3040,Sigal,Mark,null,NULL,NULL,NULL
-3041,Folansby,Derick,null,NULL,NULL,NULL
-3042,Rabenold,Karl,null,NULL,NULL,NULL
-3043,Mitchell,Randy,null,NULL,NULL,NULL
-3044,Arnot,Mike,null,NULL,NULL,NULL
-3045,Mitchell,David,null,NULL,NULL,NULL
-3047,Melville,H.,null,NULL,NULL,NULL
-3048,Kalis,Dave,null,NULL,NULL,NULL
+3040,Sigal,Mark,NULL,NULL,NULL,NULL
+3041,Folansby,Derick,NULL,NULL,NULL,NULL
+3042,Rabenold,Karl,NULL,NULL,NULL,NULL
+3043,Mitchell,Randy,NULL,NULL,NULL,NULL
+3044,Arnot,Mike,NULL,NULL,NULL,NULL
+3045,Mitchell,David,NULL,NULL,NULL,NULL
+3047,Melville,H.,NULL,NULL,NULL,NULL
+3048,Kalis,Dave,NULL,NULL,NULL,NULL
 2394,Leavitt,John,NULL,NULL,NULL,NULL
 2394,Leavitt,John,NULL,NULL,NULL,NULL
-3049,Baker,Ron,null,NULL,NULL,NULL
-3050,Bollman,Don,null,NULL,NULL,NULL
-3051,Martin,Steven A.,null,NULL,NULL,NULL
+3049,Baker,Ron,NULL,NULL,NULL,NULL
+3050,Bollman,Don,NULL,NULL,NULL,NULL
+3051,Martin,Steven A.,NULL,NULL,NULL,NULL
 1242,Volbrecht,Richard,Jr.,NULL,NULL,NULL
-3053,Harrington,Sid,null,NULL,NULL,NULL
-3054,Friedman,Eli,null,NULL,NULL,NULL
-3055,Formato,Marc,null,NULL,NULL,NULL
-3056,Black,Steve,null,NULL,NULL,NULL
-3057,Boswell,Paul Vernon,null,NULL,NULL,NULL
-3058,Ingham,Jim,null,NULL,NULL,NULL
-3059,Robinson,Richard,null,NULL,NULL,NULL
-3060,Apfelbaum,John,null,NULL,NULL,NULL
-3062,Richards,Helen,null,NULL,NULL,NULL
-3063,Johnson,Chris,null,NULL,NULL,NULL
-3064,Levin,Michael E.,null,NULL,NULL,NULL
-3065,Shanklin,Rickey L.,null,NULL,NULL,NULL
-3066,Hechtman,Jon,null,NULL,NULL,NULL
+3053,Harrington,Sid,NULL,NULL,NULL,NULL
+3054,Friedman,Eli,NULL,NULL,NULL,NULL
+3055,Formato,Marc,NULL,NULL,NULL,NULL
+3056,Black,Steve,NULL,NULL,NULL,NULL
+3057,Boswell,Paul Vernon,NULL,NULL,NULL,NULL
+3058,Ingham,Jim,NULL,NULL,NULL,NULL
+3059,Robinson,Richard,NULL,NULL,NULL,NULL
+3060,Apfelbaum,John,NULL,NULL,NULL,NULL
+3062,Richards,Helen,NULL,NULL,NULL,NULL
+3063,Johnson,Chris,NULL,NULL,NULL,NULL
+3064,Levin,Michael E.,NULL,NULL,NULL,NULL
+3065,Shanklin,Rickey L.,NULL,NULL,NULL,NULL
+3066,Hechtman,Jon,NULL,NULL,NULL,NULL
 868,Gorman,Shirley A.,NULL,NULL,NULL,NULL
-3067,Gillis,Robert A.,null,NULL,NULL,NULL
-3067,Gillis,Robert A.,null,NULL,NULL,NULL
-3068,null,T.J.,null,NULL,NULL,NULL
-3069,Roberson,John,null,NULL,NULL,NULL
-3070,Kuntz,Jonathan,null,NULL,NULL,NULL
-3071,Sinisi,Rocco,null,NULL,NULL,NULL
-3072,Duling,Rick,null,NULL,NULL,NULL
-3073,Quinn,Joe,null,NULL,NULL,NULL
-3074,Gravlin,Bruce,null,NULL,NULL,NULL
-3075,Metzger,Haven,null,NULL,NULL,NULL
-3076,Williams,Brad,null,NULL,NULL,NULL
-3077,Springer,Wayne,null,NULL,NULL,NULL
-3078,Holden,Ted,null,NULL,NULL,NULL
-3079,Kimball,Eric,null,NULL,NULL,NULL
-3081,Brown,Brian Earl,null,NULL,NULL,NULL
+3067,Gillis,Robert A.,NULL,NULL,NULL,NULL
+3067,Gillis,Robert A.,NULL,NULL,NULL,NULL
+3068,NULL,T.J.,NULL,NULL,NULL,NULL
+3069,Roberson,John,NULL,NULL,NULL,NULL
+3070,Kuntz,Jonathan,NULL,NULL,NULL,NULL
+3071,Sinisi,Rocco,NULL,NULL,NULL,NULL
+3072,Duling,Rick,NULL,NULL,NULL,NULL
+3073,Quinn,Joe,NULL,NULL,NULL,NULL
+3074,Gravlin,Bruce,NULL,NULL,NULL,NULL
+3075,Metzger,Haven,NULL,NULL,NULL,NULL
+3076,Williams,Brad,NULL,NULL,NULL,NULL
+3077,Springer,Wayne,NULL,NULL,NULL,NULL
+3078,Holden,Ted,NULL,NULL,NULL,NULL
+3079,Kimball,Eric,NULL,NULL,NULL,NULL
+3081,Brown,Brian Earl,NULL,NULL,NULL,NULL
 3082,Kent,Clarke,"R.F.O., K.O.F.",NULL,NULL,NULL
 3082,Kent,Clarke,"R.F.O., K.O.F.",NULL,NULL,NULL
-3083,Four,Element,null,NULL,NULL,NULL
-3084,Sloan,H. Wayne,null,NULL,NULL,NULL
-3085,Hinds,James Elwyn,null,NULL,NULL,NULL
-3086,Marshall,Robert,null,NULL,NULL,NULL
+3083,Four,Element,NULL,NULL,NULL,NULL
+3084,Sloan,H. Wayne,NULL,NULL,NULL,NULL
+3085,Hinds,James Elwyn,NULL,NULL,NULL,NULL
+3086,Marshall,Robert,NULL,NULL,NULL,NULL
 696,Tyler,Don,NULL,NULL,NULL,NULL
-3088,Loepp,Walter,null,NULL,NULL,NULL
-3089,French,Deborah,null,NULL,NULL,NULL
-3090,Brueske,Doug,null,NULL,NULL,NULL
-3091,Dean,Mike,null,NULL,NULL,NULL
-3092,The Ghost Writer,null,null,NULL,NULL,NULL
-3093,Mooney,Jean,null,NULL,NULL,NULL
-3094,Reece,Tim,null,NULL,NULL,NULL
-3095,Shuka,Dennis,null,NULL,NULL,NULL
-3096,Drake,John,null,NULL,NULL,NULL
-3097,Carlucci,Domenick A.,null,NULL,NULL,NULL
-3098,null,Ely,null,NULL,NULL,NULL
-3099,Weber,Robbie,null,NULL,NULL,NULL
-3101,Schwartz,Jeffrey,null,NULL,NULL,NULL
-3102,Goodell,Pete,null,NULL,NULL,NULL
+3088,Loepp,Walter,NULL,NULL,NULL,NULL
+3089,French,Deborah,NULL,NULL,NULL,NULL
+3090,Brueske,Doug,NULL,NULL,NULL,NULL
+3091,Dean,Mike,NULL,NULL,NULL,NULL
+3092,The Ghost Writer,NULL,NULL,NULL,NULL,NULL
+3093,Mooney,Jean,NULL,NULL,NULL,NULL
+3094,Reece,Tim,NULL,NULL,NULL,NULL
+3095,Shuka,Dennis,NULL,NULL,NULL,NULL
+3096,Drake,John,NULL,NULL,NULL,NULL
+3097,Carlucci,Domenick A.,NULL,NULL,NULL,NULL
+3098,NULL,Ely,NULL,NULL,NULL,NULL
+3099,Weber,Robbie,NULL,NULL,NULL,NULL
+3101,Schwartz,Jeffrey,NULL,NULL,NULL,NULL
+3102,Goodell,Pete,NULL,NULL,NULL,NULL
 3103,Del Gaizo,John,"R.F.O., K.O.F.",NULL,NULL,NULL
-3104,Lovece,Frank S.,null,NULL,NULL,NULL
-3105,Drake,Don,null,NULL,NULL,NULL
-3106,Cucich,Peter,null,NULL,NULL,NULL
-3107,Erlenbush,Mark,null,NULL,NULL,NULL
-3108,Markot,Mike,null,NULL,NULL,NULL
+3104,Lovece,Frank S.,NULL,NULL,NULL,NULL
+3105,Drake,Don,NULL,NULL,NULL,NULL
+3106,Cucich,Peter,NULL,NULL,NULL,NULL
+3107,Erlenbush,Mark,NULL,NULL,NULL,NULL
+3108,Markot,Mike,NULL,NULL,NULL,NULL
 2080,Thompson,Kim,NULL,NULL,NULL,NULL
 457,Long ,Bruce,NULL,NULL,NULL,NULL
 457,Long ,Bruce,NULL,NULL,NULL,NULL
-3109,Hughes,Morton,null,NULL,NULL,NULL
+3109,Hughes,Morton,NULL,NULL,NULL,NULL
 1086,Weiss,Alan,NULL,NULL,NULL,NULL
 1086,Weiss,Alan,NULL,NULL,NULL,NULL
-3110,Gramazio,Guiseppe,null,NULL,NULL,NULL
+3110,Gramazio,Guiseppe,NULL,NULL,NULL,NULL
 352,Lichtman,Charles,NULL,NULL,NULL,NULL
 1600,Haworth,Allen,NULL,NULL,NULL,NULL
-3111,Angell,John,null,NULL,NULL,NULL
-3112,Seidman,Cory,null,NULL,NULL,NULL
-3113,Burrows,Thomas,null,NULL,NULL,NULL
-3114,Bourgeois,Bruce,null,NULL,NULL,NULL
-3115,Stuard,David,null,NULL,NULL,NULL
-3116,Conant,Sherwood,null,NULL,NULL,NULL
-3119,Galvanin,Robert,null,NULL,NULL,NULL
-3120,Palmer,Chris,null,NULL,NULL,NULL
-3121,Sheridan,Bob,null,NULL,NULL,NULL
-3122,Calise,David,null,NULL,NULL,NULL
-3123,Spann,Bob,null,NULL,NULL,NULL
-3124,Maslin,Mitchell,null,NULL,NULL,NULL
-3125,Hendricks,Greg,null,NULL,NULL,NULL
-3126,Costantmi,Jim,null,NULL,NULL,NULL
-3127,Pehr,Ronald,null,NULL,NULL,NULL
-3128,Jackson,David,null,NULL,NULL,NULL
-3129,Fong,John,null,NULL,NULL,NULL
-3130,Mittelhammer,Ronald,null,NULL,NULL,NULL
-3131,Estevez,Robert,null,NULL,NULL,NULL
-3132,Wright,Kim,null,NULL,NULL,NULL
+3111,Angell,John,NULL,NULL,NULL,NULL
+3112,Seidman,Cory,NULL,NULL,NULL,NULL
+3113,Burrows,Thomas,NULL,NULL,NULL,NULL
+3114,Bourgeois,Bruce,NULL,NULL,NULL,NULL
+3115,Stuard,David,NULL,NULL,NULL,NULL
+3116,Conant,Sherwood,NULL,NULL,NULL,NULL
+3119,Galvanin,Robert,NULL,NULL,NULL,NULL
+3120,Palmer,Chris,NULL,NULL,NULL,NULL
+3121,Sheridan,Bob,NULL,NULL,NULL,NULL
+3122,Calise,David,NULL,NULL,NULL,NULL
+3123,Spann,Bob,NULL,NULL,NULL,NULL
+3124,Maslin,Mitchell,NULL,NULL,NULL,NULL
+3125,Hendricks,Greg,NULL,NULL,NULL,NULL
+3126,Costantmi,Jim,NULL,NULL,NULL,NULL
+3127,Pehr,Ronald,NULL,NULL,NULL,NULL
+3128,Jackson,David,NULL,NULL,NULL,NULL
+3129,Fong,John,NULL,NULL,NULL,NULL
+3130,Mittelhammer,Ronald,NULL,NULL,NULL,NULL
+3131,Estevez,Robert,NULL,NULL,NULL,NULL
+3132,Wright,Kim,NULL,NULL,NULL,NULL
 3133,Cauley,Wayne,Jr.,NULL,NULL,NULL
-3134,Plosila,Paul,null,NULL,NULL,NULL
-3135,Macaraeg,Richard,null,NULL,NULL,NULL
-3136,Augustyn,Joseph,null,NULL,NULL,NULL
-3137,Day,Gene,null,NULL,NULL,NULL
-3138,Bloyen,Thomas,null,NULL,NULL,NULL
-3139,McCasland,Barbara,null,NULL,NULL,NULL
-3140,Conti,Tom,null,NULL,NULL,NULL
-3141,Hirota,Masataka,null,NULL,NULL,NULL
-3142,Doyle,Ruth,null,NULL,NULL,NULL
-3143,Linderman,Robert,null,NULL,NULL,NULL
-3144,Russell,Al,null,NULL,NULL,NULL
-3145,Klinger,Dan,null,NULL,NULL,NULL
-3146,McNaly,Alan,null,NULL,NULL,NULL
-3147,Lucero,Steve,null,NULL,NULL,NULL
-3148,Kaler,David,null,NULL,NULL,NULL
-3149,Martin,George R.R.,null,NULL,NULL,NULL
-3150,Harris,Bobby,null,NULL,NULL,NULL
-3151,Polacheck,Bernard,null,NULL,NULL,NULL
-3153,Vejvoda,Srden,null,NULL,NULL,NULL
-3154,Kearns,Patrick,null,NULL,NULL,NULL
-3155,Geralds,Mike,null,NULL,NULL,NULL
-3156,Fergus,George,null,NULL,NULL,NULL
-3157,Vernidis,Michael,null,NULL,NULL,NULL
-3158,Orman,Larry,null,NULL,NULL,NULL
-3158,Orman,Larry,null,NULL,NULL,NULL
-3159,Sanchez,Jane,null,NULL,NULL,NULL
-3160,Vann,Robert,null,NULL,NULL,NULL
-3161,Wallfried,Joe,null,NULL,NULL,NULL
-3162,Wallfried,Peter,null,NULL,NULL,NULL
-3163,McNutty,Michael,null,NULL,NULL,NULL
+3134,Plosila,Paul,NULL,NULL,NULL,NULL
+3135,Macaraeg,Richard,NULL,NULL,NULL,NULL
+3136,Augustyn,Joseph,NULL,NULL,NULL,NULL
+3137,Day,Gene,NULL,NULL,NULL,NULL
+3138,Bloyen,Thomas,NULL,NULL,NULL,NULL
+3139,McCasland,Barbara,NULL,NULL,NULL,NULL
+3140,Conti,Tom,NULL,NULL,NULL,NULL
+3141,Hirota,Masataka,NULL,NULL,NULL,NULL
+3142,Doyle,Ruth,NULL,NULL,NULL,NULL
+3143,Linderman,Robert,NULL,NULL,NULL,NULL
+3144,Russell,Al,NULL,NULL,NULL,NULL
+3145,Klinger,Dan,NULL,NULL,NULL,NULL
+3146,McNaly,Alan,NULL,NULL,NULL,NULL
+3147,Lucero,Steve,NULL,NULL,NULL,NULL
+3148,Kaler,David,NULL,NULL,NULL,NULL
+3149,Martin,George R.R.,NULL,NULL,NULL,NULL
+3150,Harris,Bobby,NULL,NULL,NULL,NULL
+3151,Polacheck,Bernard,NULL,NULL,NULL,NULL
+3153,Vejvoda,Srden,NULL,NULL,NULL,NULL
+3154,Kearns,Patrick,NULL,NULL,NULL,NULL
+3155,Geralds,Mike,NULL,NULL,NULL,NULL
+3156,Fergus,George,NULL,NULL,NULL,NULL
+3157,Vernidis,Michael,NULL,NULL,NULL,NULL
+3158,Orman,Larry,NULL,NULL,NULL,NULL
+3158,Orman,Larry,NULL,NULL,NULL,NULL
+3159,Sanchez,Jane,NULL,NULL,NULL,NULL
+3160,Vann,Robert,NULL,NULL,NULL,NULL
+3161,Wallfried,Joe,NULL,NULL,NULL,NULL
+3162,Wallfried,Peter,NULL,NULL,NULL,NULL
+3163,McNutty,Michael,NULL,NULL,NULL,NULL
 3164,Thibodaux,Jack,Jr.,NULL,NULL,NULL
-3165,Hastings,Wally,null,NULL,NULL,NULL
+3165,Hastings,Wally,NULL,NULL,NULL,NULL
 2341,Lesko,Eric,NULL,NULL,NULL,NULL
-3166,Bell,Dale,null,NULL,NULL,NULL
-3167,Topazio,Vincent,null,NULL,NULL,NULL
+3166,Bell,Dale,NULL,NULL,NULL,NULL
+3167,Topazio,Vincent,NULL,NULL,NULL,NULL
 216,Cadwell,Peter,NULL,NULL,NULL,NULL
-3168,McGee,Patrick,null,NULL,NULL,NULL
+3168,McGee,Patrick,NULL,NULL,NULL,NULL
 3169,Brown,Millard E.,Mrs.,NULL,NULL,NULL
-3170,Swafford,Herbert W.,null,NULL,NULL,NULL
-3171,Voce,Wayne,null,NULL,NULL,NULL
-3172,Diane,Donna,null,NULL,NULL,NULL
-3173,Fall,Robert,null,NULL,NULL,NULL
-3174,Dee,Jim,null,NULL,NULL,NULL
-3175,Thorne,Gary,null,NULL,NULL,NULL
-3176,Coveleski,Jim,null,NULL,NULL,NULL
-3177,Stokes,Frank,null,NULL,NULL,NULL
-3178,Mann,Alan,null,NULL,NULL,NULL
-3179,Moore,Ted,null,NULL,NULL,NULL
-3180,DeStefano,Jerry,null,NULL,NULL,NULL
-3181,Halloran,John,null,NULL,NULL,NULL
-3182,Kraus,Richard,null,NULL,NULL,NULL
-3183,Johnson,Maurice,null,NULL,NULL,NULL
-3184,Czaga,Carl,null,NULL,NULL,NULL
-3185,Taylor,Charles,null,NULL,NULL,NULL
-3186,Cochran,Richard,null,NULL,NULL,NULL
-3188,Bryant,George,null,NULL,NULL,NULL
-3189,House,Jack,null,NULL,NULL,NULL
-3191,Ludwig,Fred,null,NULL,NULL,NULL
-3192,Stevens,Greg,null,NULL,NULL,NULL
-3193,Mason,Gary,null,NULL,NULL,NULL
-3194,Gaither,Mickey,null,NULL,NULL,NULL
+3170,Swafford,Herbert W.,NULL,NULL,NULL,NULL
+3171,Voce,Wayne,NULL,NULL,NULL,NULL
+3172,Diane,Donna,NULL,NULL,NULL,NULL
+3173,Fall,Robert,NULL,NULL,NULL,NULL
+3174,Dee,Jim,NULL,NULL,NULL,NULL
+3175,Thorne,Gary,NULL,NULL,NULL,NULL
+3176,Coveleski,Jim,NULL,NULL,NULL,NULL
+3177,Stokes,Frank,NULL,NULL,NULL,NULL
+3178,Mann,Alan,NULL,NULL,NULL,NULL
+3179,Moore,Ted,NULL,NULL,NULL,NULL
+3180,DeStefano,Jerry,NULL,NULL,NULL,NULL
+3181,Halloran,John,NULL,NULL,NULL,NULL
+3182,Kraus,Richard,NULL,NULL,NULL,NULL
+3183,Johnson,Maurice,NULL,NULL,NULL,NULL
+3184,Czaga,Carl,NULL,NULL,NULL,NULL
+3185,Taylor,Charles,NULL,NULL,NULL,NULL
+3186,Cochran,Richard,NULL,NULL,NULL,NULL
+3188,Bryant,George,NULL,NULL,NULL,NULL
+3189,House,Jack,NULL,NULL,NULL,NULL
+3191,Ludwig,Fred,NULL,NULL,NULL,NULL
+3192,Stevens,Greg,NULL,NULL,NULL,NULL
+3193,Mason,Gary,NULL,NULL,NULL,NULL
+3194,Gaither,Mickey,NULL,NULL,NULL,NULL
 2852,White,Ted,NULL,NULL,NULL,NULL
-3195,Tower,Frank,null,NULL,NULL,NULL
-3196,Wright,Robbie,null,NULL,NULL,NULL
-3197,Humen,Bill,null,NULL,NULL,NULL
-3198,Jessen,Steve,null,NULL,NULL,NULL
-3197,Humen,Bill,null,NULL,NULL,NULL
-3199,Morden,Jeff,null,NULL,NULL,NULL
-3200,Kernes,Mark,null,NULL,NULL,NULL
-3201,Boles,William,null,NULL,NULL,NULL
-3202,Baggerman,John,null,NULL,NULL,NULL
-3203,Whitehead,Richard,null,NULL,NULL,NULL
-3204,Rapparlie,N.W.,null,NULL,NULL,NULL
-3205,Phillips,David,null,NULL,NULL,NULL
-3206,Agrew,Ted,null,NULL,NULL,NULL
-3207,Clark,Steve,null,NULL,NULL,NULL
-3208,Akers,Paul E.,null,NULL,NULL,NULL
-3209,McNeeney,John,null,NULL,NULL,NULL
-3210,Funnell,David,null,NULL,NULL,NULL
+3195,Tower,Frank,NULL,NULL,NULL,NULL
+3196,Wright,Robbie,NULL,NULL,NULL,NULL
+3197,Humen,Bill,NULL,NULL,NULL,NULL
+3198,Jessen,Steve,NULL,NULL,NULL,NULL
+3197,Humen,Bill,NULL,NULL,NULL,NULL
+3199,Morden,Jeff,NULL,NULL,NULL,NULL
+3200,Kernes,Mark,NULL,NULL,NULL,NULL
+3201,Boles,William,NULL,NULL,NULL,NULL
+3202,Baggerman,John,NULL,NULL,NULL,NULL
+3203,Whitehead,Richard,NULL,NULL,NULL,NULL
+3204,Rapparlie,N.W.,NULL,NULL,NULL,NULL
+3205,Phillips,David,NULL,NULL,NULL,NULL
+3206,Agrew,Ted,NULL,NULL,NULL,NULL
+3207,Clark,Steve,NULL,NULL,NULL,NULL
+3208,Akers,Paul E.,NULL,NULL,NULL,NULL
+3209,McNeeney,John,NULL,NULL,NULL,NULL
+3210,Funnell,David,NULL,NULL,NULL,NULL
 3211,Cooke,C.H.,Jr,NULL,NULL,NULL
-3212,Taylor,John,null,NULL,NULL,NULL
+3212,Taylor,John,NULL,NULL,NULL,NULL
 493,Morton,James,NULL,NULL,NULL,NULL
 493,Morton,James,NULL,NULL,NULL,NULL
-3213,Guillot,Sandy,null,NULL,NULL,NULL
-3214,Dennis,John,null,NULL,NULL,NULL
+3213,Guillot,Sandy,NULL,NULL,NULL,NULL
+3214,Dennis,John,NULL,NULL,NULL,NULL
 3216,Brown,Ralph L.,Jr,NULL,NULL,NULL
-3217,Paolucci,Mickey,null,NULL,NULL,NULL
-3218,Oakley,Roy,null,NULL,NULL,NULL
-3221,Moore,Derek,null,NULL,NULL,NULL
-3222,Bonita,Victor,null,NULL,NULL,NULL
-3223,Russell,Marie,null,NULL,NULL,NULL
-3224,Nungester,Paul,null,NULL,NULL,NULL
-3225,Holderman,Eddie,null,NULL,NULL,NULL
-3225,Holderman,Eddie,null,NULL,NULL,NULL
+3217,Paolucci,Mickey,NULL,NULL,NULL,NULL
+3218,Oakley,Roy,NULL,NULL,NULL,NULL
+3221,Moore,Derek,NULL,NULL,NULL,NULL
+3222,Bonita,Victor,NULL,NULL,NULL,NULL
+3223,Russell,Marie,NULL,NULL,NULL,NULL
+3224,Nungester,Paul,NULL,NULL,NULL,NULL
+3225,Holderman,Eddie,NULL,NULL,NULL,NULL
+3225,Holderman,Eddie,NULL,NULL,NULL,NULL
 3226,Eisgruber,Frank P.,Jr,NULL,NULL,NULL
-3227,Craig,Sally,null,NULL,NULL,NULL
-3228,Guida,Stephen,null,NULL,NULL,NULL
-3229,Tsakiris,George,null,NULL,NULL,NULL
-3230,Moyer,Laurence,null,NULL,NULL,NULL
-3232,Nuffer,Jim,null,NULL,NULL,NULL
-3233,Fischer,Linda,null,NULL,NULL,NULL
-3234,Schwall,Richard,null,NULL,NULL,NULL
-3235,Utley,Steve,null,NULL,NULL,NULL
-3236,Spangler,Bob,null,NULL,NULL,NULL
-3238,Spivey,Milton,null,NULL,NULL,NULL
-3239,Buser,Jim,null,NULL,NULL,NULL
-3240,Hamaker,David,null,NULL,NULL,NULL
-3241,Morgan,John P.,null,NULL,NULL,NULL
-3242,Leifeld,Lynda,null,NULL,NULL,NULL
-3243,Dominic La Cava,Kerry,null,NULL,NULL,NULL
-3244,Speer,Lenore,null,NULL,NULL,NULL
-3245,Gliner,Bill,null,NULL,NULL,NULL
-3246,Haulsey,Tony,null,NULL,NULL,NULL
+3227,Craig,Sally,NULL,NULL,NULL,NULL
+3228,Guida,Stephen,NULL,NULL,NULL,NULL
+3229,Tsakiris,George,NULL,NULL,NULL,NULL
+3230,Moyer,Laurence,NULL,NULL,NULL,NULL
+3232,Nuffer,Jim,NULL,NULL,NULL,NULL
+3233,Fischer,Linda,NULL,NULL,NULL,NULL
+3234,Schwall,Richard,NULL,NULL,NULL,NULL
+3235,Utley,Steve,NULL,NULL,NULL,NULL
+3236,Spangler,Bob,NULL,NULL,NULL,NULL
+3238,Spivey,Milton,NULL,NULL,NULL,NULL
+3239,Buser,Jim,NULL,NULL,NULL,NULL
+3240,Hamaker,David,NULL,NULL,NULL,NULL
+3241,Morgan,John P.,NULL,NULL,NULL,NULL
+3242,Leifeld,Lynda,NULL,NULL,NULL,NULL
+3243,Dominic La Cava,Kerry,NULL,NULL,NULL,NULL
+3244,Speer,Lenore,NULL,NULL,NULL,NULL
+3245,Gliner,Bill,NULL,NULL,NULL,NULL
+3246,Haulsey,Tony,NULL,NULL,NULL,NULL
 3247,Livingston,Linda,Mrs.,NULL,NULL,NULL
-3248,Wink,John,null,NULL,NULL,NULL
+3248,Wink,John,NULL,NULL,NULL,NULL
 2434,Barnett,Ned,NULL,NULL,NULL,NULL
-3249,Bertrand,Edward,null,NULL,NULL,NULL
-3250,Schind,Paul,null,NULL,NULL,NULL
-3251,Weigle,John,null,NULL,NULL,NULL
-3252,Kenney,Richard,null,NULL,NULL,NULL
-3253,Randall,Vicky,null,NULL,NULL,NULL
-3254,Bladsoe,David,null,NULL,NULL,NULL
-3255,Cunningham,Barry,null,NULL,NULL,NULL
-3256,Zwicker,Bruce,null,NULL,NULL,NULL
-3257,Kirby,Laura,null,NULL,NULL,NULL
-3258,Merrill,Gary,null,NULL,NULL,NULL
+3249,Bertrand,Edward,NULL,NULL,NULL,NULL
+3250,Schind,Paul,NULL,NULL,NULL,NULL
+3251,Weigle,John,NULL,NULL,NULL,NULL
+3252,Kenney,Richard,NULL,NULL,NULL,NULL
+3253,Randall,Vicky,NULL,NULL,NULL,NULL
+3254,Bladsoe,David,NULL,NULL,NULL,NULL
+3255,Cunningham,Barry,NULL,NULL,NULL,NULL
+3256,Zwicker,Bruce,NULL,NULL,NULL,NULL
+3257,Kirby,Laura,NULL,NULL,NULL,NULL
+3258,Merrill,Gary,NULL,NULL,NULL,NULL
 3259,Kortte,Douglas,Mrs.,NULL,NULL,NULL
-3260,Ranieri,Richard,null,NULL,NULL,NULL
+3260,Ranieri,Richard,NULL,NULL,NULL,NULL
 1499,Dietz,Tom,NULL,NULL,NULL,NULL
-3261,Patterson,Alan,null,NULL,NULL,NULL
-3262,Zimmerman,Ann,null,NULL,NULL,NULL
-3263,Werner,Craig,null,NULL,NULL,NULL
-3264,Holman,Perry,null,NULL,NULL,NULL
-3265,McAlister,Jim,null,NULL,NULL,NULL
-3266,Clodfelter,Jimmy,null,NULL,NULL,NULL
-3267,DeSmedt,Bill,null,NULL,NULL,NULL
-3268,Hammer,Larry,null,NULL,NULL,NULL
-3269,Students of Bethany College,null,null,NULL,NULL,NULL
-3270,Johnson,Mike,null,NULL,NULL,NULL
-3271,Shpiegelman,Jan,null,NULL,NULL,NULL
-3272,Hickey,Bill,null,NULL,NULL,NULL
-3273,Chase,Marvin,null,NULL,NULL,NULL
-3274,Lowry,Bruce,null,NULL,NULL,NULL
-3275,Cornish,Rich,null,NULL,NULL,NULL
-3276,Collier,Dennis,null,NULL,NULL,NULL
-3277,Dean,Alan,null,NULL,NULL,NULL
-3278,Olivas,Nick,null,NULL,NULL,NULL
-3279,Herskovitz,Stuart,null,NULL,NULL,NULL
-3280,Boettger,Fritz,null,NULL,NULL,NULL
-3281,Paquet,Claude,null,NULL,NULL,NULL
-3282,Robertson,Mike,null,NULL,NULL,NULL
-3283,Birchmore,Eddie,null,NULL,NULL,NULL
+3261,Patterson,Alan,NULL,NULL,NULL,NULL
+3262,Zimmerman,Ann,NULL,NULL,NULL,NULL
+3263,Werner,Craig,NULL,NULL,NULL,NULL
+3264,Holman,Perry,NULL,NULL,NULL,NULL
+3265,McAlister,Jim,NULL,NULL,NULL,NULL
+3266,Clodfelter,Jimmy,NULL,NULL,NULL,NULL
+3267,DeSmedt,Bill,NULL,NULL,NULL,NULL
+3268,Hammer,Larry,NULL,NULL,NULL,NULL
+3269,Students of Bethany College,NULL,NULL,NULL,NULL,NULL
+3270,Johnson,Mike,NULL,NULL,NULL,NULL
+3271,Shpiegelman,Jan,NULL,NULL,NULL,NULL
+3272,Hickey,Bill,NULL,NULL,NULL,NULL
+3273,Chase,Marvin,NULL,NULL,NULL,NULL
+3274,Lowry,Bruce,NULL,NULL,NULL,NULL
+3275,Cornish,Rich,NULL,NULL,NULL,NULL
+3276,Collier,Dennis,NULL,NULL,NULL,NULL
+3277,Dean,Alan,NULL,NULL,NULL,NULL
+3278,Olivas,Nick,NULL,NULL,NULL,NULL
+3279,Herskovitz,Stuart,NULL,NULL,NULL,NULL
+3280,Boettger,Fritz,NULL,NULL,NULL,NULL
+3281,Paquet,Claude,NULL,NULL,NULL,NULL
+3282,Robertson,Mike,NULL,NULL,NULL,NULL
+3283,Birchmore,Eddie,NULL,NULL,NULL,NULL
 3284,Chambliss,Leonard,Jr,NULL,NULL,NULL
-3285,Manczuk,Greg,null,NULL,NULL,NULL
-3286,Barnhart,Pat,null,NULL,NULL,NULL
-3287,O'Donnell,Emmett,null,NULL,NULL,NULL
-3289,Grayson,Dave,null,NULL,NULL,NULL
-3290,Bergman,Henry,null,NULL,NULL,NULL
-3291,Lilla,Michael,null,NULL,NULL,NULL
-3292,Albrecht,Tim,null,NULL,NULL,NULL
-3293,Alprin,Brian,null,NULL,NULL,NULL
+3285,Manczuk,Greg,NULL,NULL,NULL,NULL
+3286,Barnhart,Pat,NULL,NULL,NULL,NULL
+3287,O'Donnell,Emmett,NULL,NULL,NULL,NULL
+3289,Grayson,Dave,NULL,NULL,NULL,NULL
+3290,Bergman,Henry,NULL,NULL,NULL,NULL
+3291,Lilla,Michael,NULL,NULL,NULL,NULL
+3292,Albrecht,Tim,NULL,NULL,NULL,NULL
+3293,Alprin,Brian,NULL,NULL,NULL,NULL
 3294,Kusske,John,Jr,NULL,NULL,NULL
 3295,Sartoris,Jimmy,Jr,NULL,NULL,NULL
-3296,Espinosa,Rudy,null,NULL,NULL,NULL
-3297,Chaffee,Thomas L.,null,NULL,NULL,NULL
-3298,Nelson,Brian,null,NULL,NULL,NULL
-3299,Wahs,Larry,null,NULL,NULL,NULL
-3300,Wahs,Mike,null,NULL,NULL,NULL
-3301,Sarnoff,Lee,null,NULL,NULL,NULL
+3296,Espinosa,Rudy,NULL,NULL,NULL,NULL
+3297,Chaffee,Thomas L.,NULL,NULL,NULL,NULL
+3298,Nelson,Brian,NULL,NULL,NULL,NULL
+3299,Wahs,Larry,NULL,NULL,NULL,NULL
+3300,Wahs,Mike,NULL,NULL,NULL,NULL
+3301,Sarnoff,Lee,NULL,NULL,NULL,NULL
 2296,Roesberg,Richard,NULL,NULL,NULL,NULL
-3302,Durisin,Andrew,null,NULL,NULL,NULL
-3303,Caraway,Randy,null,NULL,NULL,NULL
-3304,Katz,Richard,null,NULL,NULL,NULL
-3305,Neches,Neil,null,NULL,NULL,NULL
-3306,Heil,Dwight,null,NULL,NULL,NULL
-3307,Pate,Calvin,null,NULL,NULL,NULL
-3308,Harvey,Alan,null,NULL,NULL,NULL
-3309,Mortimer,Jo Ann,null,NULL,NULL,NULL
-3310,Drew,Daniel,null,NULL,NULL,NULL
+3302,Durisin,Andrew,NULL,NULL,NULL,NULL
+3303,Caraway,Randy,NULL,NULL,NULL,NULL
+3304,Katz,Richard,NULL,NULL,NULL,NULL
+3305,Neches,Neil,NULL,NULL,NULL,NULL
+3306,Heil,Dwight,NULL,NULL,NULL,NULL
+3307,Pate,Calvin,NULL,NULL,NULL,NULL
+3308,Harvey,Alan,NULL,NULL,NULL,NULL
+3309,Mortimer,Jo Ann,NULL,NULL,NULL,NULL
+3310,Drew,Daniel,NULL,NULL,NULL,NULL
 1903,Cockrum,Dave,NULL,NULL,NULL,NULL
-3311,Roche,Anthony,null,NULL,NULL,NULL
-3312,Cox,David,null,NULL,NULL,NULL
-3313,Walker,Bruce,null,NULL,NULL,NULL
+3311,Roche,Anthony,NULL,NULL,NULL,NULL
+3312,Cox,David,NULL,NULL,NULL,NULL
+3313,Walker,Bruce,NULL,NULL,NULL,NULL
 3314,Black,Clarence,Jr,NULL,NULL,NULL
-3315,McDivitt,Ron,null,NULL,NULL,NULL
-3316,Richards,Bob,null,NULL,NULL,NULL
-3317,Anderson,Gary,null,NULL,NULL,NULL
-3318,Kelleher,Jack,null,NULL,NULL,NULL
-3319,Pepper,John,null,NULL,NULL,NULL
-3320,James,Darryl,null,NULL,NULL,NULL
-3320,James,Darryl,null,NULL,NULL,NULL
-3321,Cooper,Wesley,null,NULL,NULL,NULL
-3322,Sizemore,David,null,NULL,NULL,NULL
-3323,Neff,Steve,null,NULL,NULL,NULL
-3324,Cummings,Larry,null,NULL,NULL,NULL
-3325,Mallory,Bill,null,NULL,NULL,NULL
+3315,McDivitt,Ron,NULL,NULL,NULL,NULL
+3316,Richards,Bob,NULL,NULL,NULL,NULL
+3317,Anderson,Gary,NULL,NULL,NULL,NULL
+3318,Kelleher,Jack,NULL,NULL,NULL,NULL
+3319,Pepper,John,NULL,NULL,NULL,NULL
+3320,James,Darryl,NULL,NULL,NULL,NULL
+3320,James,Darryl,NULL,NULL,NULL,NULL
+3321,Cooper,Wesley,NULL,NULL,NULL,NULL
+3322,Sizemore,David,NULL,NULL,NULL,NULL
+3323,Neff,Steve,NULL,NULL,NULL,NULL
+3324,Cummings,Larry,NULL,NULL,NULL,NULL
+3325,Mallory,Bill,NULL,NULL,NULL,NULL
 3007,Hensley,Ralph,NULL,NULL,NULL,NULL
-3326,Bonham,Vincent,null,NULL,NULL,NULL
-3327,Penchansky,Burt,null,NULL,NULL,NULL
-3328,Hamer,Dennis,null,NULL,NULL,NULL
+3326,Bonham,Vincent,NULL,NULL,NULL,NULL
+3327,Penchansky,Burt,NULL,NULL,NULL,NULL
+3328,Hamer,Dennis,NULL,NULL,NULL,NULL
 603,Bertholf,Jan,NULL,NULL,NULL,NULL
-3329,Striney,Gary,null,NULL,NULL,NULL
-3330,Lieberthal,Loren,null,NULL,NULL,NULL
-3331,Slade,Dan,null,NULL,NULL,NULL
-3332,Glish,David,null,NULL,NULL,NULL
+3329,Striney,Gary,NULL,NULL,NULL,NULL
+3330,Lieberthal,Loren,NULL,NULL,NULL,NULL
+3331,Slade,Dan,NULL,NULL,NULL,NULL
+3332,Glish,David,NULL,NULL,NULL,NULL
 3333,Hahn,Keen,Mr.,NULL,NULL,NULL
 3334,Hahn,Keen,Mrs.,NULL,NULL,NULL
-3335,Bray,Donald,null,NULL,NULL,NULL
-3336,Stillman,Floyd,null,NULL,NULL,NULL
-3337,Mooney,Bill,null,NULL,NULL,NULL
+3335,Bray,Donald,NULL,NULL,NULL,NULL
+3336,Stillman,Floyd,NULL,NULL,NULL,NULL
+3337,Mooney,Bill,NULL,NULL,NULL,NULL
 3338,White,George E.,Jr,NULL,NULL,NULL
-3339,Phillips,John,null,NULL,NULL,NULL
-3340,Tagemeister,Wayne,null,NULL,NULL,NULL
-3341,Turner,Ken,null,NULL,NULL,NULL
-3342,Crabtree,Dennis,null,NULL,NULL,NULL
-3235,Utley,Steve,null,NULL,NULL,NULL
-3343,Dougherty,Christopher,null,NULL,NULL,NULL
-3344,Hiltz,John,null,NULL,NULL,NULL
-3345,Johnson,L.J.,null,NULL,NULL,NULL
-3346,Drillich,Richard,null,NULL,NULL,NULL
-3347,Bates,Kenneth,null,NULL,NULL,NULL
-3348,Masana,Gaspar,null,NULL,NULL,NULL
-3349,Sommer,Charlie,null,NULL,NULL,NULL
-3350,Meyer,Bruce,null,NULL,NULL,NULL
-3350,Meyer,Bruce,null,NULL,NULL,NULL
+3339,Phillips,John,NULL,NULL,NULL,NULL
+3340,Tagemeister,Wayne,NULL,NULL,NULL,NULL
+3341,Turner,Ken,NULL,NULL,NULL,NULL
+3342,Crabtree,Dennis,NULL,NULL,NULL,NULL
+3235,Utley,Steve,NULL,NULL,NULL,NULL
+3343,Dougherty,Christopher,NULL,NULL,NULL,NULL
+3344,Hiltz,John,NULL,NULL,NULL,NULL
+3345,Johnson,L.J.,NULL,NULL,NULL,NULL
+3346,Drillich,Richard,NULL,NULL,NULL,NULL
+3347,Bates,Kenneth,NULL,NULL,NULL,NULL
+3348,Masana,Gaspar,NULL,NULL,NULL,NULL
+3349,Sommer,Charlie,NULL,NULL,NULL,NULL
+3350,Meyer,Bruce,NULL,NULL,NULL,NULL
+3350,Meyer,Bruce,NULL,NULL,NULL,NULL
 559,Pacheco,Carlos,NULL,NULL,NULL,NULL
-3353,Cavadini,Bud,null,NULL,NULL,NULL
-3354,Sturdevant,William P.,null,NULL,NULL,NULL
-3355,Ruhe,Scott,null,NULL,NULL,NULL
+3353,Cavadini,Bud,NULL,NULL,NULL,NULL
+3354,Sturdevant,William P.,NULL,NULL,NULL,NULL
+3355,Ruhe,Scott,NULL,NULL,NULL,NULL
 930,Osmar,Nils,NULL,NULL,NULL,NULL
-3356,Breene,Pat,null,NULL,NULL,NULL
-3357,Bowell,Steve,null,NULL,NULL,NULL
-3358,Nielsen,Terry,null,NULL,NULL,NULL
-3359,Burns,Rick,null,NULL,NULL,NULL
-3360,Thompson,Tim,null,NULL,NULL,NULL
-3361,Smith,Steve,null,NULL,NULL,NULL
-3362,Nehwadowich,K.F. Wayne,null,NULL,NULL,NULL
-3363,Ehwald,Kathryne,null,NULL,NULL,NULL
-3364,Reed,Fred,null,NULL,NULL,NULL
-3365,Reed,Susan,null,NULL,NULL,NULL
-3366,Modica,William,null,NULL,NULL,NULL
-3367,Carey,David,null,NULL,NULL,NULL
-3368,Kowalski,Craig,null,NULL,NULL,NULL
-3369,Williams,Janis,null,NULL,NULL,NULL
-3370,Johnson,Scott,null,NULL,NULL,NULL
-3371,Nicholson,Allen,null,NULL,NULL,NULL
-3372,O'Hearn,Martin,null,NULL,NULL,NULL
-3373,Hyde,Rick,null,NULL,NULL,NULL
-3375,Reichman,Robert,null,NULL,NULL,NULL
-3376,Wilson,C. C.,null,NULL,NULL,NULL
-3377,Fishman,Gary,null,NULL,NULL,NULL
-3378,Shapiro,Lawrence,null,NULL,NULL,NULL
-3381,Vohland,Duffy,null,NULL,NULL,NULL
+3356,Breene,Pat,NULL,NULL,NULL,NULL
+3357,Bowell,Steve,NULL,NULL,NULL,NULL
+3358,Nielsen,Terry,NULL,NULL,NULL,NULL
+3359,Burns,Rick,NULL,NULL,NULL,NULL
+3360,Thompson,Tim,NULL,NULL,NULL,NULL
+3361,Smith,Steve,NULL,NULL,NULL,NULL
+3362,Nehwadowich,K.F. Wayne,NULL,NULL,NULL,NULL
+3363,Ehwald,Kathryne,NULL,NULL,NULL,NULL
+3364,Reed,Fred,NULL,NULL,NULL,NULL
+3365,Reed,Susan,NULL,NULL,NULL,NULL
+3366,Modica,William,NULL,NULL,NULL,NULL
+3367,Carey,David,NULL,NULL,NULL,NULL
+3368,Kowalski,Craig,NULL,NULL,NULL,NULL
+3369,Williams,Janis,NULL,NULL,NULL,NULL
+3370,Johnson,Scott,NULL,NULL,NULL,NULL
+3371,Nicholson,Allen,NULL,NULL,NULL,NULL
+3372,O'Hearn,Martin,NULL,NULL,NULL,NULL
+3373,Hyde,Rick,NULL,NULL,NULL,NULL
+3375,Reichman,Robert,NULL,NULL,NULL,NULL
+3376,Wilson,C. C.,NULL,NULL,NULL,NULL
+3377,Fishman,Gary,NULL,NULL,NULL,NULL
+3378,Shapiro,Lawrence,NULL,NULL,NULL,NULL
+3381,Vohland,Duffy,NULL,NULL,NULL,NULL
 3382,Oppenhuis,Gary,"RFO, KOF",NULL,NULL,NULL
-3384,Kozak,John,null,NULL,NULL,NULL
-3385,Daniels,Danny G.,null,NULL,NULL,NULL
-3387,Benitz,R.,null,NULL,NULL,NULL
-3388,Taylor,Keith,null,NULL,NULL,NULL
-3389,Kimbler,Gary,null,NULL,NULL,NULL
-3390,Katten,Evan Peter,null,NULL,NULL,NULL
-3391,Dobbs,Cynthia,null,NULL,NULL,NULL
+3384,Kozak,John,NULL,NULL,NULL,NULL
+3385,Daniels,Danny G.,NULL,NULL,NULL,NULL
+3387,Benitz,R.,NULL,NULL,NULL,NULL
+3388,Taylor,Keith,NULL,NULL,NULL,NULL
+3389,Kimbler,Gary,NULL,NULL,NULL,NULL
+3390,Katten,Evan Peter,NULL,NULL,NULL,NULL
+3391,Dobbs,Cynthia,NULL,NULL,NULL,NULL
 3392,Gibbons,G. Dennis,"RFO, QNS, KOF",NULL,NULL,NULL
-3394,Joyce,Bill,null,NULL,NULL,NULL
-3395,Mann,Gary S.,null,NULL,NULL,NULL
+3394,Joyce,Bill,NULL,NULL,NULL,NULL
+3395,Mann,Gary S.,NULL,NULL,NULL,NULL
 3396,Helms,B. C.,Pvt.,NULL,NULL,NULL
-3397,Alexander,Wanda,null,NULL,NULL,NULL
-3399,PSC,null,null,NULL,NULL,NULL
-3400,Vineyard,David L.,null,NULL,NULL,NULL
-3401,Wallace,Pete,null,NULL,NULL,NULL
-3402,Lind,R. J.,null,NULL,NULL,NULL
-3403,Tulp,Bill,null,NULL,NULL,NULL
-3404,McDonnell,Dave,null,NULL,NULL,NULL
-3405,Farmer,Doug,null,NULL,NULL,NULL
-3409,Ricker,Harry,null,NULL,NULL,NULL
-3410,Stillman,Burt,null,NULL,NULL,NULL
+3397,Alexander,Wanda,NULL,NULL,NULL,NULL
+3399,PSC,NULL,NULL,NULL,NULL,NULL
+3400,Vineyard,David L.,NULL,NULL,NULL,NULL
+3401,Wallace,Pete,NULL,NULL,NULL,NULL
+3402,Lind,R. J.,NULL,NULL,NULL,NULL
+3403,Tulp,Bill,NULL,NULL,NULL,NULL
+3404,McDonnell,Dave,NULL,NULL,NULL,NULL
+3405,Farmer,Doug,NULL,NULL,NULL,NULL
+3409,Ricker,Harry,NULL,NULL,NULL,NULL
+3410,Stillman,Burt,NULL,NULL,NULL,NULL
 3411,McDermott,J. F.,Jr.,NULL,NULL,NULL
-3412,Mcquard,Susan,null,NULL,NULL,NULL
+3412,Mcquard,Susan,NULL,NULL,NULL,NULL
 3413,Halporn,Connie,"RFO, QNS, KOF",NULL,NULL,NULL
-3414,Armstrong,Phyg,null,NULL,NULL,NULL
-3415,Watson,Paul,null,NULL,NULL,NULL
-3416,Macchio,Ralph,null,NULL,NULL,NULL
-3417,Morrison,James,null,NULL,NULL,NULL
-3418,Carnes,Kendall,null,NULL,NULL,NULL
-3419,Chebatunis,Kurt,null,NULL,NULL,NULL
+3414,Armstrong,Phyg,NULL,NULL,NULL,NULL
+3415,Watson,Paul,NULL,NULL,NULL,NULL
+3416,Macchio,Ralph,NULL,NULL,NULL,NULL
+3417,Morrison,James,NULL,NULL,NULL,NULL
+3418,Carnes,Kendall,NULL,NULL,NULL,NULL
+3419,Chebatunis,Kurt,NULL,NULL,NULL,NULL
 3420,Lee,Calvin,"RFO, QNS, KOF",NULL,NULL,NULL
-3422,Beist,Peter,null,NULL,NULL,NULL
-3423,Lavazzi,Charles M.,null,NULL,NULL,NULL
-3424,Lutgen,Chris,null,NULL,NULL,NULL
-3427,Obert-Thorn,Mark A.,null,NULL,NULL,NULL
-3428,Coccato,Irene L.,null,NULL,NULL,NULL
-3429,Mellen,Peter J.,null,NULL,NULL,NULL
-3431,Koala (Ricn Arnold),null,null,NULL,NULL,NULL
-3432,Jacobson,Don,null,NULL,NULL,NULL
-3433,Wills,Jeff,null,NULL,NULL,NULL
-3434,Robbins,K. J.,null,NULL,NULL,NULL
-3435,Brown,Ron,null,NULL,NULL,NULL
-3436,Moss,Wayne,null,NULL,NULL,NULL
-3437,Greenspan,Eric,null,NULL,NULL,NULL
-3438,Renfro,Lane,null,NULL,NULL,NULL
-3439,Capurso,Michael Phillip,null,NULL,NULL,NULL
-3442,Avery,Tim,null,NULL,NULL,NULL
+3422,Beist,Peter,NULL,NULL,NULL,NULL
+3423,Lavazzi,Charles M.,NULL,NULL,NULL,NULL
+3424,Lutgen,Chris,NULL,NULL,NULL,NULL
+3427,Obert-Thorn,Mark A.,NULL,NULL,NULL,NULL
+3428,Coccato,Irene L.,NULL,NULL,NULL,NULL
+3429,Mellen,Peter J.,NULL,NULL,NULL,NULL
+3431,Koala (Ricn Arnold),NULL,NULL,NULL,NULL,NULL
+3432,Jacobson,Don,NULL,NULL,NULL,NULL
+3433,Wills,Jeff,NULL,NULL,NULL,NULL
+3434,Robbins,K. J.,NULL,NULL,NULL,NULL
+3435,Brown,Ron,NULL,NULL,NULL,NULL
+3436,Moss,Wayne,NULL,NULL,NULL,NULL
+3437,Greenspan,Eric,NULL,NULL,NULL,NULL
+3438,Renfro,Lane,NULL,NULL,NULL,NULL
+3439,Capurso,Michael Phillip,NULL,NULL,NULL,NULL
+3442,Avery,Tim,NULL,NULL,NULL,NULL
 3443,Meyer,Ken,Jr.,NULL,NULL,NULL
-3444,Lumsden,Lee,null,NULL,NULL,NULL
-3445,Tartaglia,Glenn,null,NULL,NULL,NULL
-3447,Colson,Bill,null,NULL,NULL,NULL
-3448,Sussman,Danny,null,NULL,NULL,NULL
-3449,Armstrong,Hudson,null,NULL,NULL,NULL
-3450,Vitone,Richard,null,NULL,NULL,NULL
-3451,Raisch,Jeffrey,null,NULL,NULL,NULL
-3452,Smey,Jim,null,NULL,NULL,NULL
-3453,Smith,Jim,null,NULL,NULL,NULL
-3454,Paine,Ernie,null,NULL,NULL,NULL
+3444,Lumsden,Lee,NULL,NULL,NULL,NULL
+3445,Tartaglia,Glenn,NULL,NULL,NULL,NULL
+3447,Colson,Bill,NULL,NULL,NULL,NULL
+3448,Sussman,Danny,NULL,NULL,NULL,NULL
+3449,Armstrong,Hudson,NULL,NULL,NULL,NULL
+3450,Vitone,Richard,NULL,NULL,NULL,NULL
+3451,Raisch,Jeffrey,NULL,NULL,NULL,NULL
+3452,Smey,Jim,NULL,NULL,NULL,NULL
+3453,Smith,Jim,NULL,NULL,NULL,NULL
+3454,Paine,Ernie,NULL,NULL,NULL,NULL

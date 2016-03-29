@@ -203,7 +203,7 @@ def main():
 
     # perform and save the name to gender analysis
     cobraGenderResultsDf = gender_analysis(cobraDf, namesDf)
-    cobraGenderResultsDf.to_csv(genderAnalysisFile)
+    cobraGenderResultsDf.to_csv(genderAnalysisFile,na_rep='NULL')
 
 if __name__ == "__main__":
     main()

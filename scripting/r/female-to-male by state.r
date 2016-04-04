@@ -17,6 +17,7 @@ states.shp <- readShapeSpatial("states.shp") #Import states shape file
 
 ## Filter state counts by m/f
 gender <- gender.clean %>%
+    distinct(id_person_dim) %>%
     group_by(state, m_f) %>%
     summarize(count = n()) %>%
     filter(m_f %in% c("M", "F"), #Filter by gender

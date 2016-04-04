@@ -47,7 +47,7 @@ graph <- ggplot() + #basic plot
                  aes(x = long, y = lat, group = group, fill = proportion), 
                  color = "white", size = 0.25) + 
     coord_map() +
-    scale_fill_distiller(name="Proportion", palette = "Spectral", breaks = pretty_breaks(n = 5)) +
+    scale_fill_distiller(name="Proportion", palette = "Reds", breaks = pretty_breaks(n = 5), direction = 1) +
     theme_nothing(legend = TRUE) +
     labs(title="Highest proportion of female-to-male letter writers in the United States")
 

@@ -11,8 +11,9 @@ library(maptools)
 library(scales)
 library(RColorBrewer)
 
-#### Read csv ####
+#### Import files ####
 gender.clean <- read.csv(text = getURL("https://raw.githubusercontent.com/ivmooc-cobra2/project/4503d38c79e5bfb8479273738e5df92e093095d9/data/cleaned/relations.csv"))
+states.shp <- readShapeSpatial("states.shp") #Import states shape file
 
 ## Filter state counts by m/f
 gender <- gender.clean %>%
@@ -36,7 +37,6 @@ gender.prop <- gender.prop[match(states.shp$STATE_ABBR, gender.prop$State),]
 glimpse(gender.prop) #Double check
 
 #### Visualize ####
-states.shp <- readShapeSpatial("states.shp") #Import states shape file
 map.data <- data.frame(states=gender.prop$State, id=states.shp$STATE_FIPS, proportion=gender.prop$'Female:Male proportion') #Input data to plot on map
 states.shp.f <- fortify(states.shp, region = "STATE_FIPS") #fortify shape file
 merge.shp.coef<-merge(states.shp.f, map.data, by="id", all.x=TRUE) #merge with coefficients and reorder
